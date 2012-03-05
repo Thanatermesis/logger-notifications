@@ -1,2 +1,149 @@
 -------- lun mar  5 17:07:15 CET 2012 --------
 /tmp/logs
+-------- lun mar  5 17:08:08 CET 2012 --------
+./
+dists/wheezy/
+dists/wheezy/Contents-i386
+dists/wheezy/Contents-i386.gz
+dists/wheezy/InRelease
+dists/wheezy/Release
+dists/wheezy/Release.gpg
+dists/wheezy/efl/binary-i386/
+dists/wheezy/efl/binary-i386/Packages
+dists/wheezy/efl/binary-i386/Packages.gz
+pool/efl/e/e17/
+deleting pool/efl/e/e17/efl-dev_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/e17/e17_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/e17/e17-doc_2.0+svn68648-3wheezy1_all.deb
+deleting pool/efl/e/e17/e17-dev_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/e17/e17-dbg_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/e17/e17-data_2.0+svn68648-3wheezy1_all.deb
+pool/efl/e/e17/e17-data_2.0+svn68717-3wheezy1_all.deb
+pool/efl/e/e17/e17-dbg_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/e17/e17-dev_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/e17/e17-doc_2.0+svn68717-3wheezy1_all.deb
+pool/efl/e/e17/e17_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/e17/efl-dev_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/ecore/
+deleting pool/efl/e/ecore/libecore1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/ecore/libecore1-dbg_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/ecore/libecore-x1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/ecore/libecore-ipc1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/ecore/libecore-input1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/ecore/libecore-imf1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/ecore/libecore-file1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/ecore/libecore-fb1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/ecore/libecore-evas1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/ecore/libecore-doc_2.0+svn68648-3wheezy1_all.deb
+deleting pool/efl/e/ecore/libecore-dev_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/ecore/libecore-con1_2.0+svn68648-3wheezy1_i386.deb
+pool/efl/e/ecore/libecore-con1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/ecore/libecore-dev_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/ecore/libecore-doc_2.0+svn68717-3wheezy1_all.deb
+pool/efl/e/ecore/libecore-evas1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/ecore/libecore-fb1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/ecore/libecore-file1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/ecore/libecore-imf1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/ecore/libecore-input1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/ecore/libecore-ipc1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/ecore/libecore-x1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/ecore/libecore1-dbg_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/ecore/libecore1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/edbus/
+deleting pool/efl/e/edbus/libedbus1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/edbus/libedbus1-dbg_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/edbus/libedbus-doc_2.0+svn68648-3wheezy1_all.deb
+deleting pool/efl/e/edbus/libedbus-dev_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/edbus/libedbus-bin_2.0+svn68648-3wheezy1_i386.deb
+pool/efl/e/edbus/libedbus-bin_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/edbus/libedbus-dev_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/edbus/libedbus-doc_2.0+svn68717-3wheezy1_all.deb
+pool/efl/e/edbus/libedbus1-dbg_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/edbus/libedbus1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/edje/
+deleting pool/efl/e/edje/libedje1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/edje/libedje1-dbg_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/edje/libedje-doc_2.0+svn68648-3wheezy1_all.deb
+deleting pool/efl/e/edje/libedje-dev_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/edje/libedje-bin_2.0+svn68648-3wheezy1_i386.deb
+pool/efl/e/edje/libedje-bin_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/edje/libedje-dev_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/edje/libedje-doc_2.0+svn68717-3wheezy1_all.deb
+pool/efl/e/edje/libedje1-dbg_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/edje/libedje1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/eet/
+deleting pool/efl/e/eet/libeet1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/eet/libeet1-dbg_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/eet/libeet-doc_2.0+svn68648-3wheezy1_all.deb
+deleting pool/efl/e/eet/libeet-dev_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/eet/libeet-bin_2.0+svn68648-3wheezy1_i386.deb
+pool/efl/e/eet/libeet-bin_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/eet/libeet-dev_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/eet/libeet-doc_2.0+svn68717-3wheezy1_all.deb
+pool/efl/e/eet/libeet1-dbg_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/eet/libeet1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/eeze/
+deleting pool/efl/e/eeze/libeeze1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/eeze/libeeze1-dbg_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/eeze/libeeze-doc_2.0+svn68648-3wheezy1_all.deb
+deleting pool/efl/e/eeze/libeeze-dev_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/eeze/libeeze-bin_2.0+svn68648-3wheezy1_i386.deb
+pool/efl/e/eeze/libeeze-bin_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/eeze/libeeze-dev_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/eeze/libeeze-doc_2.0+svn68717-3wheezy1_all.deb
+pool/efl/e/eeze/libeeze1-dbg_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/eeze/libeeze1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/efreet/
+deleting pool/efl/e/efreet/libefreet1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/efreet/libefreet1-dbg_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/efreet/libefreet-doc_2.0+svn68648-3wheezy1_all.deb
+deleting pool/efl/e/efreet/libefreet-dev_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/efreet/libefreet-bin_2.0+svn68648-3wheezy1_i386.deb
+pool/efl/e/efreet/libefreet-bin_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/efreet/libefreet-dev_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/efreet/libefreet-doc_2.0+svn68717-3wheezy1_all.deb
+pool/efl/e/efreet/libefreet1-dbg_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/efreet/libefreet1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/eina/
+deleting pool/efl/e/eina/libeina1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/eina/libeina1-dbg_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/eina/libeina-doc_2.0+svn68648-3wheezy1_all.deb
+deleting pool/efl/e/eina/libeina-dev_2.0+svn68648-3wheezy1_i386.deb
+pool/efl/e/eina/libeina-dev_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/eina/libeina-doc_2.0+svn68717-3wheezy1_all.deb
+pool/efl/e/eina/libeina1-dbg_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/eina/libeina1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/embryo/
+deleting pool/efl/e/embryo/libembryo1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/embryo/libembryo1-dbg_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/embryo/libembryo-doc_2.0+svn68648-3wheezy1_all.deb
+deleting pool/efl/e/embryo/libembryo-dev_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/embryo/libembryo-bin_2.0+svn68648-3wheezy1_i386.deb
+pool/efl/e/embryo/libembryo-bin_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/embryo/libembryo-dev_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/embryo/libembryo-doc_2.0+svn68717-3wheezy1_all.deb
+pool/efl/e/embryo/libembryo1-dbg_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/embryo/libembryo1_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/evas/
+deleting pool/efl/e/evas/libevas1_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/evas/libevas1-engines-x_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/evas/libevas1-engines-wayland_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/evas/libevas1-engines-core_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/evas/libevas1-engine-fb_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/evas/libevas1-dbg_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/evas/libevas-doc_2.0+svn68648-3wheezy1_all.deb
+deleting pool/efl/e/evas/libevas-dev_2.0+svn68648-3wheezy1_i386.deb
+deleting pool/efl/e/evas/libevas-bin_2.0+svn68648-3wheezy1_i386.deb
+pool/efl/e/evas/libevas-bin_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/evas/libevas-dev_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/evas/libevas-doc_2.0+svn68717-3wheezy1_all.deb
+pool/efl/e/evas/libevas1-dbg_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/evas/libevas1-engine-fb_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/evas/libevas1-engines-core_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/evas/libevas1-engines-wayland_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/evas/libevas1-engines-x_2.0+svn68717-3wheezy1_i386.deb
+pool/efl/e/evas/libevas1_2.0+svn68717-3wheezy1_i386.deb
+
+sent 46534750 bytes  received 6414 bytes  8462029.82 bytes/sec
+total size is 2494896875  speedup is 53.61
+Complete
