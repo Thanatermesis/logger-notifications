@@ -9227,3 +9227,16 @@ libecomp-dev_3.0+git201210030524+8060a10-3wheezy1_i386.deb
 -------- lun oct 15 16:00:23 CEST 2012 --------
 emodule-productivity_3.0+git201210151302+6818d12-3wheezy1_i386.deb
 emodule-productivity-data_3.0+git201210151302+6818d12-3wheezy1_all.deb
+
+
+
+-------- mié oct 17 15:44:37 CEST 2012 --------
+emodule-ecomorph_3.0+git201210171447+a862c24-3wheezy1_i386.deb
+emodule-ecomorph-data_3.0+git201210171447+a862c24-3wheezy1_all.deb
+emodule-productivity_3.0+git201210171458+6818d12-3wheezy1_i386.deb
+emodule-productivity-data_3.0+git201210171458+6818d12-3wheezy1_all.deb
+libecomp1_3.0+git201210171457+ee141aa-3wheezy1_i386.deb
+libecomp1-dbg_3.0+git201210171457+ee141aa-3wheezy1_i386.deb
+libecomp-bin_3.0+git201210171457+ee141aa-3wheezy1_i386.deb
+libecomp-data_3.0+git201210171457+ee141aa-3wheezy1_all.deb
+libecomp-dev_3.0+git201210171457+ee141aa-3wheezy1_i386.deb
