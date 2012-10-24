@@ -9266,3 +9266,17 @@ elive-tools_3.0+git201210220402+c170f07-3wheezy1_all.deb
 
 -------- mar oct 23 07:08:38 CEST 2012 --------
 elive-tools_3.0+git201210230708+0725a88-3wheezy1_all.deb
+
+
+
+-------- mié oct 24 21:24:10 CEST 2012 --------
+elive-tools_3.0+git201210242052+df157c8-3wheezy1_all.deb
+emodule-ecomorph_3.0+git201210242011+6292454-3wheezy1_i386.deb
+emodule-ecomorph-data_3.0+git201210242011+6292454-3wheezy1_all.deb
+emodule-productivity_3.0+git201210242010+6818d12-3wheezy1_i386.deb
+emodule-productivity-data_3.0+git201210242010+6818d12-3wheezy1_all.deb
+libecomp1_3.0+git201210242010+6a2b938-3wheezy1_i386.deb
+libecomp1-dbg_3.0+git201210242010+6a2b938-3wheezy1_i386.deb
+libecomp-bin_3.0+git201210242010+6a2b938-3wheezy1_i386.deb
+libecomp-data_3.0+git201210242010+6a2b938-3wheezy1_all.deb
+libecomp-dev_3.0+git201210242010+6a2b938-3wheezy1_i386.deb
