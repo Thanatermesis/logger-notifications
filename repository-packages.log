@@ -10832,3 +10832,21 @@ libeweather1-dbg_3.0+r79294-3wheezy1_i386.deb
 libeweather-bin_3.0+r79294-3wheezy1_i386.deb
 libeweather-data_3.0+r79294-3wheezy1_all.deb
 libeweather-dev_3.0+r79294-3wheezy1_i386.deb
+
+
+
+-------- mié nov 14 20:00:25 CET 2012 --------
+eliveinstaller-5g_3.0+git201211141937-3wheezy1_all.deb
+eltrans_3.0+git201211141937-3wheezy1_all.deb
+hebernate_3.0+git201211141938-3wheezy1_all.deb
+inxi_3.0+r1681-3wheezy1_all.deb
+libthunarx-2-0_1.2.3-4_i386.deb
+libthunarx-2-dev_1.2.3-4_i386.deb
+smb-admin_3.0+git201211141939-3wheezy1_i386.deb
+smb-browser_3.0+git201211141939-3wheezy1_i386.deb
+thunar_1.2.3-4_i386.deb
+thunar-audio-converter_3.0+git201211141941-3wheezy1_all.deb
+thunar-data_1.2.3-4_all.deb
+thunar-dbg_1.2.3-4_i386.deb
+tovid-svn_3.0+r3493-3wheezy1_i386.deb
+warning-messages_3.0+git201211141942-3wheezy1_all.deb
