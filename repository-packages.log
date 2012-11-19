@@ -11030,3 +11030,17 @@ elive-tools_3.0+git201211162021-3wheezy1_all.deb
 -------- vie nov 16 23:53:11 CET 2012 --------
 live-build_3.0~a67-1_all.deb
 live-build-cgi_3.0~a67-1_all.deb
+
+
+
+-------- lun nov 19 16:00:25 CET 2012 --------
+elive-security_3.0_all.deb
+elive-tools_3.0+git201211191252-3wheezy1_all.deb
+live-boot_3.0~b7-1_all.deb
+live-boot-doc_3.0~b7-1_all.deb
+live-boot-initramfs-tools_3.0~b7-1_all.deb
+live-config_3.0.12-1_all.deb
+live-config-doc_3.0.12-1_all.deb
+live-config-systemd_3.0.12-1_all.deb
+live-config-sysvinit_3.0.12-1_all.deb
+live-config-upstart_3.0.12-1_all.deb
