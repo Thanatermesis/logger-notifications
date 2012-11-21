@@ -11144,3 +11144,26 @@ efl-dbg_3.0+r79471-3wheezy1_i386.deb
 efl-dev_3.0+r79471-3wheezy1_i386.deb
 efl-doc_3.0+r79471-3wheezy1_i386.deb
 eliveinstaller-5g_3.0+git201211201404-3wheezy1_all.deb
+
+
+
+-------- mié nov 21 16:07:22 CET 2012 --------
+apport_2.6.2-1_all.deb
+apport-gtk_2.6.2-1_all.deb
+apport-kde_2.6.2-1_all.deb
+apport-retrace_2.6.2-1_all.deb
+dh-apport_2.6.2-1_all.deb
+e17_3.0+r79481-3wheezy1_i386.deb
+e17-data_3.0+r79481-3wheezy1_all.deb
+e17-dbg_3.0+r79481-3wheezy1_i386.deb
+e17-dev_3.0+r79481-3wheezy1_i386.deb
+e17-doc_3.0+r79481-3wheezy1_all.deb
+efl-all_3.0+r79481-3wheezy1_i386.deb
+efl-dbg_3.0+r79481-3wheezy1_i386.deb
+efl-dev_3.0+r79481-3wheezy1_i386.deb
+efl-doc_3.0+r79481-3wheezy1_i386.deb
+elive-tools_3.0+git201211210218-3wheezy1_all.deb
+python3-apport_2.6.2-1_all.deb
+python3-problem-report_2.6.2-1_all.deb
+python-apport_2.6.2-1_all.deb
+python-problem-report_2.6.2-1_all.deb
