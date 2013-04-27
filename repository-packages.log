@@ -19401,3 +19401,14 @@ live-config-upstart_3.0.21-1_all.deb
 
 -------- sáb abr 27 02:31:00 CEST 2013 --------
 elive-tools_2.1.37+git201304270030+83ab-4_all.deb
+
+
+
+-------- sáb abr 27 06:27:53 CEST 2013 --------
+deliver_2.1.37+git201304270426+92dd-3_all.deb
+elive-tools_2.1.37+git201304270305+2c6b-4_all.deb
+live-config_3.0.21-1_all.deb
+live-config-doc_3.0.21-1_all.deb
+live-config-systemd_3.0.21-1_all.deb
+live-config-sysvinit_3.0.21-1_all.deb
+live-config-upstart_3.0.21-1_all.deb
