@@ -20644,3 +20644,13 @@ elive-tools_2.1.42+git201306050154+ac4d-4_all.deb
 elive-tools_2.1.42+git201306052322+5273-4_all.deb
 zenity_3.4.0-2_i386.deb
 zenity-common_3.4.0-2_all.deb
+
+
+
+-------- jue jun  6 04:13:48 CEST 2013 --------
+emodule-internet_2.1.42+git201306060212+bee9-2_i386.deb
+emodule-internet-data_2.1.42+git201306060212+bee9-2_all.deb
+libnm-gtk0_0.9.4.1-5_i386.deb
+libnm-gtk-common_0.9.4.1-5_all.deb
+libnm-gtk-dev_0.9.4.1-5_i386.deb
+network-manager-gnome_0.9.4.1-5_i386.deb
