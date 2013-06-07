@@ -20665,3 +20665,25 @@ thermal-daemon_2.1.42+git201306060405+eac7-2_i386.deb
 -------- vie jun  7 00:41:21 CEST 2013 --------
 vim-colorscheme-elive_2.1.42+git201306062236+798c-1_all.deb
 vim-common_7.3.547-7_i386.deb
+
+
+
+-------- vie jun  7 04:11:10 CEST 2013 --------
+e17_0.17.3+git201306062307+3336-3_i386.deb
+e17-conf_2.1.42+git201306070037+5637-1_all.deb
+e17-data_0.17.3+git201306062307+3336-3_all.deb
+e17-dbg_0.17.3+git201306062307+3336-3_i386.deb
+e17-dev_0.17.3+git201306062307+3336-3_i386.deb
+e17-doc_0.17.3+git201306062307+3336-3_all.deb
+e17-stable_2.1.42+git201306062314+3336-1_i386.deb
+e17-stable-data_2.1.42+git201306062314+3336-1_all.deb
+e17-stable-dbg_2.1.42+git201306062314+3336-1_i386.deb
+e17-stable-dev_2.1.42+git201306062314+3336-1_i386.deb
+e17-stable-doc_2.1.42+git201306062314+3336-1_all.deb
+efl-all_0.17.3+git201306062307+3336-3_i386.deb
+efl-dbg_0.17.3+git201306062307+3336-3_i386.deb
+efl-dev_0.17.3+git201306062307+3336-3_i386.deb
+efl-doc_0.17.3+git201306062307+3336-3_i386.deb
+elive-daemons_2.1.42+git201306070100+87d2-3_all.deb
+libefl1_0.17.3+git201306062307+3336-3_i386.deb
+vim-colorscheme-elive_2.1.42+git201306070157+fd88-1_all.deb
