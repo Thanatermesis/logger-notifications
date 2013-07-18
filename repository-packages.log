@@ -21890,3 +21890,26 @@ libevas1-engines-x_1.7.7.2.git201307171607+44a3-29_i386.deb
 libevas-bin_1.7.7.2.git201307171607+44a3-29_i386.deb
 libevas-dev_1.7.7.2.git201307171607+44a3-29_i386.deb
 libevas-doc_1.7.7.2.git201307171607+44a3-29_all.deb
+
+
+
+-------- jue jul 18 18:20:50 CEST 2013 --------
+firmware-adi_0.39_all.deb
+firmware-atheros_0.39_all.deb
+firmware-bnx2_0.39_all.deb
+firmware-bnx2x_0.39_all.deb
+firmware-brcm80211_0.39_all.deb
+firmware-intelwimax_0.39_all.deb
+firmware-ipw2x00_0.39_all.deb
+firmware-ivtv_0.39_all.deb
+firmware-iwlwifi_0.39_all.deb
+firmware-libertas_0.39_all.deb
+firmware-linux_0.39_all.deb
+firmware-linux-nonfree_0.39_all.deb
+firmware-myricom_0.39_all.deb
+firmware-netxen_0.39_all.deb
+firmware-qlogic_0.39_all.deb
+firmware-ralink_0.39_all.deb
+firmware-realtek_0.39_all.deb
+live-build_3.0.5-1_all.deb
+live-build-cgi_3.0.5-1_all.deb
