@@ -21941,3 +21941,15 @@ e17-stable-doc_0.17+git201307191013+b303-1_all.deb
 
 -------- sáb jul 20 00:07:22 CEST 2013 --------
 elive-daemons_2.1.54+git201307192206+1348-3_all.deb
+
+
+
+-------- dom jul 28 12:21:15 CEST 2013 --------
+e17-stable-data_0.17+git201307281004+c679-1_all.deb
+e17-stable-dbg_0.17+git201307281004+c679-1_i386.deb
+libelementary1_1.7.7.2.git201307280957+f95f-9_i386.deb
+libelementary1-dbg_1.7.7.2.git201307280957+f95f-9_i386.deb
+libelementary-bin_1.7.7.2.git201307280957+f95f-9_i386.deb
+libelementary-data_1.7.7.2.git201307280957+f95f-9_all.deb
+libelementary-dev_1.7.7.2.git201307280957+f95f-9_i386.deb
+r8168-dkms_8.036.00-2_all.deb
