@@ -22198,3 +22198,24 @@ libevas-generic-loaders1-dbg_1.7.7.2.git201308022209+3f91-4_i386.deb
 
 -------- sáb ago 10 15:19:37 CEST 2013 --------
 scite_3.0.2-3_i386.deb
+
+
+
+-------- sáb ago 10 18:17:19 CEST 2013 --------
+firmware-adi_0.40_all.deb
+firmware-atheros_0.40_all.deb
+firmware-bnx2_0.40_all.deb
+firmware-bnx2x_0.40_all.deb
+firmware-brcm80211_0.40_all.deb
+firmware-intelwimax_0.40_all.deb
+firmware-ipw2x00_0.40_all.deb
+firmware-ivtv_0.40_all.deb
+firmware-iwlwifi_0.40_all.deb
+firmware-libertas_0.40_all.deb
+firmware-linux_0.40_all.deb
+firmware-linux-nonfree_0.40_all.deb
+firmware-myricom_0.40_all.deb
+firmware-netxen_0.40_all.deb
+firmware-qlogic_0.40_all.deb
+firmware-ralink_0.40_all.deb
+firmware-realtek_0.40_all.deb
