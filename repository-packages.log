@@ -22307,3 +22307,19 @@ libevas1-engines-x_1.7.7.2.git201308151632+41aa-29_i386.deb
 libevas-bin_1.7.7.2.git201308151632+41aa-29_i386.deb
 libevas-dev_1.7.7.2.git201308151632+41aa-29_i386.deb
 libevas-doc_1.7.7.2.git201308151632+41aa-29_all.deb
+
+
+
+-------- sáb ago 17 02:22:32 CEST 2013 --------
+elive-tools_2.1.54+git201308170004+dbce-4_all.deb
+libthunarx-2-0_1.2.3-4+b1_i386.deb
+libthunarx-2-dev_1.2.3-4+b1_i386.deb
+live-config_3.0.23-1_all.deb
+live-config-doc_3.0.23-1_all.deb
+live-config-systemd_3.0.23-1_all.deb
+live-config-sysvinit_3.0.23-1_all.deb
+live-config-upstart_3.0.23-1_all.deb
+thunar_1.2.3-4+b1_i386.deb
+thunar-data_1.2.3-4_all.deb
+thunar-dbg_1.2.3-4+b1_i386.deb
+warning-messages_2.1.54+git201308170013+15ad-1_all.deb
