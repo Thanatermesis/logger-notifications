@@ -22771,3 +22771,16 @@ e16-data_2.1.54+git201309231013+6703-3_i386.deb
 e17-plain_0.17+git201309202335+77b2-1_i386.deb
 e17-plain-data_0.17+git201309202335+77b2-1_all.deb
 e17-plain-dbg_0.17+git201309202335+77b2-1_i386.deb
+
+
+
+-------- lun sep 23 18:17:28 CEST 2013 --------
+libevas1_1.7.8+git201309231610+50b1-29_i386.deb
+libevas1-dbg_1.7.8+git201309231610+50b1-29_i386.deb
+libevas1-engine-fb_1.7.8+git201309231610+50b1-29_i386.deb
+libevas1-engines-core_1.7.8+git201309231610+50b1-29_i386.deb
+libevas1-engines-wayland_1.7.8+git201309231610+50b1-29_i386.deb
+libevas1-engines-x_1.7.8+git201309231610+50b1-29_i386.deb
+libevas-bin_1.7.8+git201309231610+50b1-29_i386.deb
+libevas-dev_1.7.8+git201309231610+50b1-29_i386.deb
+libevas-doc_1.7.8+git201309231610+50b1-29_all.deb
