@@ -22913,3 +22913,14 @@ inxi_2.1.54+2055-1_all.deb
 -------- jue oct 17 16:27:17 CEST 2013 --------
 vim-colorscheme-elive_2.1.54+git201310171426+b2a9-1_all.deb
 vim-common_7.3.547-7_i386.deb
+
+
+
+-------- jue oct 17 18:17:56 CEST 2013 --------
+elive-daemons_2.1.54+git201310171524+196f-3_all.deb
+libefx1_1.7.8+git201310171611+fd05-4_i386.deb
+libefx1-dbg_1.7.8+git201310171611+fd05-4_i386.deb
+libefx-bin_1.7.8+git201310171611+fd05-4_i386.deb
+libefx-dev_1.7.8+git201310171611+fd05-4_i386.deb
+r8168-dkms_8.037.00-1_all.deb
+vim-colorscheme-elive_2.1.54+git201310171616+f6a3-1_all.deb
