@@ -22924,3 +22924,17 @@ libefx-bin_1.7.8+git201310171611+fd05-4_i386.deb
 libefx-dev_1.7.8+git201310171611+fd05-4_i386.deb
 r8168-dkms_8.037.00-1_all.deb
 vim-colorscheme-elive_2.1.54+git201310171616+f6a3-1_all.deb
+
+
+
+-------- vie oct 18 18:15:12 CEST 2013 --------
+elive-tools_2.1.55+git201310181609+02cc-4_all.deb
+libevas1_1.7.8+git201310181606+a56f-29_i386.deb
+libevas1-dbg_1.7.8+git201310181606+a56f-29_i386.deb
+libevas1-engine-fb_1.7.8+git201310181606+a56f-29_i386.deb
+libevas1-engines-core_1.7.8+git201310181606+a56f-29_i386.deb
+libevas1-engines-wayland_1.7.8+git201310181606+a56f-29_i386.deb
+libevas1-engines-x_1.7.8+git201310181606+a56f-29_i386.deb
+libevas-bin_1.7.8+git201310181606+a56f-29_i386.deb
+libevas-dev_1.7.8+git201310181606+a56f-29_i386.deb
+libevas-doc_1.7.8+git201310181606+a56f-29_all.deb
