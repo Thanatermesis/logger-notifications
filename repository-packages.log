@@ -23093,3 +23093,23 @@ libevas-generic-loaders1-dbg_1.7.9+git201311051709+73d1-4_i386.deb
 
 -------- mié nov  6 00:05:10 CET 2013 --------
 inxi_2.1.56+2056-1_all.deb
+
+
+
+-------- jue nov  7 18:22:19 CET 2013 --------
+e17-plain_0.17+git201311071710+5cab-1_i386.deb
+e17-plain-data_0.17+git201311071710+5cab-1_all.deb
+e17-plain-dbg_0.17+git201311071710+5cab-1_i386.deb
+elive-daemons_2.1.56+git201311071149+781d-3_all.deb
+libecore1_1.7.9+git201311071706+4e42-16_i386.deb
+libecore1-dbg_1.7.9+git201311071706+4e42-16_i386.deb
+libecore-con1_1.7.9+git201311071706+4e42-16_i386.deb
+libecore-dev_1.7.9+git201311071706+4e42-16_i386.deb
+libecore-doc_1.7.9+git201311071706+4e42-16_all.deb
+libecore-evas1_1.7.9+git201311071706+4e42-16_i386.deb
+libecore-fb1_1.7.9+git201311071706+4e42-16_i386.deb
+libecore-file1_1.7.9+git201311071706+4e42-16_i386.deb
+libecore-imf1_1.7.9+git201311071706+4e42-16_i386.deb
+libecore-input1_1.7.9+git201311071706+4e42-16_i386.deb
+libecore-ipc1_1.7.9+git201311071706+4e42-16_i386.deb
+libecore-x1_1.7.9+git201311071706+4e42-16_i386.deb
