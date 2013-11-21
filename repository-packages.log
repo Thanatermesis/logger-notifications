@@ -23151,3 +23151,21 @@ libeina1_1.7.9+git201311211107+ba42-27_i386.deb
 libeina1-dbg_1.7.9+git201311211107+ba42-27_i386.deb
 libeina-dev_1.7.9+git201311211107+ba42-27_i386.deb
 libeina-doc_1.7.9+git201311211107+ba42-27_all.deb
+
+
+
+-------- jue nov 21 18:14:33 CET 2013 --------
+libefreet1_1.7.9+git201311211708+2f66-7_i386.deb
+libefreet1-dbg_1.7.9+git201311211708+2f66-7_i386.deb
+libefreet-bin_1.7.9+git201311211708+2f66-7_i386.deb
+libefreet-dev_1.7.9+git201311211708+2f66-7_i386.deb
+libefreet-doc_1.7.9+git201311211708+2f66-7_all.deb
+libevas1_1.7.9+git201311211705+c1ff-29_i386.deb
+libevas1-dbg_1.7.9+git201311211705+c1ff-29_i386.deb
+libevas1-engine-fb_1.7.9+git201311211705+c1ff-29_i386.deb
+libevas1-engines-core_1.7.9+git201311211705+c1ff-29_i386.deb
+libevas1-engines-wayland_1.7.9+git201311211705+c1ff-29_i386.deb
+libevas1-engines-x_1.7.9+git201311211705+c1ff-29_i386.deb
+libevas-bin_1.7.9+git201311211705+c1ff-29_i386.deb
+libevas-dev_1.7.9+git201311211705+c1ff-29_i386.deb
+libevas-doc_1.7.9+git201311211705+c1ff-29_all.deb
