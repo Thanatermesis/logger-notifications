@@ -24799,3 +24799,46 @@ e18-plain-doc_2.1.57+git201312212307+7475-1_all.deb
 
 -------- dom dic 22 12:06:38 CET 2013 --------
 thermal-daemon_2.1.57+git201312221105+e15b-2_i386.deb
+
+
+
+-------- sáb dic 28 01:19:27 CET 2013 --------
+e18-plain_2.1.57+git201312272319+28b1-1_i386.deb
+e18-plain-data_2.1.57+git201312272319+28b1-1_all.deb
+e18-plain-dbg_2.1.57+git201312272319+28b1-1_i386.deb
+e18-plain-dev_2.1.57+git201312272319+28b1-1_i386.deb
+e18-plain-doc_2.1.57+git201312272319+28b1-1_all.deb
+ecrire_2.1.57+git201312272326+d20f-2_i386.deb
+ecrire-data_2.1.57+git201312272326+d20f-2_all.deb
+emodule-alarm_2.1.57+git201312272327+b073-1_i386.deb
+emodule-alarm-data_2.1.57+git201312272327+b073-1_all.deb
+emodule-everything-places_2.1.57+git201312272327+d64a-2_i386.deb
+emodule-everything-places-data_2.1.57+git201312272327+d64a-2_all.deb
+emodule-everything-websearch_2.1.57+git201312272328+88e4-3_i386.deb
+emodule-everything-websearch-data_2.1.57+git201312272328+88e4-3_all.deb
+emodule-eweather_2.1.57+git201312272329+c86c-2_i386.deb
+emodule-eweather-data_2.1.57+git201312272329+c86c-2_all.deb
+emodule-forecasts_2.1.57+git201312272330+0b8e-1_i386.deb
+emodule-forecasts-data_2.1.57+git201312272330+0b8e-1_all.deb
+emodule-mail_2.1.57+git201312272331+8b01-1_i386.deb
+emodule-mail-data_2.1.57+git201312272331+8b01-1_all.deb
+emodule-net_2.1.57+git201312272332+e056-1_i386.deb
+emodule-net-data_2.1.57+git201312272332+e056-1_all.deb
+emodule-penguins_2.1.57+git201312272332+816c-1_i386.deb
+emodule-penguins-data_2.1.57+git201312272332+816c-1_all.deb
+emodule-photo_2.1.57+git201312272333+07ec-1_i386.deb
+emodule-photo-data_2.1.57+git201312272333+07ec-1_all.deb
+enventor_2.1.57+git201312272334+f753-4_i386.deb
+enventor-data_2.1.57+git201312272334+f753-4_all.deb
+libefl1_1.8.3+git201312272311+225c-8_i386.deb
+libefl1-dbg_1.8.3+git201312272311+225c-8_i386.deb
+libefl-data_1.8.3+git201312272311+225c-8_all.deb
+libefl-dev_1.8.3+git201312272311+225c-8_i386.deb
+libefl-doc_1.8.3+git201312272311+225c-8_all.deb
+libelementary1_1.8.2+git201312272308+824b-10_i386.deb
+libelementary1-dbg_1.8.2+git201312272308+824b-10_i386.deb
+libelementary-bin_1.8.2+git201312272308+824b-10_i386.deb
+libelementary-data_1.8.2+git201312272308+824b-10_all.deb
+libelementary-dev_1.8.2+git201312272308+824b-10_i386.deb
+terminology_2.1.57+git201312272335+ae92-3_i386.deb
+terminology-data_2.1.57+git201312272335+ae92-3_all.deb
