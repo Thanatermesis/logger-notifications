@@ -25616,3 +25616,13 @@ vim-common_7.3.547-7_i386.deb
 -------- lun feb  3 20:56:05 CET 2014 --------
 zsh-elive_2.1.58+git201402031809+5f26-3_all.deb
 zsh-prezto_2.1.58+git201402031810+db26-5_all.deb
+
+
+
+-------- mar feb  4 00:26:38 CET 2014 --------
+e18-plain_2.1.58+git201402032307+87b2-1_i386.deb
+e18-plain-data_2.1.58+git201402032307+87b2-1_all.deb
+e18-plain-dbg_2.1.58+git201402032307+87b2-1_i386.deb
+e18-plain-dev_2.1.58+git201402032307+87b2-1_i386.deb
+e18-plain-doc_2.1.58+git201402032307+87b2-1_all.deb
+thermal-daemon_2.1.58+git201402032311+a93b-2_i386.deb
