@@ -25752,3 +25752,14 @@ calaos-server-dbg_2.1.58+git201402112308+4be8-4_i386.deb
 elive-tools_2.1.58+git201402112319+6d2a-4_all.deb
 terminology_2.1.58+git201402112320+f6a0-6_i386.deb
 terminology-data_2.1.58+git201402112320+f6a0-6_all.deb
+
+
+
+-------- mié feb 12 12:29:55 CET 2014 --------
+expedite_1.7.7.2.git201402121113+3571-4_i386.deb
+expedite-data_1.7.7.2.git201402121113+3571-4_all.deb
+libefl1_1.8.5+git201402121107+5ff5-8_i386.deb
+libefl1-dbg_1.8.5+git201402121107+5ff5-8_i386.deb
+libefl-data_1.8.5+git201402121107+5ff5-8_all.deb
+libefl-dev_1.8.5+git201402121107+5ff5-8_i386.deb
+libefl-doc_1.8.5+git201402121107+5ff5-8_all.deb
