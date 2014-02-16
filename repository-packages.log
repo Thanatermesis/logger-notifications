@@ -25845,3 +25845,12 @@ e16-dbg_2.1.58+1.0.13.004-5_i386.deb
 -------- dom feb 16 18:12:35 CET 2014 --------
 elive-tools_2.1.58+git201402161712+79ab-4_all.deb
 thermal-daemon_2.1.58+git201402161657+56bc-2_i386.deb
+
+
+
+-------- lun feb 17 00:24:57 CET 2014 --------
+calaos_2.1.58+git201402162307+a460-4_all.deb
+calaos-home_2.1.58+git201402162307+a460-4_i386.deb
+calaos-home-dbg_2.1.58+git201402162307+a460-4_i386.deb
+calaos-server_2.1.58+git201402162307+a460-4_i386.deb
+calaos-server-dbg_2.1.58+git201402162307+a460-4_i386.deb
