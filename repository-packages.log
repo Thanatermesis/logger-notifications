@@ -26041,3 +26041,14 @@ eliveinstaller-5g_2.1.58+git201402261648+9b45-5_all.deb
 deliver_2.2.0+git201402270101+a945-4_all.deb
 terminology_2.2.0+git201402270152+4bfc-10_i386.deb
 terminology-data_2.2.0+git201402270152+4bfc-10_all.deb
+
+
+
+-------- jue feb 27 06:08:51 CET 2014 --------
+live-config_3.0.23-1_all.deb
+live-config-doc_3.0.23-1_all.deb
+live-config-systemd_3.0.23-1_all.deb
+live-config-sysvinit_3.0.23-1_all.deb
+live-config-upstart_3.0.23-1_all.deb
+zsh-elive_2.2.0+git201402270456+ca67-4_all.deb
+zsh-prezto_2.2.0+git201402270508+a82f-5_all.deb
