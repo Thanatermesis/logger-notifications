@@ -26140,3 +26140,14 @@ terminology-data_2.2.1+git201403032322+2063-10_all.deb
 
 -------- mar mar  4 06:07:44 CET 2014 --------
 inxi_2.2.1+2068-1_all.deb
+
+
+
+-------- mar mar  4 12:27:08 CET 2014 --------
+calaos_2.2.1+git201403041107+eac1-5_all.deb
+calaos-home_2.2.1+git201403041107+eac1-5_i386.deb
+calaos-home-dbg_2.2.1+git201403041107+eac1-5_i386.deb
+calaos-server_2.2.1+git201403041107+eac1-5_i386.deb
+calaos-server-dbg_2.2.1+git201403041107+eac1-5_i386.deb
+expedite_1.7.7.2.git201403041116+c52f-4_i386.deb
+expedite-data_1.7.7.2.git201403041116+c52f-4_all.deb
