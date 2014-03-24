@@ -27032,3 +27032,14 @@ elive-tools_2.2.1+git201403240025+9924-5_all.deb
 
 -------- lun mar 24 15:20:39 CET 2014 --------
 elive-tools_2.2.1+git201403241420+3d22-5_all.deb
+
+
+
+-------- lun mar 24 18:01:46 CET 2014 --------
+libluajit-5.1-2_2.0.3+dfsg-1_i386.deb
+libluajit-5.1-common_2.0.3+dfsg-1_all.deb
+libluajit-5.1-dev_2.0.3+dfsg-1_i386.deb
+luajit_2.0.3+dfsg-1_i386.deb
+terminology_2.2.1+git201403241623+1261-10_i386.deb
+terminology-data_2.2.1+git201403241623+1261-10_all.deb
+thermal-daemon_2.2.1+git201403241624+48c2-2_i386.deb
