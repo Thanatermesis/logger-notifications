@@ -29346,3 +29346,18 @@ elive-tools_2.2.1+git201404280954+da35-6_all.deb
 
 -------- lun abr 28 13:09:30 CEST 2014 --------
 elive-tools_2.2.1+git201404281108+83ee-6_all.deb
+
+
+
+-------- lun abr 28 13:39:58 CEST 2014 --------
+inxi_2.2.1+2258-1_all.deb
+libelementary1_1.9.3+git201404281116+9696-12_i386.deb
+libelementary1-dbg_1.9.3+git201404281116+9696-12_i386.deb
+libelementary-bin_1.9.3+git201404281116+9696-12_i386.deb
+libelementary-data_1.9.3+git201404281116+9696-12_all.deb
+libelementary-dev_1.9.3+git201404281116+9696-12_i386.deb
+libelementary-doc_1.9.3+git201404281116+9696-12_all.deb
+terminology_2.2.1+git201404281128+5680-10_i386.deb
+terminology-data_2.2.1+git201404281128+5680-10_all.deb
+zsh-elive_2.2.1+git201404281129+7554-4_all.deb
+zsh-prezto_2.2.1+git201404281129+cfa6-5_all.deb
