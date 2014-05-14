@@ -29699,3 +29699,21 @@ eliveinstaller-5g_2.2.1+git201405141218+1d62-5_all.deb
 entrance_2.2.1+git201405141636+a02f-3_i386.deb
 entrance-data_2.2.1+git201405141636+a02f-3_all.deb
 entrance-dbg_2.2.1+git201405141636+a02f-3_i386.deb
+
+
+
+-------- jue may 15 00:38:57 CEST 2014 --------
+eliveinstaller-5g_2.2.1+git201405142036+315b-5_all.deb
+elive-tools_2.2.1+git201405141953+6861-7_all.deb
+entrance_2.2.1+git201405142236+2d37-3_i386.deb
+entrance-data_2.2.1+git201405142236+2d37-3_all.deb
+entrance-dbg_2.2.1+git201405142236+2d37-3_i386.deb
+libharfbuzz1_0.9.28-2_i386.deb
+libharfbuzz1-dbg_0.9.28-2_i386.deb
+libharfbuzz-bin_0.9.28-2_i386.deb
+libharfbuzz-dev_0.9.28-2_i386.deb
+live-config_3.0.23-1_all.deb
+live-config-doc_3.0.23-1_all.deb
+live-config-systemd_3.0.23-1_all.deb
+live-config-sysvinit_3.0.23-1_all.deb
+live-config-upstart_3.0.23-1_all.deb
