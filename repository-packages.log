@@ -31141,3 +31141,28 @@ terminology-data_2.2.8+git201406161035+9f5d-10_all.deb
 -------- lun jun 16 18:36:59 CEST 2014 --------
 eliveinstaller-5g_2.2.8+git201406161636+cdfb-5_all.deb
 upgrade-elive_2.2.8+git201406161207+1a9c-1_all.deb
+
+
+
+-------- mar jun 17 01:11:49 CEST 2014 --------
+firmware-adi_0.43_all.deb
+firmware-atheros_0.43_all.deb
+firmware-bnx2_0.43_all.deb
+firmware-bnx2x_0.43_all.deb
+firmware-brcm80211_0.43_all.deb
+firmware-intelwimax_0.43_all.deb
+firmware-ipw2x00_0.43_all.deb
+firmware-ivtv_0.43_all.deb
+firmware-iwlwifi_0.43_all.deb
+firmware-libertas_0.43_all.deb
+firmware-linux_0.43_all.deb
+firmware-linux-nonfree_0.43_all.deb
+firmware-myricom_0.43_all.deb
+firmware-netxen_0.43_all.deb
+firmware-qlogic_0.43_all.deb
+firmware-ralink_0.43_all.deb
+firmware-realtek_0.43_all.deb
+firmware-samsung_0.43_all.deb
+firmware-ti-connectivity_0.43_all.deb
+gnome-icon-theme_3.4.0-2+201406161847_all.deb
+google-earth-stable_7.1.2.2041-r0_i386.deb
