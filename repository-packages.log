@@ -31282,3 +31282,13 @@ virtualbox-source_4.3.12-dfsg-1~bpo70+1_all.deb
 xserver-xorg-video-nvidia_319.82-1~bpo70+2_i386.deb
 xserver-xorg-video-nvidia-legacy-173xx_173.14.39-2~bpo70+1_i386.deb
 xserver-xorg-video-nvidia-legacy-96xx_96.43.23-7~bpo70+1_i386.deb
+
+
+
+-------- jue jun 19 17:18:31 CEST 2014 --------
+libgl1-nvidia-legacy-304xx-glx_304.121-1~bpo70+1_i386.deb
+nvidia-legacy-304xx-alternative_304.121-1~bpo70+1_i386.deb
+nvidia-legacy-304xx-driver_304.121-1~bpo70+1_i386.deb
+nvidia-legacy-304xx-kernel-dkms_304.121-1~bpo70+1_i386.deb
+nvidia-settings-legacy-304xx_304.116-1~bpo70+1_i386.deb
+xserver-xorg-video-nvidia-legacy-304xx_304.121-1~bpo70+1_i386.deb
