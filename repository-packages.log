@@ -31304,3 +31304,13 @@ eliveinstaller-5g_2.2.8+git201406191638+10e6-5_all.deb
 eliveinstaller-5g_2.2.8+git201406202235+0fff-5_all.deb
 terminology_2.2.8+git201406202236+8c34-10_i386.deb
 terminology-data_2.2.8+git201406202236+8c34-10_all.deb
+
+
+
+-------- sáb jun 21 18:55:01 CEST 2014 --------
+linux-headers-3.14-0.bpo.1-686-pae_3.14.5-1~bpo70+1_i386.deb
+linux-headers-3.14-0.bpo.1-common_3.14.5-1~bpo70+1_i386.deb
+linux-image-3.14-0.bpo.1-686-pae_3.14.5-1~bpo70+1_i386.deb
+linux-support-3.14-0.bpo.1_3.14.5-1~bpo70+1_all.deb
+terminology_2.2.9+git201406211639+7dba-10_i386.deb
+terminology-data_2.2.9+git201406211639+7dba-10_all.deb
