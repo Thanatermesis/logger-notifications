@@ -31355,3 +31355,11 @@ linux-headers-3.14-0.bpo.1-common_3.14.7-1~bpo70+1_i386.deb
 linux-image-3.14-0.bpo.1-686-pae_3.14.7-1~bpo70+1_i386.deb
 linux-libc-dev_3.14.7-1~bpo70+1_i386.deb
 linux-support-3.14-0.bpo.1_3.14.7-1~bpo70+1_all.deb
+
+
+
+-------- mié jun 25 00:40:39 CEST 2014 --------
+linux-support-3.14-0.bpo.1_3.14.7-1~bpo70+1_all.deb
+terminology_2.2.9+git201406242236+9307-10_i386.deb
+terminology-data_2.2.9+git201406242236+9307-10_all.deb
+thermal-daemon_2.2.9+git201406242238+73a4-2_i386.deb
