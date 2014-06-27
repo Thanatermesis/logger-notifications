@@ -31535,3 +31535,13 @@ virtualbox-guest-x11_4.3.12-dfsg-1~bpo70+1_i386.deb
 virtualbox-qt_4.3.12-dfsg-1~bpo70+1_i386.deb
 virtualbox-source_4.3.12-dfsg-1~bpo70+1_all.deb
 zsh-elive_2.3.1+git201406271321+d8e2-4_all.deb
+
+
+
+-------- vie jun 27 20:46:56 CEST 2014 --------
+eliveinstaller-5g_2.3.1+git201406271845+74eb-5_all.deb
+open-vm-tools_9.4.0-1280544-8_i386.deb
+open-vm-tools-dbg_9.4.0-1280544-8_i386.deb
+open-vm-tools-desktop_9.4.0-1280544-8_i386.deb
+open-vm-tools-dev_9.4.0-1280544-8_all.deb
+open-vm-tools-dkms_9.4.0-1280544-8_all.deb
