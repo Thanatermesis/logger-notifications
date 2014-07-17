@@ -31832,3 +31832,38 @@ eliveinstaller-5g_2.3.3+git201407042200+b12c-5_all.deb
 
 -------- sáb jul  5 16:06:46 CEST 2014 --------
 elive-tools_2.3.3+git201407051406+dbb2-8_all.deb
+
+
+
+-------- jue jul 17 13:39:37 CEST 2014 --------
+e17-conf_2.3.3+git201407171001+791e-1_all.deb
+e17-plain_0.17+git201407171003+0be0-2_i386.deb
+e17-plain-data_0.17+git201407171003+0be0-2_all.deb
+e17-plain-dbg_0.17+git201407171003+0be0-2_i386.deb
+e18-plain_2.3.3+git201407171008+82d4-1_i386.deb
+e18-plain-data_2.3.3+git201407171008+82d4-1_all.deb
+e18-plain-dbg_2.3.3+git201407171008+82d4-1_i386.deb
+e18-plain-dev_2.3.3+git201407171008+82d4-1_i386.deb
+e18-plain-doc_2.3.3+git201407171008+82d4-1_all.deb
+emodule-places_2.3.3+git201407171013+6767-2_i386.deb
+emodule-places-data_2.3.3+git201407171013+6767-2_all.deb
+languagetool_2.6-2_all.deb
+libefl1_1.9.5+git201407170944+60c3-15_i386.deb
+libefl1-dbg_1.9.5+git201407170944+60c3-15_i386.deb
+libefl-data_1.9.5+git201407170944+60c3-15_all.deb
+libefl-dev_1.9.5+git201407170944+60c3-15_i386.deb
+libefl-doc_1.9.5+git201407170944+60c3-15_all.deb
+libelementary1_1.9.5+git201407170952+c2a9-14_i386.deb
+libelementary1-dbg_1.9.5+git201407170952+c2a9-14_i386.deb
+libelementary-bin_1.9.5+git201407170952+c2a9-14_i386.deb
+libelementary-data_1.9.5+git201407170952+c2a9-14_all.deb
+libelementary-dev_1.9.5+git201407170952+c2a9-14_i386.deb
+libelementary-doc_1.9.5+git201407170952+c2a9-14_all.deb
+linux-compiler-gcc-4.6-x86_3.14.12-1~bpo70+1_i386.deb
+linux-headers-3.14-0.bpo.1-686-pae_3.14.12-1~bpo70+1_i386.deb
+linux-headers-3.14-0.bpo.1-common_3.14.12-1~bpo70+1_i386.deb
+linux-image-3.14-0.bpo.1-686-pae_3.14.12-1~bpo70+1_i386.deb
+linux-libc-dev_3.14.12-1~bpo70+1_i386.deb
+linux-support-3.14-0.bpo.1_3.14.12-1~bpo70+1_all.deb
+pepperflashplugin-nonfree_1.4_i386.deb
+programmers-kb-layout_2.3.3+git201407171025+9a32-2_all.deb
