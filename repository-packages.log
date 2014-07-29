@@ -31887,3 +31887,36 @@ zsh-elive_2.3.4+git201407241856+af8c-4_all.deb
 
 -------- sáb jul 26 12:30:29 CEST 2014 --------
 google-talkplugin_5.4.2.0-1_i386.deb
+
+
+
+-------- mar jul 29 03:35:58 CEST 2014 --------
+libefl1_1.9.5+git201407282228+60c3-15_i386.deb
+libefl1-dbg_1.9.5+git201407282228+60c3-15_i386.deb
+libefl-data_1.9.5+git201407282228+60c3-15_all.deb
+libefl-dev_1.9.5+git201407282228+60c3-15_i386.deb
+libefl-doc_1.9.5+git201407282228+60c3-15_all.deb
+libelementary1_1.9.5+git201407282236+c2a9-14_i386.deb
+libelementary1-dbg_1.9.5+git201407282236+c2a9-14_i386.deb
+libelementary-bin_1.9.5+git201407282236+c2a9-14_i386.deb
+libelementary-data_1.9.5+git201407282236+c2a9-14_all.deb
+libelementary-dev_1.9.5+git201407282236+c2a9-14_i386.deb
+libelementary-doc_1.9.5+git201407282236+c2a9-14_all.deb
+libeweather1_1.7.8+git201407282225+020f-5_i386.deb
+libeweather1-dbg_1.7.8+git201407282225+020f-5_i386.deb
+libeweather-bin_1.7.8+git201407282225+020f-5_i386.deb
+libeweather-data_1.7.8+git201407282225+020f-5_all.deb
+libeweather-dev_1.7.8+git201407282225+020f-5_i386.deb
+vim_7.4.335-1_i386.deb
+vim-athena_7.4.335-1_i386.deb
+vim-colorscheme-elive_2.3.4+git201407282251+3b7c-2_all.deb
+vim-common_7.4.335-1_i386.deb
+vim-dbg_7.4.335-1_i386.deb
+vim-doc_7.4.335-1_all.deb
+vim-gnome_7.4.335-1_i386.deb
+vim-gtk_7.4.335-1_i386.deb
+vim-gui-common_7.4.335-1_all.deb
+vim-lesstif_7.4.335-1_all.deb
+vim-nox_7.4.335-1_i386.deb
+vim-runtime_7.4.335-1_all.deb
+vim-tiny_7.4.335-1_i386.deb
