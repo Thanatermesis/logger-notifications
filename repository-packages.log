@@ -33674,3 +33674,18 @@ zsh-elive_2.3.5+git201409211327+37de-4_all.deb
 
 -------- dom sep 21 22:02:42 CEST 2014 --------
 zsh-elive_2.3.5+git201409212001+4b23-4_all.deb
+
+
+
+-------- lun sep 22 01:10:34 CEST 2014 --------
+deliver_2.3.5+git201409212118+b7df-7_all.deb
+eflete_2.3.5+git201409212305+c7b4-2_i386.deb
+eflete-data_2.3.5+git201409212305+c7b4-2_all.deb
+elive-daemons_2.3.5+git201409212306+6e62-3_all.deb
+live-config_3.0.23-1_all.deb
+live-config-doc_3.0.23-1_all.deb
+live-config-systemd_3.0.23-1_all.deb
+live-config-sysvinit_3.0.23-1_all.deb
+live-config-upstart_3.0.23-1_all.deb
+terminology_2.3.5+git201409212306+671f-16_i386.deb
+terminology-data_2.3.5+git201409212306+671f-16_all.deb
