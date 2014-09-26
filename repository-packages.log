@@ -33880,3 +33880,10 @@ linux-headers-3.14-0.bpo.2-common_3.14.15-2~bpo70+1_i386.deb
 linux-image-3.14-0.bpo.2-686-pae_3.14.15-2~bpo70+1_i386.deb
 linux-libc-dev_3.14.15-2~bpo70+1_i386.deb
 linux-support-3.14-0.bpo.2_3.14.15-2~bpo70+1_all.deb
+
+
+
+-------- vie sep 26 06:58:34 CEST 2014 --------
+eflete_2.3.6+git201409260455+840e-2_i386.deb
+eflete-data_2.3.6+git201409260455+840e-2_all.deb
+inxi_2.3.6+2572-1_all.deb
