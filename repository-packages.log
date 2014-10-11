@@ -34209,3 +34209,25 @@ libelementary1_1.11.2+git201409241710+d3cb-15_i386.deb
 v4l2loopback-dkms_0.8.0-4_all.deb
 v4l2loopback-source_0.8.0-4_all.deb
 v4l2loopback-utils_0.8.0-4_i386.deb
+
+
+
+-------- sáb oct 11 19:29:21 CEST 2014 --------
+eflete_2.3.8+git201410111701+840e-2_i386.deb
+eflete-data_2.3.8+git201410111701+840e-2_all.deb
+inxi_2.3.8+2576-1_all.deb
+libefl1_1.11.2+git201410111102+fe2c-16_i386.deb
+libefl1-dbg_1.11.2+git201410111102+fe2c-16_i386.deb
+libefl-data_1.11.2+git201410111102+fe2c-16_all.deb
+libefl-dev_1.11.2+git201410111102+fe2c-16_i386.deb
+libefl-doc_1.11.2+git201410111102+fe2c-16_all.deb
+libelementary1_1.11.2+git201410111111+dedc-15_i386.deb
+libelementary1-dbg_1.11.2+git201410111111+dedc-15_i386.deb
+libelementary-bin_1.11.2+git201410111111+dedc-15_i386.deb
+libelementary-data_1.11.2+git201410111111+dedc-15_all.deb
+libelementary-dev_1.11.2+git201410111111+dedc-15_i386.deb
+libelementary-doc_1.11.2+git201410111111+dedc-15_all.deb
+v4l2loopback-dkms_0.8.0-4_all.deb
+v4l2loopback-source_0.8.0-4_all.deb
+v4l2loopback-utils_0.8.0-4_i386.deb
+zsh-prezto_2.3.8+git201410111025+7bf7-5_all.deb
