@@ -34619,3 +34619,24 @@ elive-tools_2.4.0+git201410311934+b568-8_all.deb
 eflete_2.4.0+git201411031112+840e-2_i386.deb
 eflete-data_2.4.0+git201411031112+840e-2_all.deb
 elive-tools_2.4.0+git201411031113+3605-8_all.deb
+
+
+
+-------- mar nov  4 18:30:02 CET 2014 --------
+e19-plain_2.4.0+git201411041712+f937-2_i386.deb
+e19-plain-data_2.4.0+git201411041712+f937-2_all.deb
+e19-plain-dbg_2.4.0+git201411041712+f937-2_i386.deb
+e19-plain-dev_2.4.0+git201411041712+f937-2_i386.deb
+e19-plain-doc_2.4.0+git201411041712+f937-2_all.deb
+eflete_2.4.0+git201411041716+840e-2_i386.deb
+eflete-data_2.4.0+git201411041716+840e-2_all.deb
+inxi_2.4.0+2581-1_all.deb
+libgl1-nvidia-legacy-304xx-glx_304.123-4~bpo70+1_i386.deb
+libgl1-nvidia-legacy-304xx-glx-i386_304.123-4~bpo70+1_i386.deb
+nvidia-legacy-304xx-alternative_304.123-4~bpo70+1_i386.deb
+nvidia-legacy-304xx-driver_304.123-4~bpo70+1_i386.deb
+nvidia-legacy-304xx-kernel-dkms_304.123-4~bpo70+1_i386.deb
+nvidia-legacy-304xx-kernel-source_304.123-4~bpo70+1_i386.deb
+terminology_2.4.0+0.7.0+git201411041727+c0f9-19_i386.deb
+terminology-data_2.4.0+0.7.0+git201411041727+c0f9-19_all.deb
+xserver-xorg-video-nvidia-legacy-304xx_304.123-4~bpo70+1_i386.deb
