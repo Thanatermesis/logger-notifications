@@ -34726,3 +34726,22 @@ elive-tools_2.4.0+git201411061952+86ae-8_all.deb
 -------- jue nov  6 21:09:47 CET 2014 --------
 deliver_2.4.0+git201411062000+b86c-7_all.deb
 elive-tools_2.4.0+git201411062009+52cb-8_all.deb
+
+
+
+-------- vie nov  7 12:46:35 CET 2014 --------
+eflete_2.4.1+git201411071141+840e-2_i386.deb
+eflete-data_2.4.1+git201411071141+840e-2_all.deb
+libefl1_1.11.4+git201411071116+036b-16_i386.deb
+libefl1-dbg_1.11.4+git201411071116+036b-16_i386.deb
+libefl-data_1.11.4+git201411071116+036b-16_all.deb
+libefl-dev_1.11.4+git201411071116+036b-16_i386.deb
+libefl-doc_1.11.4+git201411071116+036b-16_all.deb
+libelementary1_1.11.4+git201411071128+54fa-15_i386.deb
+libelementary1-dbg_1.11.4+git201411071128+54fa-15_i386.deb
+libelementary-bin_1.11.4+git201411071128+54fa-15_i386.deb
+libelementary-data_1.11.4+git201411071128+54fa-15_all.deb
+libelementary-dev_1.11.4+git201411071128+54fa-15_i386.deb
+libelementary-doc_1.11.4+git201411071128+54fa-15_all.deb
+terminology_2.4.1+0.7.0+git201411071143+90a7-19_i386.deb
+terminology-data_2.4.1+0.7.0+git201411071143+90a7-19_all.deb
