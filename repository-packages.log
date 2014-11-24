@@ -35104,3 +35104,23 @@ eliveinstaller-5g_2.4.5+git201411211112+6df3-5_all.deb
 -------- vie nov 21 18:12:18 CET 2014 --------
 eflete_2.4.5+git201411211711+840e-2_i386.deb
 eflete-data_2.4.5+git201411211711+840e-2_all.deb
+
+
+
+-------- lun nov 24 18:43:08 CET 2014 --------
+eflete_2.4.5+git201411241738+840e-2_i386.deb
+eflete-data_2.4.5+git201411241738+840e-2_all.deb
+eliveinstaller-5g_2.4.5+git201411241739+5b9a-5_all.deb
+libefl1_1.12.0+git201411241712+fa39-16_i386.deb
+libefl1-dbg_1.12.0+git201411241712+fa39-16_i386.deb
+libefl-data_1.12.0+git201411241712+fa39-16_all.deb
+libefl-dev_1.12.0+git201411241712+fa39-16_i386.deb
+libefl-doc_1.12.0+git201411241712+fa39-16_all.deb
+libelementary1_1.12.0+git201411241725+009a-15_i386.deb
+libelementary1-dbg_1.12.0+git201411241725+009a-15_i386.deb
+libelementary-bin_1.12.0+git201411241725+009a-15_i386.deb
+libelementary-data_1.12.0+git201411241725+009a-15_all.deb
+libelementary-dev_1.12.0+git201411241725+009a-15_i386.deb
+libelementary-doc_1.12.0+git201411241725+009a-15_all.deb
+terminology_2.4.5+0.7.0+git201411241740+eea3-19_i386.deb
+terminology-data_2.4.5+0.7.0+git201411241740+eea3-19_all.deb
