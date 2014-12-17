@@ -35600,3 +35600,36 @@ libelementary-doc_1.12.2+git201412160914+6449-15_all.deb
 
 -------- mar dic 16 20:38:13 CET 2014 --------
 elive-tools_2.4.8+git201412161937+5554-8_all.deb
+
+
+
+-------- mié dic 17 17:33:30 CET 2014 --------
+e19-plain_2.4.8+git201412171156+bd6c-2_i386.deb
+e19-plain-data_2.4.8+git201412171156+bd6c-2_all.deb
+e19-plain-dbg_2.4.8+git201412171156+bd6c-2_i386.deb
+e19-plain-dev_2.4.8+git201412171156+bd6c-2_i386.deb
+e19-plain-doc_2.4.8+git201412171156+bd6c-2_all.deb
+eflete_2.4.8+0.4.0+git201412171205+db03-2_i386.deb
+eflete-data_2.4.8+0.4.0+git201412171205+db03-2_all.deb
+linux-compiler-gcc-4.6-x86_3.16.7-ckt2-1~bpo70+1_i386.deb
+linux-headers-3.16.0-0.bpo.4-686-pae_3.16.7-ckt2-1~bpo70+1_i386.deb
+linux-headers-3.16.0-0.bpo.4-all_3.16.7-ckt2-1~bpo70+1_i386.deb
+linux-headers-3.16.0-0.bpo.4-all-i386_3.16.7-ckt2-1~bpo70+1_i386.deb
+linux-headers-3.16.0-0.bpo.4-common_3.16.7-ckt2-1~bpo70+1_i386.deb
+linux-image-3.16.0-0.bpo.4-686-pae_3.16.7-ckt2-1~bpo70+1_i386.deb
+linux-libc-dev_3.16.7-ckt2-1~bpo70+1_i386.deb
+linux-support-3.16.0-0.bpo.4_3.16.7-ckt2-1~bpo70+1_all.deb
+terminology_2.4.8+0.7.0+git201412171620+7f98-20_i386.deb
+terminology-data_2.4.8+0.7.0+git201412171620+7f98-20_all.deb
+vim_7.4.488-3_i386.deb
+vim-athena_7.4.488-3_i386.deb
+vim-common_7.4.488-3_i386.deb
+vim-dbg_7.4.488-3_i386.deb
+vim-doc_7.4.488-3_all.deb
+vim-gnome_7.4.488-3_i386.deb
+vim-gtk_7.4.488-3_i386.deb
+vim-gui-common_7.4.488-3_all.deb
+vim-lesstif_7.4.488-3_all.deb
+vim-nox_7.4.488-3_i386.deb
+vim-runtime_7.4.488-3_all.deb
+vim-tiny_7.4.488-3_i386.deb
