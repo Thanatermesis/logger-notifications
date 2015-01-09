@@ -35906,3 +35906,27 @@ consolekit_0.4.6-4~bpo70+1_i386.deb
 elive-sounds_2.5.0+git201501091314+9a2e-1_all.deb
 hebernate_2.5.0+git201501091313+28c4-1_all.deb
 udev_204-14~bpo70+1_i386.deb
+
+
+
+-------- vie ene  9 16:02:35 CET 2015 --------
+elive-udev_2.5.0+git201501091459+c3a3-5_all.deb
+firmware-adi_0.43~bpo70+1_all.deb
+firmware-atheros_0.43~bpo70+1_all.deb
+firmware-bnx2_0.43~bpo70+1_all.deb
+firmware-bnx2x_0.43~bpo70+1_all.deb
+firmware-brcm80211_0.43~bpo70+1_all.deb
+firmware-intelwimax_0.43~bpo70+1_all.deb
+firmware-ipw2x00_0.43~bpo70+1_all.deb
+firmware-ivtv_0.43~bpo70+1_all.deb
+firmware-iwlwifi_0.43~bpo70+1_all.deb
+firmware-libertas_0.43~bpo70+1_all.deb
+firmware-linux_0.43~bpo70+1_all.deb
+firmware-linux-nonfree_0.43~bpo70+1_all.deb
+firmware-myricom_0.43~bpo70+1_all.deb
+firmware-netxen_0.43~bpo70+1_all.deb
+firmware-qlogic_0.43~bpo70+1_all.deb
+firmware-ralink_0.43~bpo70+1_all.deb
+firmware-realtek_0.43~bpo70+1_all.deb
+firmware-samsung_0.43~bpo70+1_all.deb
+firmware-ti-connectivity_0.43~bpo70+1_all.deb
