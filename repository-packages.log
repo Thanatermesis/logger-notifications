@@ -35965,3 +35965,22 @@ glx-diversions_0.5.1~bpo70+1_i386.deb
 icedove-templates-elive_2.5.0+git201501091934+1ae1-1_all.deb
 nvidia-modprobe_334.16-1~bpo70+1_i386.deb
 xul-ext-stationery_0.8.2-1_all.deb
+
+
+
+-------- lun ene 12 12:18:00 CET 2015 --------
+base-files_7.1wheezy8_i386.deb
+e19-plain_2.5.0+git201501121111+23e3-2_i386.deb
+e19-plain-data_2.5.0+git201501121111+23e3-2_all.deb
+e19-plain-dbg_2.5.0+git201501121111+23e3-2_i386.deb
+e19-plain-dev_2.5.0+git201501121111+23e3-2_i386.deb
+e19-plain-doc_2.5.0+git201501121111+23e3-2_all.deb
+libelementary1_1.12.2+git201501121101+0ab8-15_i386.deb
+libelementary1-dbg_1.12.2+git201501121101+0ab8-15_i386.deb
+libelementary-bin_1.12.2+git201501121101+0ab8-15_i386.deb
+libelementary-data_1.12.2+git201501121101+0ab8-15_all.deb
+libelementary-dev_1.12.2+git201501121101+0ab8-15_i386.deb
+libelementary-doc_1.12.2+git201501121101+0ab8-15_all.deb
+terminology_2.5.0+0.7.0+git201501121115+bfa9-20_i386.deb
+terminology-data_2.5.0+0.7.0+git201501121115+bfa9-20_all.deb
+terminology-dbg_2.5.0+0.7.0+git201501121115+bfa9-20_i386.deb
