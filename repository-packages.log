@@ -35954,3 +35954,14 @@ firmware-realtek_0.43~bpo70+1_all.deb
 firmware-samsung_0.43~bpo70+1_all.deb
 firmware-ti-connectivity_0.43~bpo70+1_all.deb
 initramfs-tools_0.115~bpo70+1_all.deb
+
+
+
+-------- lun ene 12 11:11:25 CET 2015 --------
+glx-alternative-fglrx_0.5.1~bpo70+1_i386.deb
+glx-alternative-mesa_0.5.1~bpo70+1_i386.deb
+glx-alternative-nvidia_0.5.1~bpo70+1_i386.deb
+glx-diversions_0.5.1~bpo70+1_i386.deb
+icedove-templates-elive_2.5.0+git201501091934+1ae1-1_all.deb
+nvidia-modprobe_334.16-1~bpo70+1_i386.deb
+xul-ext-stationery_0.8.2-1_all.deb
