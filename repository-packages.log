@@ -36878,3 +36878,25 @@ libgl1-fglrx-glx_14.9+ga14.201-2~bpo70+1_i386.deb
 libgl1-fglrx-glx-i386_14.9+ga14.201-2~bpo70+1_i386.deb
 libgl1-fglrx-legacy-glx_8.97.100.7-3~bpo70+1_i386.deb
 libxvbaw-dev_14.9+ga14.201-2~bpo70+1_i386.deb
+
+
+
+-------- jue mar  5 18:30:18 CET 2015 --------
+amd-clinfo_14.9+ga14.201-2~bpo70+1_i386.deb
+amd-libopencl1_14.9+ga14.201-2~bpo70+1_i386.deb
+amd-opencl-dev_14.9+ga14.201-2~bpo70+1_i386.deb
+amd-opencl-icd_14.9+ga14.201-2~bpo70+1_i386.deb
+fglrx-atieventsd_14.9+ga14.201-2~bpo70+1_i386.deb
+fglrx-control_14.9+ga14.201-2~bpo70+1_i386.deb
+fglrx-driver_14.9+ga14.201-2~bpo70+1_i386.deb
+fglrx-modules-dkms_14.9+ga14.201-2~bpo70+1_i386.deb
+fglrx-source_14.9+ga14.201-2~bpo70+1_i386.deb
+glx-alternative-fglrx_0.5.1~bpo70+1_i386.deb
+glx-alternative-mesa_0.5.1~bpo70+1_i386.deb
+glx-alternative-nvidia_0.5.1~bpo70+1_i386.deb
+glx-diversions_0.5.1~bpo70+1_i386.deb
+libfglrx_14.9+ga14.201-2~bpo70+1_i386.deb
+libfglrx-amdxvba1_14.9+ga14.201-2~bpo70+1_i386.deb
+libgl1-fglrx-glx_14.9+ga14.201-2~bpo70+1_i386.deb
+libgl1-fglrx-glx-i386_14.9+ga14.201-2~bpo70+1_i386.deb
+libxvbaw-dev_14.9+ga14.201-2~bpo70+1_i386.deb
