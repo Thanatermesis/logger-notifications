@@ -37668,3 +37668,25 @@ live-config-doc_3.0.23-1+deb7u1_all.deb
 live-config-systemd_3.0.23-1+deb7u1_all.deb
 live-config-sysvinit_3.0.23-1+deb7u1_all.deb
 live-config-upstart_3.0.23-1+deb7u1_all.deb
+
+
+
+-------- lun abr  6 13:18:41 CEST 2015 --------
+grub2_1.99-27+deb7u2_i386.deb
+grub2-common_1.99-27+deb7u2_i386.deb
+grub-common_1.99-27+deb7u2_i386.deb
+grub-coreboot_1.99-27+deb7u2_i386.deb
+grub-coreboot-bin_1.99-27+deb7u2_i386.deb
+grub-efi_1.99-27+deb7u2_i386.deb
+grub-efi-amd64_1.99-27+deb7u2_i386.deb
+grub-efi-amd64-bin_1.99-27+deb7u2_i386.deb
+grub-efi-ia32_1.99-27+deb7u2_i386.deb
+grub-efi-ia32-bin_1.99-27+deb7u2_i386.deb
+grub-emu_1.99-27+deb7u2_i386.deb
+grub-firmware-qemu_1.99-27+deb7u2_i386.deb
+grub-ieee1275_1.99-27+deb7u2_i386.deb
+grub-ieee1275-bin_1.99-27+deb7u2_i386.deb
+grub-linuxbios_1.99-27+deb7u2_i386.deb
+grub-pc_1.99-27+deb7u2_i386.deb
+grub-pc-bin_1.99-27+deb7u2_i386.deb
+grub-rescue-pc_1.99-27+deb7u2_i386.deb
