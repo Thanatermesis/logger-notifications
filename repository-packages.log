@@ -39011,3 +39011,18 @@ e17-theme-lucax_2.8.3+0.0.1+git2b7c47046-3wheezy1_all.deb
 elive-tools_2.8.3+0.0.1+gitf965029b1-3wheezy8_all.deb
 emodule-places_2.8.3+0.0.1+gite5626c2b8-3wheezy2_i386.deb
 emodule-places-data_2.8.3+0.0.1+gite5626c2b8-3wheezy2_all.deb
+
+
+
+-------- Mon Mar  6 14:03:16 CST 2017 --------
+e17_2.8.3+0.0.1+git2a6f6a926-3wheezy5_i386.deb
+e17-conf_2.8.3+0.0.1+git7d80c6ca7-3wheezy1_all.deb
+e17-data_2.8.3+0.0.1+git2a6f6a926-3wheezy5_all.deb
+e17-dbg_2.8.3+0.0.1+git2a6f6a926-3wheezy5_i386.deb
+e17-dev_2.8.3+0.0.1+git2a6f6a926-3wheezy5_i386.deb
+e17-doc_2.8.3+0.0.1+git2a6f6a926-3wheezy5_all.deb
+e17-stable_2.8.3+0.0.1+gitbd72a0a1d-3wheezy3_i386.deb
+e17-stable-data_2.8.3+0.0.1+gitbd72a0a1d-3wheezy3_all.deb
+e17-stable-dbg_2.8.3+0.0.1+gitbd72a0a1d-3wheezy3_i386.deb
+e17-stable-dev_2.8.3+0.0.1+gitbd72a0a1d-3wheezy3_i386.deb
+e17-stable-doc_2.8.3+0.0.1+gitbd72a0a1d-3wheezy3_all.deb
