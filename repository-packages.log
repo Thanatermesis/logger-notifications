@@ -39116,3 +39116,12 @@ e17-stable-doc_2.8.4+0.0.1+git84e4f232e-3wheezy3_all.deb
 elive-tools_2.8.4+0.0.1+gitf56e8064b-3wheezy8_all.deb
 elive-udev_2.8.4+0.0.1+git8a4ebf93c-3wheezy5_all.deb
 zsh-prezto_2.8.4+0.0.1+git9f06db07f-3wheezy5_all.deb
+
+
+
+-------- Thu Mar  9 01:35:19 CST 2017 --------
+deliver_2.8.4+0.0.1+git0722de4ef-3wheezy8_all.deb
+elive-tools_2.8.4+0.0.1+git7497e21b0-3wheezy8_all.deb
+live-boot_3.0.1-1_all.deb
+live-boot-doc_3.0.1-1_all.deb
+live-boot-initramfs-tools_3.0.1-1_all.deb
