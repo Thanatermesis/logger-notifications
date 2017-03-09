@@ -39098,3 +39098,21 @@ live-boot-initramfs-tools_3.0.1-1_all.deb
 deliver_2.8.4+0.0.1+git9b55f3641-3wheezy8_all.deb
 elicit_2.8.4+0.0.1+git9211c21e6-3wheezy2_i386.deb
 elicit-data_2.8.4+0.0.1+git9211c21e6-3wheezy2_all.deb
+
+
+
+-------- Wed Mar  8 22:21:40 CST 2017 --------
+deliver_2.8.4+0.0.1+git4fa79072e-3wheezy8_all.deb
+e17_2.8.4+0.0.1+git892edac45-3wheezy5_i386.deb
+e17-data_2.8.4+0.0.1+git892edac45-3wheezy5_all.deb
+e17-dbg_2.8.4+0.0.1+git892edac45-3wheezy5_i386.deb
+e17-dev_2.8.4+0.0.1+git892edac45-3wheezy5_i386.deb
+e17-doc_2.8.4+0.0.1+git892edac45-3wheezy5_all.deb
+e17-stable_2.8.4+0.0.1+git84e4f232e-3wheezy3_i386.deb
+e17-stable-data_2.8.4+0.0.1+git84e4f232e-3wheezy3_all.deb
+e17-stable-dbg_2.8.4+0.0.1+git84e4f232e-3wheezy3_i386.deb
+e17-stable-dev_2.8.4+0.0.1+git84e4f232e-3wheezy3_i386.deb
+e17-stable-doc_2.8.4+0.0.1+git84e4f232e-3wheezy3_all.deb
+elive-tools_2.8.4+0.0.1+gitf56e8064b-3wheezy8_all.deb
+elive-udev_2.8.4+0.0.1+git8a4ebf93c-3wheezy5_all.deb
+zsh-prezto_2.8.4+0.0.1+git9f06db07f-3wheezy5_all.deb
