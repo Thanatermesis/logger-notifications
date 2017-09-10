@@ -41488,3 +41488,17 @@ elive-skel-default-all_2.9.9+0.0.1+git0ebbbdcad-3wheezy1_all.deb
 -------- Sun Sep 10 23:57:51 CEST 2017 --------
 deliver_2.9.9+0.0.1+git6f9e7c99d-3wheezy8_all.deb
 elive-desktop-e17-wrapper_2.9.9+0.0.1+git9ae8a7278-3wheezy1_all.deb
+
+
+
+-------- Mon Sep 11 01:23:34 CEST 2017 --------
+e17_2.9.9+0.0.1+git035510662-3wheezy5_i386.deb
+e17-data_2.9.9+0.0.1+git035510662-3wheezy5_all.deb
+e17-dbg_2.9.9+0.0.1+git035510662-3wheezy5_i386.deb
+e17-dev_2.9.9+0.0.1+git035510662-3wheezy5_i386.deb
+e17-doc_2.9.9+0.0.1+git035510662-3wheezy5_all.deb
+e17-stable_2.9.9+0.0.1+git93790433e-3wheezy3_i386.deb
+e17-stable-data_2.9.9+0.0.1+git93790433e-3wheezy3_all.deb
+e17-stable-dbg_2.9.9+0.0.1+git93790433e-3wheezy3_i386.deb
+e17-stable-dev_2.9.9+0.0.1+git93790433e-3wheezy3_i386.deb
+e17-stable-doc_2.9.9+0.0.1+git93790433e-3wheezy3_all.deb
