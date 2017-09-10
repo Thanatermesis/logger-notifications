@@ -41385,3 +41385,17 @@ elive-skel-default-all_2.9.9+0.0.1+git344e9011a-3wheezy1_all.deb
 
 -------- Sun Sep 10 03:17:01 CEST 2017 --------
 eliveinstaller-5g_2.9.9+0.0.1+git14e95b156-3wheezy5_i386.deb
+
+
+
+-------- Sun Sep 10 03:30:53 CEST 2017 --------
+e17_2.9.9+0.0.1+git2e6dcfe10-3wheezy5_i386.deb
+e17-data_2.9.9+0.0.1+git2e6dcfe10-3wheezy5_all.deb
+e17-dbg_2.9.9+0.0.1+git2e6dcfe10-3wheezy5_i386.deb
+e17-dev_2.9.9+0.0.1+git2e6dcfe10-3wheezy5_i386.deb
+e17-doc_2.9.9+0.0.1+git2e6dcfe10-3wheezy5_all.deb
+e17-stable_2.9.9+0.0.1+git66b3fd66f-3wheezy3_i386.deb
+e17-stable-data_2.9.9+0.0.1+git66b3fd66f-3wheezy3_all.deb
+e17-stable-dbg_2.9.9+0.0.1+git66b3fd66f-3wheezy3_i386.deb
+e17-stable-dev_2.9.9+0.0.1+git66b3fd66f-3wheezy3_i386.deb
+e17-stable-doc_2.9.9+0.0.1+git66b3fd66f-3wheezy3_all.deb
