@@ -41824,3 +41824,17 @@ emodule-ecomorph-data_2.9.10+0.0.1+git86d483ef1-3wheezy3_all.deb
 
 -------- Tue Oct  3 22:22:22 CEST 2017 --------
 elive-desktop-e17-wrapper_2.9.10+0.0.1+git13ba7cacd-3wheezy1_all.deb
+
+
+
+-------- Wed Oct  4 00:48:48 CEST 2017 --------
+e17_2.9.10+0.0.1+gitc5b6df372-3wheezy5_i386.deb
+e17-data_2.9.10+0.0.1+gitc5b6df372-3wheezy5_all.deb
+e17-dbg_2.9.10+0.0.1+gitc5b6df372-3wheezy5_i386.deb
+e17-dev_2.9.10+0.0.1+gitc5b6df372-3wheezy5_i386.deb
+e17-doc_2.9.10+0.0.1+gitc5b6df372-3wheezy5_all.deb
+e17-stable_2.9.10+0.0.1+gita0298b200-3wheezy3_i386.deb
+e17-stable-data_2.9.10+0.0.1+gita0298b200-3wheezy3_all.deb
+e17-stable-dbg_2.9.10+0.0.1+gita0298b200-3wheezy3_i386.deb
+e17-stable-dev_2.9.10+0.0.1+gita0298b200-3wheezy3_i386.deb
+e17-stable-doc_2.9.10+0.0.1+gita0298b200-3wheezy3_all.deb
