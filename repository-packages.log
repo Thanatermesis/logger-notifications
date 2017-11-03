@@ -43040,3 +43040,17 @@ e17-stable-doc_2.9.12+0.0.1+git38654911d-3wheezy3_all.deb
 
 -------- Fri Nov  3 20:59:56 CET 2017 --------
 elive-tools_2.9.12+0.0.1+git7c920c7cd-3wheezy9_all.deb
+
+
+
+-------- Fri Nov  3 21:27:54 CET 2017 --------
+e17_2.9.12+0.0.1+git2ef66d939-3wheezy5_i386.deb
+e17-data_2.9.12+0.0.1+git2ef66d939-3wheezy5_all.deb
+e17-dbg_2.9.12+0.0.1+git2ef66d939-3wheezy5_i386.deb
+e17-dev_2.9.12+0.0.1+git2ef66d939-3wheezy5_i386.deb
+e17-doc_2.9.12+0.0.1+git2ef66d939-3wheezy5_all.deb
+e17-stable_2.9.12+0.0.1+gitf55b110cf-3wheezy3_i386.deb
+e17-stable-data_2.9.12+0.0.1+gitf55b110cf-3wheezy3_all.deb
+e17-stable-dbg_2.9.12+0.0.1+gitf55b110cf-3wheezy3_i386.deb
+e17-stable-dev_2.9.12+0.0.1+gitf55b110cf-3wheezy3_i386.deb
+e17-stable-doc_2.9.12+0.0.1+gitf55b110cf-3wheezy3_all.deb
