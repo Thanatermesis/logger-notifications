@@ -43109,3 +43109,12 @@ eliveinstaller-5g_2.9.13+0.0.1+gitf8917ed98-3wheezy5_i386.deb
 -------- lun nov  6 17:20:20 CET 2017 --------
 emodule-internet_2.9.13+0.0.1+gitf9e1d4397-3wheezy2_i386.deb
 emodule-internet-data_2.9.13+0.0.1+gitf9e1d4397-3wheezy2_all.deb
+
+
+
+-------- lun nov  6 17:28:37 CET 2017 --------
+deliver_2.9.13+0.0.1+git1d1500bfc-3wheezy8_all.deb
+e17-menus_2.9.13+0.0.1+git5087fea9b-3wheezy2_all.deb
+elive-daemons_2.9.13+0.0.1+git966f01b9a-3wheezy3_all.deb
+elive-desktop-applications_2.9.13+0.0.1+gitabfd1c300-3wheezy1_all.deb
+elive-tools_2.9.13+0.0.1+git392d7b1f7-3wheezy9_all.deb
