@@ -43246,3 +43246,17 @@ elive-desktop-applications_2.9.13+0.0.1+gitf298b1b6f-3wheezy1_all.deb
 
 -------- Tue Nov  7 14:55:55 CET 2017 --------
 elive-extra-features_2.9.13+0.0.1+git06f7ca05f-3wheezy1_all.deb
+
+
+
+-------- Tue Nov  7 15:12:04 CET 2017 --------
+e17_2.9.13+0.0.1+git2bd7d6374-3wheezy5_i386.deb
+e17-data_2.9.13+0.0.1+git2bd7d6374-3wheezy5_all.deb
+e17-dbg_2.9.13+0.0.1+git2bd7d6374-3wheezy5_i386.deb
+e17-dev_2.9.13+0.0.1+git2bd7d6374-3wheezy5_i386.deb
+e17-doc_2.9.13+0.0.1+git2bd7d6374-3wheezy5_all.deb
+e17-stable_2.9.13+0.0.1+git4d2dcd82a-3wheezy3_i386.deb
+e17-stable-data_2.9.13+0.0.1+git4d2dcd82a-3wheezy3_all.deb
+e17-stable-dbg_2.9.13+0.0.1+git4d2dcd82a-3wheezy3_i386.deb
+e17-stable-dev_2.9.13+0.0.1+git4d2dcd82a-3wheezy3_i386.deb
+e17-stable-doc_2.9.13+0.0.1+git4d2dcd82a-3wheezy3_all.deb
