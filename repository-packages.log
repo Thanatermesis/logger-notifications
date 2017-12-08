@@ -43908,3 +43908,10 @@ elive-tools_2.9.18+0.0.1+git44aedeba9-3wheezy9_all.deb
 
 -------- Fri Dec  8 19:49:37 CET 2017 --------
 elive-tools_2.9.18+0.0.1+git3ec33181d-3wheezy9_all.deb
+
+
+
+-------- Fri Dec  8 19:50:38 CET 2017 --------
+emodule-elivehelper_2.9.18+0.0.1+gitff1bab86a-3wheezy1_i386.deb
+emodule-elivehelper-data_2.9.18+0.0.1+gitff1bab86a-3wheezy1_all.deb
+emodule-elivehelper-dbg_2.9.18+0.0.1+gitff1bab86a-3wheezy1_i386.deb
