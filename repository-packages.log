@@ -43972,3 +43972,10 @@ emodule-elivehelper-dbg_2.9.18+0.0.1+git2932d36a9-3wheezy1_i386.deb
 -------- Fri Dec  8 23:24:22 CET 2017 --------
 deliver_2.9.18+0.0.1+git12536bae5-3wheezy8_all.deb
 elive-tools_2.9.18+0.0.1+git5c71fb277-3wheezy9_all.deb
+
+
+
+-------- Fri Dec  8 23:27:01 CET 2017 --------
+emodule-elivehelper_2.9.18+0.0.1+git578229c80-3wheezy1_i386.deb
+emodule-elivehelper-data_2.9.18+0.0.1+git578229c80-3wheezy1_all.deb
+emodule-elivehelper-dbg_2.9.18+0.0.1+git578229c80-3wheezy1_i386.deb
