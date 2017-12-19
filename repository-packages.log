@@ -43979,3 +43979,9 @@ elive-tools_2.9.18+0.0.1+git5c71fb277-3wheezy9_all.deb
 emodule-elivehelper_2.9.18+0.0.1+git578229c80-3wheezy1_i386.deb
 emodule-elivehelper-data_2.9.18+0.0.1+git578229c80-3wheezy1_all.deb
 emodule-elivehelper-dbg_2.9.18+0.0.1+git578229c80-3wheezy1_i386.deb
+
+
+
+-------- mar dic 19 18:28:32 CET 2017 --------
+elive-daemons_2.9.20+0.0.1+git785a593cc-3wheezy3_all.deb
+elive-desktop-wrapper_2.9.20+0.0.1+git310a67c9e-3wheezy1_all.deb
