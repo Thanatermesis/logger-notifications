@@ -44011,3 +44011,17 @@ elive-tools_2.9.20+0.0.1+gite945c6b5c-3wheezy9_all.deb
 
 -------- Wed Dec 27 17:01:53 CET 2017 --------
 elive-daemons_2.9.20+0.0.1+git93c0f024c-3wheezy3_all.deb
+
+
+
+-------- Wed Dec 27 20:25:17 CET 2017 --------
+e17_2.9.20+0.0.1+git56231c39d-3wheezy5_i386.deb
+e17-data_2.9.20+0.0.1+git56231c39d-3wheezy5_all.deb
+e17-dbg_2.9.20+0.0.1+git56231c39d-3wheezy5_i386.deb
+e17-dev_2.9.20+0.0.1+git56231c39d-3wheezy5_i386.deb
+e17-doc_2.9.20+0.0.1+git56231c39d-3wheezy5_all.deb
+e17-stable_2.9.20+0.0.1+git9f29487d0-3wheezy3_i386.deb
+e17-stable-data_2.9.20+0.0.1+git9f29487d0-3wheezy3_all.deb
+e17-stable-dbg_2.9.20+0.0.1+git9f29487d0-3wheezy3_i386.deb
+e17-stable-dev_2.9.20+0.0.1+git9f29487d0-3wheezy3_i386.deb
+e17-stable-doc_2.9.20+0.0.1+git9f29487d0-3wheezy3_all.deb
