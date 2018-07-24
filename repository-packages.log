@@ -48161,3 +48161,12 @@ usb-bootable-elive_2.9.98+0.0.1+git53c8fba79-3wheezy1_all.deb
 -------- Tue Jul 24 15:44:07 CEST 2018 --------
 emodule-engage_2.9.98+0.0.1+gitcaae32525-3wheezy4_i386.deb
 emodule-engage-data_2.9.98+0.0.1+gitcaae32525-3wheezy4_all.deb
+
+
+
+-------- Tue Jul 24 15:50:53 CEST 2018 --------
+e17_2.9.98+0.0.1+git7103c5759-3wheezy5_i386.deb
+e17-data_2.9.98+0.0.1+git7103c5759-3wheezy5_all.deb
+e17-dbg_2.9.98+0.0.1+git7103c5759-3wheezy5_i386.deb
+e17-dev_2.9.98+0.0.1+git7103c5759-3wheezy5_i386.deb
+e17-doc_2.9.98+0.0.1+git7103c5759-3wheezy5_all.deb
