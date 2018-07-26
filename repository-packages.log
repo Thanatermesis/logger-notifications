@@ -48358,3 +48358,12 @@ elive-desktop-applications_2.9.98+0.0.1+git2fe95b7a4-3wheezy1_all.deb
 emodule-engage_2.9.98+0.0.1+git1d941793b-3wheezy4_i386.deb
 emodule-engage-data_2.9.98+0.0.1+git1d941793b-3wheezy4_all.deb
 emodule-engage-dbg_2.9.98+0.0.1+git1d941793b-3wheezy4_i386.deb
+
+
+
+-------- Thu Jul 26 05:02:56 CEST 2018 --------
+deliver_2.9.98+0.0.1+gitfc60cf82a-3wheezy8_all.deb
+elicit_2.9.98+0.0.1+git085f8572e-3wheezy2_i386.deb
+elicit-data_2.9.98+0.0.1+git085f8572e-3wheezy2_all.deb
+elive-daemons_2.9.98+0.0.1+git09cf93602-3wheezy3_all.deb
+elive-tools_2.9.98+0.0.1+git1619821a5-3wheezy9_all.deb
