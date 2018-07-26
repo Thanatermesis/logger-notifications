@@ -48340,3 +48340,21 @@ elive-upgrader_201807260124+giteebdae2f2_all.deb
 
 -------- Thu Jul 26 03:38:12 CEST 2018 --------
 elive-upgrader_201807260137+gitbd6c4c811_all.deb
+
+
+
+-------- Thu Jul 26 04:27:59 CEST 2018 --------
+e17_2.9.98+0.0.1+gitf60c31718-3wheezy5_i386.deb
+e17-data_2.9.98+0.0.1+gitf60c31718-3wheezy5_all.deb
+e17-dbg_2.9.98+0.0.1+gitf60c31718-3wheezy5_i386.deb
+e17-dev_2.9.98+0.0.1+gitf60c31718-3wheezy5_i386.deb
+e17-doc_2.9.98+0.0.1+gitf60c31718-3wheezy5_all.deb
+e17-stable_2.9.98+0.0.1+git85c0a3986-3wheezy3_i386.deb
+e17-stable-data_2.9.98+0.0.1+git85c0a3986-3wheezy3_all.deb
+e17-stable-dbg_2.9.98+0.0.1+git85c0a3986-3wheezy3_i386.deb
+e17-stable-dev_2.9.98+0.0.1+git85c0a3986-3wheezy3_i386.deb
+e17-stable-doc_2.9.98+0.0.1+git85c0a3986-3wheezy3_all.deb
+elive-desktop-applications_2.9.98+0.0.1+git2fe95b7a4-3wheezy1_all.deb
+emodule-engage_2.9.98+0.0.1+git1d941793b-3wheezy4_i386.deb
+emodule-engage-data_2.9.98+0.0.1+git1d941793b-3wheezy4_all.deb
+emodule-engage-dbg_2.9.98+0.0.1+git1d941793b-3wheezy4_i386.deb
