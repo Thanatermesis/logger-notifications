@@ -48399,3 +48399,20 @@ elive-tools_2.9.98+0.0.1+git8399b0b04-3wheezy9_all.deb
 
 -------- Thu Jul 26 17:56:51 CEST 2018 --------
 elive-daemons_2.9.98+0.0.1+git6c3032760-3wheezy3_all.deb
+
+
+
+-------- Fri Jul 27 03:24:19 CEST 2018 --------
+deliver_2.9.98+0.0.1+git9f27b3e53-3wheezy8_all.deb
+e17_2.9.98+0.0.1+git2dcc9668e-3wheezy5_i386.deb
+e17-data_2.9.98+0.0.1+git2dcc9668e-3wheezy5_all.deb
+e17-dbg_2.9.98+0.0.1+git2dcc9668e-3wheezy5_i386.deb
+e17-dev_2.9.98+0.0.1+git2dcc9668e-3wheezy5_i386.deb
+e17-doc_2.9.98+0.0.1+git2dcc9668e-3wheezy5_all.deb
+e17-stable_2.9.98+0.0.1+git970dacd38-3wheezy3_i386.deb
+e17-stable-data_2.9.98+0.0.1+git970dacd38-3wheezy3_all.deb
+e17-stable-dbg_2.9.98+0.0.1+git970dacd38-3wheezy3_i386.deb
+e17-stable-dev_2.9.98+0.0.1+git970dacd38-3wheezy3_i386.deb
+e17-stable-doc_2.9.98+0.0.1+git970dacd38-3wheezy3_all.deb
+eliveinstaller-5g_2.9.98+201807270116+git996fc1a5b_i386.deb
+elive-tools_2.9.98+0.0.1+git3fd69d414-3wheezy9_all.deb
