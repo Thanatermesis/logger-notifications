@@ -48577,3 +48577,12 @@ e17-doc_2.9.98+0.0.1+gitc00701a36-3wheezy5_all.deb
 -------- Sun Jul 29 22:30:59 CEST 2018 --------
 deliver_2.9.98+0.0.1+gitff9f5e5a7-3wheezy8_all.deb
 elive-tools_2.9.98+0.0.1+git741c75fb0-3wheezy9_all.deb
+
+
+
+-------- Sun Jul 29 22:42:31 CEST 2018 --------
+e17-stable_2.9.98+0.0.1+git1faf6a36b-3wheezy3_i386.deb
+e17-stable-data_2.9.98+0.0.1+git1faf6a36b-3wheezy3_all.deb
+e17-stable-dbg_2.9.98+0.0.1+git1faf6a36b-3wheezy3_i386.deb
+e17-stable-dev_2.9.98+0.0.1+git1faf6a36b-3wheezy3_i386.deb
+e17-stable-doc_2.9.98+0.0.1+git1faf6a36b-3wheezy3_all.deb
