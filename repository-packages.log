@@ -48736,3 +48736,18 @@ elive-upgrader_201807310122+gitb8e5f0701_all.deb
 
 -------- Tue Jul 31 03:58:00 CEST 2018 --------
 eliveinstaller-5g_2.9.98+201807310154+gitc3ba33457_i386.deb
+
+
+
+-------- Tue Jul 31 16:11:35 CEST 2018 --------
+e17_2.9.98+0.0.1+git1482c93f9-3wheezy5_i386.deb
+e17-data_2.9.98+0.0.1+git1482c93f9-3wheezy5_all.deb
+e17-dbg_2.9.98+0.0.1+git1482c93f9-3wheezy5_i386.deb
+e17-dev_2.9.98+0.0.1+git1482c93f9-3wheezy5_i386.deb
+e17-doc_2.9.98+0.0.1+git1482c93f9-3wheezy5_all.deb
+e17-stable_2.9.98+0.0.1+git59fcc3e56-3wheezy3_i386.deb
+e17-stable-data_2.9.98+0.0.1+git59fcc3e56-3wheezy3_all.deb
+e17-stable-dbg_2.9.98+0.0.1+git59fcc3e56-3wheezy3_i386.deb
+e17-stable-dev_2.9.98+0.0.1+git59fcc3e56-3wheezy3_i386.deb
+e17-stable-doc_2.9.98+0.0.1+git59fcc3e56-3wheezy3_all.deb
+elive-tools_2.9.98+0.0.1+git54e608f0f-3wheezy9_all.deb
