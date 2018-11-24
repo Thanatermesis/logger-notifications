@@ -49096,3 +49096,36 @@ elive-desktop-wrapper_3.0.0+0.0.1+gita57557e98-3wheezy1_all.deb
 
 -------- Fri Nov 23 11:23:33 -05 2018 --------
 elive-tools_3.0.1+0.0.1+gitb8b43562a-3wheezy9_all.deb
+
+
+
+-------- Fri Nov 23 19:00:47 -05 2018 --------
+3g-dialer_3.0.1+0.0.1+git203debee7-3wheezy3_all.deb
+deliver_3.0.1+0.0.1+git23dc63e68-3wheezy8_all.deb
+dolphin-compat-notinstalled_3.0.1+0.0.1+git930c5fd84-3wheezy11_i386.deb
+elive-daemons_3.0.1+0.0.1+git7c5a9f145-3wheezy3_all.deb
+elive-desktop-wrapper_3.0.1+0.0.1+gita57557e98-3wheezy1_all.deb
+elive-extra-features_3.0.1+0.0.1+gitc2d785d3e-3wheezy1_all.deb
+eliveinstaller-5g_3.0.1+201811232313+git89f99e290_i386.deb
+elive-news_3.0.1+0.0.1+git861837ba8-3wheezy1_all.deb
+elive-nurse_3.0.1+0.0.1+git4fc27fd4e-3wheezy3_all.deb
+eliveremote_3.0.1+0.0.1+gita153b51ff-3wheezy1_all.deb
+elive-tools_3.0.1+0.0.1+gitb8b43562a-3wheezy9_all.deb
+elive-upgrader_201811232322+gitc27e947f8_all.deb
+elive-welcome_3.0.1+1.2.6+git4f0014106-3wheezy1_all.deb
+eltrans_3.0.1+0.0.1+git7c7c31dfd-3wheezy1_all.deb
+emodule-internet_3.0.1+0.0.1+gitb189d78f8-3wheezy2_i386.deb
+emodule-internet-data_3.0.1+0.0.1+gitb189d78f8-3wheezy2_all.deb
+gnome-settings-daemon-compat-notinstalled_3.0.1+0.0.1+git930c5fd84-3wheezy11_i386.deb
+hebernate_3.0.1+0.0.1+git36ec23fb0-3wheezy1_all.deb
+konqueror-compat-notinstalled_3.0.1+0.0.1+git930c5fd84-3wheezy11_i386.deb
+libreoffice-compat-notinstalled_3.0.1+0.0.1+git930c5fd84-3wheezy11_i386.deb
+linux-headers-generic_3.0.1+0.0.1+git930c5fd84-3wheezy11_i386.deb
+nautilus-compat-notinstalled_3.0.1+0.0.1+git930c5fd84-3wheezy11_i386.deb
+pcmanfm-compat-notinstalled_3.0.1+0.0.1+git930c5fd84-3wheezy11_i386.deb
+pulseaudio-compat-notinstalled_3.0.1+0.0.1+git930c5fd84-3wheezy11_i386.deb
+smb-admin_3.0.1+0.0.1+git9c067fab0-3wheezy1_i386.deb
+smb-browser_3.0.1+0.0.1+gite1cd8fce4-3wheezy2_i386.deb
+thunar-audio-converter_3.0.1+0.0.1+git36e28848f-3wheezy4_all.deb
+usb-bootable-elive_3.0.1+0.0.1+git53c8fba79-3wheezy1_all.deb
+warning-messages_3.0.1+0.0.1+gitd34b66670-3wheezy1_all.deb
