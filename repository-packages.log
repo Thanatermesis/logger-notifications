@@ -49255,3 +49255,17 @@ elive-desktop-applications_3.0.3+0.0.1+gitb737e0d0b-3wheezy1_all.deb
 
 -------- Mon Jan  7 13:20:18 -05 2019 --------
 elive-upgrader_201901071819+gitd1a3cb059_all.deb
+
+
+
+-------- Tue Jan  8 19:42:58 -05 2019 --------
+e17_3.0.3+0.0.1+gitb90128275-3wheezy5_i386.deb
+e17-data_3.0.3+0.0.1+gitb90128275-3wheezy5_all.deb
+e17-dbg_3.0.3+0.0.1+gitb90128275-3wheezy5_i386.deb
+e17-dev_3.0.3+0.0.1+gitb90128275-3wheezy5_i386.deb
+e17-doc_3.0.3+0.0.1+gitb90128275-3wheezy5_all.deb
+e17-stable_3.0.3+0.0.1+gite0ced099f-3wheezy3_i386.deb
+e17-stable-data_3.0.3+0.0.1+gite0ced099f-3wheezy3_all.deb
+e17-stable-dbg_3.0.3+0.0.1+gite0ced099f-3wheezy3_i386.deb
+e17-stable-dev_3.0.3+0.0.1+gite0ced099f-3wheezy3_i386.deb
+e17-stable-doc_3.0.3+0.0.1+gite0ced099f-3wheezy3_all.deb
