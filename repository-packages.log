@@ -49917,3 +49917,11 @@ live-config-sysvinit_3.0.3+debian5.20190312+git48a8ca004-6buster3_all.deb
 
 -------- Sun Mar 24 00:27:15 CET 2019 --------
 acpi-support-base_0.142-8_all.deb
+
+
+
+-------- Sun Mar 24 01:19:21 CET 2019 --------
+live-config_3.0.3+debian5.20190312+git8ec597620-6buster3_all.deb
+live-config-doc_3.0.3+debian5.20190312+git8ec597620-6buster3_all.deb
+live-config-systemd_3.0.3+debian5.20190312+git8ec597620-6buster3_all.deb
+live-config-sysvinit_3.0.3+debian5.20190312+git8ec597620-6buster3_all.deb
