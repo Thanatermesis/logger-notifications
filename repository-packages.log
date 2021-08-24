@@ -50436,3 +50436,14 @@ elive-tools_3.8.23+202108181700+git3c9505cb30-6buster11_all.deb
 -------- Wed 18 Aug 2021 12:16:40 PM -05 --------
 elive-skel-default-all_3.8.23+gitb1e58fbf9-6buster2_all.deb
 elive-tools_3.8.23+202108181714+git3c9505cb30-6buster11_all.deb
+
+
+
+-------- Tue 24 Aug 2021 05:49:15 PM -05 --------
+eliveinstaller-6g_3.8.23+202108241649+gitb185438928-6buster12_amd64.deb
+eliveinstaller-6g_3.8.23+202108241649+gitb185438928-6buster12_i386.deb
+retroarch_1.9.8+gitfa5ec2d4b1-6buster1_amd64.deb
+retroarch_1.9.8+gitfa5ec2d4b1-6buster1_i386.deb
+retroarch-assets_1.9.8+gitfa5ec2d4b1-6buster1_all.deb
+retroarch-dbgsym_1.9.8+gitfa5ec2d4b1-6buster1_amd64.deb
+retroarch-dbgsym_1.9.8+gitfa5ec2d4b1-6buster1_i386.deb
