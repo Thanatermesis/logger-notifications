@@ -50491,3 +50491,10 @@ retroarch_1.9.8+gitfa5ec2d4b1-6buster1_i386.deb
 retroarch-assets_1.9.8+gitfa5ec2d4b1-6buster1_all.deb
 retroarch-dbgsym_1.9.8+gitfa5ec2d4b1-6buster1_amd64.deb
 retroarch-dbgsym_1.9.8+gitfa5ec2d4b1-6buster1_i386.deb
+
+
+
+-------- Tue 31 Aug 2021 01:44:22 PM -05 --------
+elive-daemons_3.0.6+git8942ca371-6buster1_all.deb
+luv-icon-theme_3.0.6+continuous-master+gitb71714b16-6buster1_amd64.deb
+luv-icon-theme_3.0.6+continuous-master+gitb71714b16-6buster1_i386.deb
