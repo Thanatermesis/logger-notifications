@@ -50683,3 +50683,17 @@ terminology-dbgsym_3.8.23+1.9.0+gitd11e53da6-6buster13_i386.deb
 
 -------- Fri 10 Sep 2021 01:46:54 PM -05 --------
 gnome-themes-qogir_3.8.23+2021-08-02+git6fb06fd32-6buster1_all.deb
+
+
+
+-------- Sun 12 Sep 2021 07:43:49 PM -05 --------
+deliver_3.8.23+git1129e6650-6buster4_all.deb
+elive-daemons_3.8.23+git9b619e40e-6buster1_all.deb
+elive-desktop-applications_3.8.23+git34b91bf02-6buster1_all.deb
+elive-skel-default-all_3.8.23+git5f9ee7bd1-6buster2_all.deb
+elive-tools_3.8.23+202109130001+gita029d369b7-6buster11_all.deb
+retroarch_1.9.9+git36888612eb-6buster1_amd64.deb
+retroarch_1.9.9+git36888612eb-6buster1_i386.deb
+retroarch-assets_1.9.9+git36888612eb-6buster1_all.deb
+retroarch-dbgsym_1.9.9+git36888612eb-6buster1_amd64.deb
+retroarch-dbgsym_1.9.9+git36888612eb-6buster1_i386.deb
