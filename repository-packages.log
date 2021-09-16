@@ -50719,3 +50719,12 @@ elive-tools_3.8.23+202109130201+gitc9e27f0980-6buster11_all.deb
 
 -------- Wed 15 Sep 2021 12:37:46 PM -05 --------
 deliver_3.8.23+git201081194-6buster4_all.deb
+
+
+
+-------- Thu 16 Sep 2021 01:30:46 PM -05 --------
+retroarch_1.9.9+git36888612eb-6buster1_amd64.deb
+retroarch_1.9.9+git36888612eb-6buster1_i386.deb
+retroarch-assets_1.9.9+git36888612eb-6buster1_all.deb
+retroarch-dbgsym_1.9.9+git36888612eb-6buster1_amd64.deb
+retroarch-dbgsym_1.9.9+git36888612eb-6buster1_i386.deb
