@@ -50734,3 +50734,13 @@ retroarch-dbgsym_1.9.9+git36888612eb-6buster1_i386.deb
 -------- Thu 16 Sep 2021 01:47:40 PM -05 --------
 deliver_3.8.23+gitfca124078-6buster4_all.deb
 elive-desktop-applications_3.8.23+git2adbb701d-6buster1_all.deb
+
+
+
+-------- Sun 19 Sep 2021 01:54:23 PM -05 --------
+deliver_3.8.23+gitfca124078-6buster4_all.deb
+retroarch_1.9.10+gitd11ffdbb6b-6buster1_amd64.deb
+retroarch_1.9.10+gitd11ffdbb6b-6buster1_i386.deb
+retroarch-assets_1.9.10+gitd11ffdbb6b-6buster1_all.deb
+retroarch-dbgsym_1.9.10+gitd11ffdbb6b-6buster1_amd64.deb
+retroarch-dbgsym_1.9.10+gitd11ffdbb6b-6buster1_i386.deb
