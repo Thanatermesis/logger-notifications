@@ -50750,3 +50750,18 @@ retroarch-dbgsym_1.9.10+gitd11ffdbb6b-6buster1_i386.deb
 -------- Fri 01 Oct 2021 01:30:29 PM -05 --------
 eliveinstaller-6g_3.8.23+202109281920+gitd8bdb80f88-6buster12_amd64.deb
 eliveinstaller-6g_3.8.23+202109281920+gitd8bdb80f88-6buster12_i386.deb
+
+
+
+-------- Fri 01 Oct 2021 02:51:47 PM -05 --------
+cinelerra-gg_5.1.202109+gitda79fcfabb-1_amd64.deb
+cinelerra-gg-dbgsym_5.1.202109+gitda79fcfabb-1_amd64.deb
+cinelerra-gg-manual_5.1.202109+git5b5aa00a6c-1_all.deb
+luv-icon-theme_3.0.6+continuous-master+git202eaa66c-6buster1_amd64.deb
+luv-icon-theme_3.0.6+continuous-master+git202eaa66c-6buster1_i386.deb
+r8168-dkms_8.049.02-1_all.deb
+yad-gtk2_3.0.6+0.42.39+git312cfc53e-6buster1_amd64.deb
+yad-gtk2_3.0.6+0.42.39+git312cfc53e-6buster1_i386.deb
+yad-gtk2-data_3.0.6+0.42.39+git312cfc53e-6buster1_all.deb
+yad-gtk2-dbgsym_3.0.6+0.42.39+git312cfc53e-6buster1_amd64.deb
+yad-gtk2-dbgsym_3.0.6+0.42.39+git312cfc53e-6buster1_i386.deb
