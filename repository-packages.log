@@ -51004,3 +51004,15 @@ xserver-xorg-video-sis671_3.8.23+for-xorg-1.12-1+gitf20864890-6buster1_amd64.deb
 xserver-xorg-video-sis671_3.8.23+for-xorg-1.12-1+gitf20864890-6buster1_i386.deb
 xserver-xorg-video-sis671-dbgsym_3.8.23+for-xorg-1.12-1+gitf20864890-6buster1_amd64.deb
 xserver-xorg-video-sis671-dbgsym_3.8.23+for-xorg-1.12-1+gitf20864890-6buster1_i386.deb
+
+
+
+-------- Sat 09 Oct 2021 01:26:54 PM -05 --------
+base-files_10.3+deb10u11_amd64.deb
+base-files_10.3+deb10u11_i386.deb
+debconf_1.5.71+deb10u1_all.deb
+retroarch_1.9.11+gita9125fffaa-6buster1_amd64.deb
+retroarch_1.9.11+gita9125fffaa-6buster1_i386.deb
+retroarch-assets_1.9.11+gita9125fffaa-6buster1_all.deb
+retroarch-dbgsym_1.9.11+gita9125fffaa-6buster1_amd64.deb
+retroarch-dbgsym_1.9.11+gita9125fffaa-6buster1_i386.deb
