@@ -50996,3 +50996,11 @@ pulseaudio-compat-notinstalled_3.8.23+gitfadf11317-6buster1_i386.deb
 -------- Fri 08 Oct 2021 09:32:38 PM -05 --------
 deliver_3.8.23+gitceaa847cd-6buster4_all.deb
 elive-tools_3.8.23+202110090230+gitbcfba9afc4-6buster11_all.deb
+
+
+
+-------- Fri 08 Oct 2021 10:38:51 PM -05 --------
+xserver-xorg-video-sis671_3.8.23+for-xorg-1.12-1+gitf20864890-6buster1_amd64.deb
+xserver-xorg-video-sis671_3.8.23+for-xorg-1.12-1+gitf20864890-6buster1_i386.deb
+xserver-xorg-video-sis671-dbgsym_3.8.23+for-xorg-1.12-1+gitf20864890-6buster1_amd64.deb
+xserver-xorg-video-sis671-dbgsym_3.8.23+for-xorg-1.12-1+gitf20864890-6buster1_i386.deb
