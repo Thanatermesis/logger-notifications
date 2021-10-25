@@ -51455,3 +51455,28 @@ eeepc-acpi-scripts_3.8.23+git5e7aa7fdb-7bullseye1_all.deb
 
 -------- Mon 25 Oct 2021 06:06:30 PM -05 --------
 nicotine_3.8.23+3.1.1+git6a38158ac-6buster1_all.deb
+
+
+
+-------- Mon 25 Oct 2021 06:09:02 PM -05 --------
+acer-aspireone-fand_3.8.23+gite9f2ae58e-7bullseye1_all.deb
+audacious-skin-denon_3.8.23+gitedc8b02c6-7bullseye1_all.deb
+console-matrix-font_3.8.23+gitc5a6284f1-7bullseye1_all.deb
+enventor_3.8.23+1.0.0+git31aab8115-7bullseye1_amd64.deb
+enventor_3.8.23+1.0.0+git31aab8115-7bullseye1_i386.deb
+enventor-data_3.8.23+1.0.0+git31aab8115-7bullseye1_all.deb
+enventor-dbgsym_3.8.23+1.0.0+git31aab8115-7bullseye1_amd64.deb
+enventor-dbgsym_3.8.23+1.0.0+git31aab8115-7bullseye1_i386.deb
+festvox-us-artic-hts_3.8.23+git63179c0dd-7bullseye1_all.deb
+gnome-icon-theme-elementary_3.0-2_all.deb
+gnome-icon-theme-faenza_1.3_all.deb
+gnome-icon-theme-fs-icons_0.6-aplha4.20160602_all.deb
+gnome-icon-theme-meliae_1.2.20160415_all.deb
+libenventor-dev_3.8.23+1.0.0+git31aab8115-7bullseye1_amd64.deb
+libenventor-dev_3.8.23+1.0.0+git31aab8115-7bullseye1_i386.deb
+nicotine_3.8.23+3.1.1+git6a38158ac-7bullseye1_all.deb
+syasokoban_3.8.23+2.0.2+git1789c9ea6-7bullseye1_amd64.deb
+syasokoban_3.8.23+2.0.2+git1789c9ea6-7bullseye1_i386.deb
+syasokoban-data_3.8.23+2.0.2+git1789c9ea6-7bullseye1_all.deb
+syasokoban-dbgsym_3.8.23+2.0.2+git1789c9ea6-7bullseye1_amd64.deb
+syasokoban-dbgsym_3.8.23+2.0.2+git1789c9ea6-7bullseye1_i386.deb
