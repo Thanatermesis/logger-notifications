@@ -51529,3 +51529,12 @@ zoom_5.8.3.145_amd64.deb
 
 -------- Wed 27 Oct 2021 10:08:49 AM -05 --------
 nicotine_3.8.23+3.1.1+git09a95a7cd-6buster1_all.deb
+
+
+
+-------- Wed 27 Oct 2021 11:13:51 AM -05 --------
+linux-headers-5.10.0-0.bpo.8-686_5.10.46-2~bpo10+1_i386.deb
+linux-headers-5.10.0-0.bpo.8-amd64_5.10.46-4~bpo10+1_amd64.deb
+linux-headers-5.10.0-0.bpo.8-common_5.10.46-4~bpo10+1_all.deb
+linux-image-5.10.0-0.bpo.8-686_5.10.46-2~bpo10+1_i386.deb
+linux-image-5.10.0-0.bpo.8-amd64_5.10.46-4~bpo10+1_amd64.deb
