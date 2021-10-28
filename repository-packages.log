@@ -51569,3 +51569,16 @@ linux-image-5.10.0-0.bpo.8-686_5.10.46-2~bpo10+1_i386.deb
 linux-headers-5.10.0-0.bpo.8-amd64_5.10.46-4~bpo10+1_amd64.deb
 linux-headers-5.10.0-0.bpo.8-common_5.10.46-4~bpo10+1_all.deb
 linux-image-5.10.0-0.bpo.8-amd64_5.10.46-4~bpo10+1_amd64.deb
+
+
+
+-------- Wed 27 Oct 2021 09:13:16 PM -05 --------
+eliveinstaller-6g_3.8.23+202110280158+git4266fb7e43-6buster12_amd64.deb
+eliveinstaller-6g_3.8.23+202110280158+git4266fb7e43-6buster12_i386.deb
+elive-tools_3.8.23+202110280156+git80c5a9ab0f-6buster11_all.deb
+nicotine_3.8.23+3.1.1+gita5686901d-6buster1_all.deb
+retroarch_1.9.12+gite2b7c23902-6buster1_amd64.deb
+retroarch_1.9.12+gite2b7c23902-6buster1_i386.deb
+retroarch-assets_1.9.12+gite2b7c23902-6buster1_all.deb
+retroarch-dbgsym_1.9.12+gite2b7c23902-6buster1_amd64.deb
+retroarch-dbgsym_1.9.12+gite2b7c23902-6buster1_i386.deb
