@@ -51933,3 +51933,9 @@ terminology_3.8.24+1.11.0+git1adc9116f-7bullseye1_i386.deb
 terminology-data_3.8.24+1.11.0+git1adc9116f-7bullseye1_all.deb
 terminology-dbgsym_3.8.24+1.11.0+git1adc9116f-7bullseye1_amd64.deb
 terminology-dbgsym_3.8.24+1.11.0+git1adc9116f-7bullseye1_i386.deb
+
+
+
+-------- Tue 16 Nov 2021 01:24:14 PM -05 --------
+elive-skel_3.8.24+git42c711714-6buster1_all.deb
+elive-tools_3.8.24+202111161814+gitcfaf6b05a3-6buster11_all.deb
