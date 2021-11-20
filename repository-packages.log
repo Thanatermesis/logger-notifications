@@ -52107,3 +52107,9 @@ elive-security_3.8.24+git48ac86278-6buster1_all.deb
 elive-tools_3.8.24+202111201722+git7a2e196290-6buster11_all.deb
 zsh-elive_3.8.24+gitdcaac7ce8-6buster5_all.deb
 zsync-curl-data_0.6.2-3+gitad4c181309-6buster1_all.deb
+
+
+
+-------- Sat 20 Nov 2021 12:44:26 PM -05 --------
+base-files_10.3+deb10u11_amd64.deb
+base-files_10.3+deb10u11_i386.deb
