@@ -52134,3 +52134,41 @@ acer-aspireone-fand_3.8.24+gite9f2ae58e-6buster1_all.deb
 
 -------- Sat 20 Nov 2021 12:53:37 PM -05 --------
 acer-aspireone-fand_3.8.24+gite9f2ae58e-7bullseye1_all.deb
+
+
+
+-------- Sat 20 Nov 2021 06:47:37 PM -05 --------
+acer-aspireone-fand_3.8.24+gite9f2ae58e-7bullseye1_all.deb
+at-spi2-core-notinstalled_3.8.24+gitfadf11317-7bullseye1_amd64.deb
+at-spi2-core-notinstalled_3.8.24+gitfadf11317-7bullseye1_i386.deb
+base-files_11.1+deb11u1_amd64.deb
+base-files_11.1+deb11u1_i386.deb
+dolphin-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_amd64.deb
+dolphin-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_i386.deb
+elive-security_3.8.24+git48ac86278-7bullseye1_all.deb
+elive-tools_3.8.24+202111201951+git7a2e196290-7bullseye1_all.deb
+gnome-settings-daemon-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_amd64.deb
+gnome-settings-daemon-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_i386.deb
+gnome-terminal-notinstalled_3.8.24+gitfadf11317-7bullseye1_amd64.deb
+gnome-terminal-notinstalled_3.8.24+gitfadf11317-7bullseye1_i386.deb
+konqueror-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_amd64.deb
+konqueror-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_i386.deb
+libreoffice-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_amd64.deb
+libreoffice-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_i386.deb
+linux-headers-generic_3.8.24+gitfadf11317-7bullseye1_amd64.deb
+linux-headers-generic_3.8.24+gitfadf11317-7bullseye1_i386.deb
+man-db-notinstalled_3.8.24+gitfadf11317-7bullseye1_amd64.deb
+man-db-notinstalled_3.8.24+gitfadf11317-7bullseye1_i386.deb
+nautilus-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_amd64.deb
+nautilus-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_i386.deb
+neofetch_7.1.0-2_all.deb
+pcmanfm-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_amd64.deb
+pcmanfm-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_i386.deb
+pulseaudio-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_amd64.deb
+pulseaudio-compat-notinstalled_3.8.24+gitfadf11317-7bullseye1_i386.deb
+zsh-elive_3.8.24+gitdcaac7ce8-7bullseye1_all.deb
+zsync-curl_0.6.2-3+gitad4c181309-7bullseye1_amd64.deb
+zsync-curl_0.6.2-3+gitad4c181309-7bullseye1_i386.deb
+zsync-curl-data_0.6.2-3+gitad4c181309-7bullseye1_all.deb
+zsync-curl-dbgsym_0.6.2-3+gitad4c181309-7bullseye1_amd64.deb
+zsync-curl-dbgsym_0.6.2-3+gitad4c181309-7bullseye1_i386.deb
