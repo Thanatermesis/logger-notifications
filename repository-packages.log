@@ -52022,3 +52022,37 @@ zsync-curl-data_0.6.2-3+gitad4c181309-7bullseye1_all.deb
 
 -------- Sat 20 Nov 2021 11:37:13 AM -05 --------
 acer-aspireone-fand_3.8.24+gite9f2ae58e-6buster1_all.deb
+
+
+
+-------- Sat 20 Nov 2021 11:43:21 AM -05 --------
+acer-aspireone-fand_3.8.24+gite9f2ae58e-6buster1_all.deb
+at-spi2-core-notinstalled_3.8.24+gitfadf11317-6buster1_amd64.deb
+at-spi2-core-notinstalled_3.8.24+gitfadf11317-6buster1_i386.deb
+base-files_10.3+deb10u11_amd64.deb
+base-files_10.3+deb10u11_i386.deb
+dolphin-compat-notinstalled_3.8.24+gitfadf11317-6buster1_amd64.deb
+dolphin-compat-notinstalled_3.8.24+gitfadf11317-6buster1_i386.deb
+gnome-settings-daemon-compat-notinstalled_3.8.24+gitfadf11317-6buster1_amd64.deb
+gnome-settings-daemon-compat-notinstalled_3.8.24+gitfadf11317-6buster1_i386.deb
+gnome-terminal-notinstalled_3.8.24+gitfadf11317-6buster1_amd64.deb
+gnome-terminal-notinstalled_3.8.24+gitfadf11317-6buster1_i386.deb
+konqueror-compat-notinstalled_3.8.24+gitfadf11317-6buster1_amd64.deb
+konqueror-compat-notinstalled_3.8.24+gitfadf11317-6buster1_i386.deb
+libreoffice-compat-notinstalled_3.8.24+gitfadf11317-6buster1_amd64.deb
+libreoffice-compat-notinstalled_3.8.24+gitfadf11317-6buster1_i386.deb
+linux-headers-generic_3.8.24+gitfadf11317-6buster1_amd64.deb
+linux-headers-generic_3.8.24+gitfadf11317-6buster1_i386.deb
+man-db-notinstalled_3.8.24+gitfadf11317-6buster1_amd64.deb
+man-db-notinstalled_3.8.24+gitfadf11317-6buster1_i386.deb
+nautilus-compat-notinstalled_3.8.24+gitfadf11317-6buster1_amd64.deb
+nautilus-compat-notinstalled_3.8.24+gitfadf11317-6buster1_i386.deb
+pcmanfm-compat-notinstalled_3.8.24+gitfadf11317-6buster1_amd64.deb
+pcmanfm-compat-notinstalled_3.8.24+gitfadf11317-6buster1_i386.deb
+pulseaudio-compat-notinstalled_3.8.24+gitfadf11317-6buster1_amd64.deb
+pulseaudio-compat-notinstalled_3.8.24+gitfadf11317-6buster1_i386.deb
+zsync-curl_0.6.2-3+gitad4c181309-6buster1_amd64.deb
+zsync-curl_0.6.2-3+gitad4c181309-6buster1_i386.deb
+zsync-curl-data_0.6.2-3+gitad4c181309-6buster1_all.deb
+zsync-curl-dbgsym_0.6.2-3+gitad4c181309-6buster1_amd64.deb
+zsync-curl-dbgsym_0.6.2-3+gitad4c181309-6buster1_i386.deb
