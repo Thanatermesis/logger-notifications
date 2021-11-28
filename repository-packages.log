@@ -52509,3 +52509,15 @@ zsync-curl_0.6.2-3+gitad4c181309-6buster1_i386.deb
 zsync-curl-data_0.6.2-3+gitad4c181309-6buster1_all.deb
 zsync-curl-dbgsym_0.6.2-3+gitad4c181309-6buster1_amd64.deb
 zsync-curl-dbgsym_0.6.2-3+gitad4c181309-6buster1_i386.deb
+
+
+
+-------- Sun 28 Nov 2021 02:06:36 PM -05 --------
+elive-tools_3.8.24+202111281853+gitea93e5a424-6buster11_all.deb
+eltrans_3.8.24+202111281838+gitb0efcb38e7-6buster1_all.deb
+retroarch_1.9.13.2+gitfca72f67d1-6buster1_amd64.deb
+retroarch_1.9.13.2+gitfca72f67d1-6buster1_i386.deb
+retroarch-assets_1.9.13.2+gitfca72f67d1-6buster1_all.deb
+retroarch-dbgsym_1.9.13.2+gitfca72f67d1-6buster1_amd64.deb
+retroarch-dbgsym_1.9.13.2+gitfca72f67d1-6buster1_i386.deb
+warning-messages_3.8.24+git7c9ccd649-6buster1_all.deb
