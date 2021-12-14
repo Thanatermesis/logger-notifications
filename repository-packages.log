@@ -52630,3 +52630,16 @@ gnome-themes-qogir_3.8.24+2021-11-17+gitc6cf34e16-6buster1_all.deb
 luv-icon-theme_3.8.24+continuous-master+gita5c45c502-6buster1_amd64.deb
 luv-icon-theme_3.8.24+continuous-master+gita5c45c502-6buster1_i386.deb
 nicotine_3.8.24+3.1.1+gitc6fadb131-6buster1_all.deb
+
+
+
+-------- Tue 14 Dec 2021 02:35:54 PM -05 --------
+eliveinstaller-6g_3.8.24+202112141925+gitc79b25e937-7bullseye1_amd64.deb
+eliveinstaller-6g_3.8.24+202112141925+gitc79b25e937-7bullseye1_i386.deb
+elive-skel-default-all_3.8.24+gitb91dc0501-7bullseye1_all.deb
+elive-tools_3.8.24+202112141923+git56e3d5c9af-7bullseye1_all.deb
+gnome-themes-qogir_3.8.24+2021-11-17+gitc6cf34e16-7bullseye1_all.deb
+luv-icon-theme_3.8.24+continuous-master+gita5c45c502-7bullseye1_amd64.deb
+luv-icon-theme_3.8.24+continuous-master+gita5c45c502-7bullseye1_i386.deb
+nicotine_3.8.24+3.1.1+gitc6fadb131-7bullseye1_all.deb
+zsh-elive_3.8.24+git3a892f699-7bullseye1_all.deb
