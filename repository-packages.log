@@ -52830,3 +52830,13 @@ terminology-dbgsym_3.8.24+1.11.0+git3e95d2ad9-6buster13_i386.deb
 
 -------- Thu 30 Dec 2021 10:30:35 AM -05 --------
 elive-tools_3.8.24+202112301528+git119b9fe788-7bullseye1_all.deb
+
+
+
+-------- Thu 30 Dec 2021 10:32:44 AM -05 --------
+elive-tools_3.8.24+202112301528+git119b9fe788-6buster1_all.deb
+terminology_3.8.24+1.11.0+git3e95d2ad9-6buster13_amd64.deb
+terminology_3.8.24+1.11.0+git3e95d2ad9-6buster13_i386.deb
+terminology-data_3.8.24+1.11.0+git3e95d2ad9-6buster13_all.deb
+terminology-dbgsym_3.8.24+1.11.0+git3e95d2ad9-6buster13_amd64.deb
+terminology-dbgsym_3.8.24+1.11.0+git3e95d2ad9-6buster13_i386.deb
