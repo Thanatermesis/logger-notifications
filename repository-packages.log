@@ -52944,3 +52944,15 @@ elive-upgrader_202201101745+gitcaad72a185-6buster4_all.deb
 
 -------- Mon 10 Jan 2022 01:03:04 PM -05 --------
 elive-upgrader_202201101801+git0df4c9dbdb-6buster4_all.deb
+
+
+
+-------- Mon 10 Jan 2022 01:44:53 PM -05 --------
+elive-daemons_3.8.24+git423cca3f9-6buster1_all.deb
+eliveinstaller-6g_3.8.24+202201101838+gitc4c0ed3ea7-6buster12_amd64.deb
+eliveinstaller-6g_3.8.24+202201101838+gitc4c0ed3ea7-6buster12_i386.deb
+nicotine_3.8.24+3.2.0+git9648101dd-6buster1_all.deb
+supermariowar_3.8.24+continuous+gitca9430e78-6buster1_amd64.deb
+supermariowar_3.8.24+continuous+gitca9430e78-6buster1_i386.deb
+supermariowar-data_3.8.24+continuous+gitca9430e78-6buster1_amd64.deb
+supermariowar-data_3.8.24+continuous+gitca9430e78-6buster1_i386.deb
