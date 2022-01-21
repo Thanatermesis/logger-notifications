@@ -52976,3 +52976,30 @@ elive-upgrader_202201112020+gitcb3bac41fe-7bullseye1_all.deb
 
 -------- Tue 11 Jan 2022 03:23:02 PM -05 --------
 elive-upgrader_202201112020+gitcb3bac41fe-6buster1_all.deb
+
+
+
+-------- Thu 20 Jan 2022 11:36:15 PM -05 --------
+eliveinstaller-6g_3.8.24+202201130201+gitf83a46a816-6buster12_amd64.deb
+eliveinstaller-6g_3.8.24+202201130201+gitf83a46a816-6buster12_i386.deb
+elive-skel-default-vim_3.8.24+gitbfa0da508-6buster3_all.deb
+elive-tools_3.8.24+202201210403+git05db0f9373-6buster11_all.deb
+elive-upgrader_202201130200+gitcb3bac41fe-6buster4_all.deb
+enlightenment_0.25.1+18+git6ad07d07c2-6buster18_amd64.deb
+enlightenment_0.25.1+18+git6ad07d07c2-6buster18_i386.deb
+enlightenment-data_0.25.1+18+git6ad07d07c2-6buster18_all.deb
+enlightenment-dbgsym_0.25.1+18+git6ad07d07c2-6buster18_amd64.deb
+enlightenment-dbgsym_0.25.1+18+git6ad07d07c2-6buster18_i386.deb
+enlightenment-dev_0.25.1+18+git6ad07d07c2-6buster18_amd64.deb
+enlightenment-dev_0.25.1+18+git6ad07d07c2-6buster18_i386.deb
+nicotine_3.8.24+3.2.0+gitfd9f12339-6buster1_all.deb
+supermariowar_3.8.24+continuous+gitcb1405df9-6buster1_amd64.deb
+supermariowar_3.8.24+continuous+gitcb1405df9-6buster1_i386.deb
+supermariowar-data_3.8.24+continuous+gitcb1405df9-6buster1_amd64.deb
+supermariowar-data_3.8.24+continuous+gitcb1405df9-6buster1_i386.deb
+terminology_3.8.24+1.12.1+gitfa07673a4-6buster13_amd64.deb
+terminology_3.8.24+1.12.1+gitfa07673a4-6buster13_i386.deb
+terminology-data_3.8.24+1.12.1+gitfa07673a4-6buster13_all.deb
+terminology-dbgsym_3.8.24+1.12.1+gitfa07673a4-6buster13_amd64.deb
+terminology-dbgsym_3.8.24+1.12.1+gitfa07673a4-6buster13_i386.deb
+zsh-elive_3.8.24+gitda8870542-6buster5_all.deb
