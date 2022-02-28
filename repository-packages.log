@@ -53647,3 +53647,12 @@ live-boot-doc_3.8.24+debian5.0-a5-1+git9d2825659-6buster1_all.deb
 live-boot-initramfs-tools_3.8.24+debian5.0-a5-1+git9d2825659-6buster1_all.deb
 luv-icon-theme_3.8.24+continuous-master+git5aef77cc1-6buster1_amd64.deb
 luv-icon-theme_3.8.24+continuous-master+git5aef77cc1-6buster1_i386.deb
+
+
+
+-------- Sun 27 Feb 2022 11:05:27 PM -05 --------
+deliver_3.8.24+git4e9e9a7e8-6buster4_all.deb
+elive-desktop-applications_3.8.24+git50c47dd67-6buster1_all.deb
+eliveinstaller-6g_3.8.24+202202280208+gitaf742df6d5-6buster12_amd64.deb
+eliveinstaller-6g_3.8.24+202202280208+gitaf742df6d5-6buster12_i386.deb
+elive-tools_3.8.24+202202280403+gitf54125d753-6buster11_all.deb
