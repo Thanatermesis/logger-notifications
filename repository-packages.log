@@ -53732,3 +53732,21 @@ deliver_3.8.24+git3fdfd8805-6buster4_all.deb
 eliveinstaller-6g_3.8.24+202203102309+git633aebca39-6buster12_amd64.deb
 eliveinstaller-6g_3.8.24+202203102309+git633aebca39-6buster12_i386.deb
 elive-tools_3.8.24+202203102111+git048d4ef2d1-6buster11_all.deb
+
+
+
+-------- Mon 28 Mar 2022 11:16:54 AM -05 --------
+base-files_10.3+deb10u12_amd64.deb
+base-files_10.3+deb10u12_i386.deb
+deliver_3.8.26+git3fdfd8805-6buster4_all.deb
+elive-daemons_3.8.26+gitdcf05468f-6buster1_all.deb
+eliveinstaller-6g_3.8.26+202203281604+git4cdd331db9-6buster12_amd64.deb
+eliveinstaller-6g_3.8.26+202203281604+git4cdd331db9-6buster12_i386.deb
+elive-tools_3.8.26+202203281603+git8481963d52-6buster11_all.deb
+gnome-themes-qogir_3.8.26+2021-12-25+git9b50682f7-6buster1_all.deb
+retroarch_1.10.2+git8b6fe0a934-6buster1_amd64.deb
+retroarch_1.10.2+git8b6fe0a934-6buster1_i386.deb
+retroarch-assets_1.10.2+git8b6fe0a934-6buster1_all.deb
+retroarch-dbgsym_1.10.2+git8b6fe0a934-6buster1_amd64.deb
+retroarch-dbgsym_1.10.2+git8b6fe0a934-6buster1_i386.deb
+vim-colorscheme-elive-molokai_3.8.26+git73ca55bad-6buster1_all.deb
