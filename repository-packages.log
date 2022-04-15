@@ -54072,3 +54072,18 @@ terminology_3.8.27+1.12.1+git40bd9a016-7bullseye1_i386.deb
 terminology-data_3.8.27+1.12.1+git40bd9a016-7bullseye1_all.deb
 terminology-dbgsym_3.8.27+1.12.1+git40bd9a016-7bullseye1_amd64.deb
 terminology-dbgsym_3.8.27+1.12.1+git40bd9a016-7bullseye1_i386.deb
+
+
+
+-------- Fri 15 Apr 2022 03:48:19 PM -05 --------
+enlightenment-emodule-forecasts_3.8.27+202204152046+git0667c3dca4-7bullseye0.0.0_amd64.deb
+enlightenment-emodule-forecasts_3.8.27+202204152046+git0667c3dca4-7bullseye0.0.0_i386.deb
+enlightenment-emodule-forecasts-dbgsym_3.8.27+202204152046+git0667c3dca4-7bullseye0.0.0_amd64.deb
+enlightenment-emodule-forecasts-dbgsym_3.8.27+202204152046+git0667c3dca4-7bullseye0.0.0_i386.deb
+enventor_3.8.27+1.0.0+gitea3c9f371-7bullseye1_amd64.deb
+enventor_3.8.27+1.0.0+gitea3c9f371-7bullseye1_i386.deb
+enventor-data_3.8.27+1.0.0+gitea3c9f371-7bullseye1_all.deb
+enventor-dbgsym_3.8.27+1.0.0+gitea3c9f371-7bullseye1_amd64.deb
+enventor-dbgsym_3.8.27+1.0.0+gitea3c9f371-7bullseye1_i386.deb
+libenventor-dev_3.8.27+1.0.0+gitea3c9f371-7bullseye1_amd64.deb
+libenventor-dev_3.8.27+1.0.0+gitea3c9f371-7bullseye1_i386.deb
