@@ -54107,3 +54107,9 @@ edi-data_3.8.27+v0.8.0+git4cf0d7cba-6buster0.0.0_all.deb
 edi-dbgsym_3.8.27+v0.8.0+git4cf0d7cba-6buster0.0.0_amd64.deb
 edi-dbgsym_3.8.27+v0.8.0+git4cf0d7cba-6buster0.0.0_i386.deb
 edi-doc_3.8.27+v0.8.0+git4cf0d7cba-6buster0.0.0_all.deb
+
+
+
+-------- Mon 18 Apr 2022 07:28:23 PM -05 --------
+elive-daemons_3.8.27+git79c82e440-6buster1_all.deb
+elive-tools_3.8.27+202204161813+git7643a22a8e-6buster11_all.deb
