@@ -54510,3 +54510,10 @@ virtualbox-guest-x11-dbgsym_6.1.34-dfsg-1_amd64.deb
 virtualbox-qt_6.1.34-dfsg-1_amd64.deb
 virtualbox-qt-dbgsym_6.1.34-dfsg-1_amd64.deb
 virtualbox-source_6.1.34-dfsg-1_amd64.deb
+
+
+
+-------- Wed 20 Apr 2022 05:50:01 PM -05 --------
+deliver_3.8.27+gitf65073739-7bullseye1_all.deb
+elive-daemons_3.8.27+git79c82e440-7bullseye1_all.deb
+elive-udev_3.8.27+gitb6296f039-7bullseye1_all.deb
