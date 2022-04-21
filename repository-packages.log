@@ -55004,3 +55004,9 @@ nvidia-settings-legacy-340xx_340.108-5_amd64.deb
 nvidia-settings-legacy-340xx_340.108-5_i386.deb
 nvidia-settings-legacy-340xx-dbgsym_340.108-5_amd64.deb
 nvidia-settings-legacy-340xx-dbgsym_340.108-5_i386.deb
+
+
+
+-------- Thu 21 Apr 2022 02:33:39 PM -05 --------
+deliver_3.8.27+git13343ed8f-7bullseye1_all.deb
+elive-skel_3.8.27+git42c711714-7bullseye1_all.deb
