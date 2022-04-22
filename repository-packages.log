@@ -55010,3 +55010,13 @@ nvidia-settings-legacy-340xx-dbgsym_340.108-5_i386.deb
 -------- Thu 21 Apr 2022 02:33:39 PM -05 --------
 deliver_3.8.27+git13343ed8f-7bullseye1_all.deb
 elive-skel_3.8.27+git42c711714-7bullseye1_all.deb
+
+
+
+-------- Thu 21 Apr 2022 10:18:13 PM -05 --------
+deliver_3.8.27+git609f57012-7bullseye1_all.deb
+eliveinstaller-6g_3.8.27+202204220115+git78042d5858-7bullseye1_amd64.deb
+eliveinstaller-6g_3.8.27+202204220115+git78042d5858-7bullseye1_i386.deb
+elive-skel_3.8.27+git42c711714-7bullseye1_all.deb
+elive-tools_3.8.27+202204220115+gitaa8df5ba32-7bullseye1_all.deb
+elive-upgrader_202204220316+git2f97e77220-7bullseye1_all.deb
