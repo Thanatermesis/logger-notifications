@@ -55055,3 +55055,12 @@ deliver_3.8.27+git79c8f8163-7bullseye1_all.deb
 eliveinstaller-6g_3.8.27+202204221759+git843d19432c-7bullseye1_i386.deb
 eliveinstaller-6g_3.8.27+202204221759+git9b62dfa3a0-7bullseye1_amd64.deb
 elive-tools_3.8.27+202204221759+gita1a77c28fd-7bullseye1_all.deb
+
+
+
+-------- Sat 23 Apr 2022 11:56:54 AM -05 --------
+deliver_3.8.27+git14f17c362-7bullseye1_all.deb
+eliveinstaller-6g_3.8.27+202204231652+git3c72d7c2b7-7bullseye1_amd64.deb
+eliveinstaller-6g_3.8.27+202204231652+git3c72d7c2b7-7bullseye1_i386.deb
+elive-skel-default-all_3.8.27+git276b7955f-7bullseye1_all.deb
+elive-tools_3.8.27+202204231652+gita1a77c28fd-7bullseye1_all.deb
