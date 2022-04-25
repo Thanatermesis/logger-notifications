@@ -55120,3 +55120,13 @@ eliveinstaller-6g_3.8.27+202204250330+git3ef73fdec6-7bullseye1_amd64.deb
 eliveinstaller-6g_3.8.27+202204250330+git3ef73fdec6-7bullseye1_i386.deb
 elive-skel-default-all_3.8.27+git0358156e2-7bullseye1_all.deb
 elive-tools_3.8.27+202204250330+gitc975b25967-7bullseye1_all.deb
+
+
+
+-------- Mon 25 Apr 2022 01:46:20 AM -05 --------
+deliver_3.8.27+gitef2b42092-7bullseye1_all.deb
+eliveinstaller-6g_3.8.27+202204250642+git3ef73fdec6-7bullseye1_amd64.deb
+eliveinstaller-6g_3.8.27+202204250642+git3ef73fdec6-7bullseye1_i386.deb
+elive-skel_3.8.27+git278fb8fed-7bullseye1_all.deb
+elive-skel-default-all_3.8.27+gitb6db01b00-7bullseye1_all.deb
+elive-tools_3.8.27+202204250642+gitc975b25967-7bullseye1_all.deb
