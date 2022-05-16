@@ -55642,3 +55642,16 @@ elive-upgrader_202205141709+git0f0a270751-7bullseye1_all.deb
 hebernate_3.8.27+gitc835b6497-7bullseye1_all.deb
 usb-bootable-elive_3.8.27+gitdaef0c3ab-7bullseye1_all.deb
 warning-messages_3.8.27+gitc37104a44-7bullseye1_all.deb
+
+
+
+-------- Mon 16 May 2022 09:44:14 AM -05 --------
+elive-daemons_3.8.27+git59883167b-7bullseye1_all.deb
+elive-extra-features_3.8.27+gite6e1d203e-7bullseye1_all.deb
+eliveremote_3.8.27+git49fe151d5-7bullseye1_all.deb
+elive-skel_3.8.27+git11b9804dc-7bullseye1_all.deb
+elive-upgrader_202205160039+git0f0a270751-7bullseye1_all.deb
+eltrans_3.8.27+202205160043+git48b12ccea4-7bullseye1_all.deb
+hebernate_3.8.27+gitc835b6497-7bullseye1_all.deb
+usb-bootable-elive_3.8.27+git50cfbdee1-7bullseye1_all.deb
+warning-messages_3.8.27+gitc37104a44-7bullseye1_all.deb
