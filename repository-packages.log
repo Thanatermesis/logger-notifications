@@ -56179,3 +56179,17 @@ eliveinstaller-6g_3.8.27+202206020200+git544b772f39-7bullseye1_amd64.deb
 eliveinstaller-6g_3.8.27+202206020200+git544b772f39-7bullseye1_i386.deb
 elive-skel-default-all_3.8.27+git1e27ae5b4-7bullseye1_all.deb
 elive-tools_3.8.27+202206020157+git40aa1ea250-7bullseye1_all.deb
+
+
+
+-------- Thu 02 Jun 2022 12:24:08 PM -05 --------
+e17-moksha_3.8.27+0.3.3+git5d987691e-7bullseye0.0.0_amd64.deb
+e17-moksha_3.8.27+0.3.3+git5d987691e-7bullseye0.0.0_i386.deb
+e17-moksha-dbg_3.8.27+0.3.3+git5d987691e-7bullseye0.0.0_i386.deb
+libedbus1_1.7.10+git72b1524e43-7bullseye0.0.0_amd64.deb
+libedbus1_1.7.10+git72b1524e43-7bullseye0.0.0_i386.deb
+libedbus1-dbgsym_1.7.10+git72b1524e43-7bullseye0.0.0_amd64.deb
+libedbus1-dbgsym_1.7.10+git72b1524e43-7bullseye0.0.0_i386.deb
+libedbus-dev_1.7.10+git72b1524e43-7bullseye0.0.0_amd64.deb
+libedbus-dev_1.7.10+git72b1524e43-7bullseye0.0.0_i386.deb
+libedbus-doc_1.7.10+git72b1524e43-7bullseye0.0.0_all.deb
