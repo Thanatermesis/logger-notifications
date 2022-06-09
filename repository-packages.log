@@ -56355,3 +56355,13 @@ terminology_3.8.27+1.12.1+gitaf8d75201-7bullseye1_i386.deb
 terminology-data_3.8.27+1.12.1+gitaf8d75201-7bullseye1_all.deb
 terminology-dbgsym_3.8.27+1.12.1+gitaf8d75201-7bullseye1_amd64.deb
 terminology-dbgsym_3.8.27+1.12.1+gitaf8d75201-7bullseye1_i386.deb
+
+
+
+-------- Thu 09 Jun 2022 03:02:45 PM -05 --------
+adduser_3.118_all.deb
+zenity_3.32.0-6_amd64.deb
+zenity_3.32.0-6_i386.deb
+zenity-common_3.32.0-6_all.deb
+zenity-dbgsym_3.32.0-6_amd64.deb
+zenity-dbgsym_3.32.0-6_i386.deb
