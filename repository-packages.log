@@ -56596,3 +56596,11 @@ virtualbox-guest-x11-dbgsym_6.1.34-dfsg-3_amd64.deb
 virtualbox-qt_6.1.34-dfsg-3_amd64.deb
 virtualbox-qt-dbgsym_6.1.34-dfsg-3_amd64.deb
 virtualbox-source_6.1.34-dfsg-3_amd64.deb
+
+
+
+-------- Thu 23 Jun 2022 08:27:09 PM -05 --------
+eliveinstaller-6g_3.8.27+202206240118+gite82316d097-7bullseye1_amd64.deb
+eliveinstaller-6g_3.8.27+202206240118+gite82316d097-7bullseye1_i386.deb
+elive-skel_3.8.27+gite3c2ede76-7bullseye1_all.deb
+elive-tools_3.8.27+202206240118+git2fbf48c654-7bullseye1_all.deb
