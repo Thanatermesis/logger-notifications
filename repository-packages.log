@@ -56643,3 +56643,13 @@ usb-bootable-elive_3.0.6+gitdadf46216-7bullseye1_all.deb
 
 -------- Sat 25 Jun 2022 02:43:40 PM -05 --------
 zsh-elive_3.0.6+git2e41657af-7bullseye1_all.deb
+
+
+
+-------- Tue 28 Jun 2022 01:51:35 PM -05 --------
+ddcci-dkms_0.4.2-3_all.deb
+elive-daemons_3.8.27+git068b804f6-7bullseye1_all.deb
+elive-help_3.8.27+git65656a7fc-7bullseye1_all.deb
+elive-skel-default-all_3.8.27+gitef41f1ca5-7bullseye1_all.deb
+usb-bootable-elive_3.8.27+gitdadf46216-7bullseye1_all.deb
+zsh-elive_3.8.27+git65ae31932-7bullseye1_all.deb
