@@ -56839,3 +56839,13 @@ elive-skel-default-all_3.8.27+git4ed742af0-7bullseye1_all.deb
 elive-tools_3.8.27+202207021557+gitbf085e0982-7bullseye1_all.deb
 elive-upgrader_202207021559+git87edcea61a-7bullseye1_all.deb
 gnome-icon-theme_3.4.0-2+202207021602_all.deb
+
+
+
+-------- Sat 02 Jul 2022 04:51:19 PM -05 --------
+e16_1.0.25+git3b07d3f12a-7bullseye1_amd64.deb
+e16_1.0.25+git3b07d3f12a-7bullseye1_i386.deb
+e16-data_1.0.25+git3b07d3f12a-7bullseye1_amd64.deb
+e16-data_1.0.25+git3b07d3f12a-7bullseye1_i386.deb
+e16-dbg_1.0.25+git3b07d3f12a-7bullseye1_amd64.deb
+e16-dbg_1.0.25+git3b07d3f12a-7bullseye1_i386.deb
