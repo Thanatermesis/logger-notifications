@@ -56929,3 +56929,42 @@ elive-upgrader_202207090101+git2857a94f8d-7bullseye1_all.deb
 
 -------- Fri 08 Jul 2022 08:05:44 PM -05 --------
 elive-upgrader_202207090104+git041149bc3a-7bullseye1_all.deb
+
+
+
+-------- Sat 09 Jul 2022 11:08:37 AM -05 --------
+at-spi2-core-notinstalled_100.100.1-7bullseye1_amd64.deb
+at-spi2-core-notinstalled_100.100.1-7bullseye1_i386.deb
+base-files_11.1+deb11u4_amd64.deb
+base-files_11.1+deb11u4_i386.deb
+bash_5.1-2+b3_amd64.deb
+bash_5.1-2+b3_i386.deb
+dolphin-compat-notinstalled_100.100.1-7bullseye1_amd64.deb
+dolphin-compat-notinstalled_100.100.1-7bullseye1_i386.deb
+elive-desktop-wrapper_3.8.30+git9692920db-7bullseye1_all.deb
+elive-extra-features_3.8.30+git275c5badf-7bullseye1_all.deb
+eliveinstaller-6g_3.8.30+202207091602+git42ac03f20c-7bullseye1_amd64.deb
+eliveinstaller-6g_3.8.30+202207091602+git42ac03f20c-7bullseye1_i386.deb
+elive-news_3.8.30+gitc20204486-7bullseye1_all.deb
+elive-skel_3.8.30+gita3c973901-7bullseye1_all.deb
+elive-skel-default-all_3.8.30+gitc2bf51b37-7bullseye1_all.deb
+gnome-settings-daemon-compat-notinstalled_100.100.1-7bullseye1_amd64.deb
+gnome-settings-daemon-compat-notinstalled_100.100.1-7bullseye1_i386.deb
+gnome-terminal-notinstalled_100.100.1-7bullseye1_amd64.deb
+gnome-terminal-notinstalled_100.100.1-7bullseye1_i386.deb
+hebernate_3.8.30+gitf6d22a4c1-7bullseye1_all.deb
+konqueror-compat-notinstalled_100.100.1-7bullseye1_amd64.deb
+konqueror-compat-notinstalled_100.100.1-7bullseye1_i386.deb
+libreoffice-compat-notinstalled_100.100.1-7bullseye1_amd64.deb
+libreoffice-compat-notinstalled_100.100.1-7bullseye1_i386.deb
+linux-headers-generic_100.100.1-7bullseye1_amd64.deb
+linux-headers-generic_100.100.1-7bullseye1_i386.deb
+man-db-notinstalled_100.100.1-7bullseye1_amd64.deb
+man-db-notinstalled_100.100.1-7bullseye1_i386.deb
+nautilus-compat-notinstalled_100.100.1-7bullseye1_amd64.deb
+nautilus-compat-notinstalled_100.100.1-7bullseye1_i386.deb
+pcmanfm-compat-notinstalled_100.100.1-7bullseye1_amd64.deb
+pcmanfm-compat-notinstalled_100.100.1-7bullseye1_i386.deb
+pulseaudio-compat-notinstalled_100.100.1-7bullseye1_amd64.deb
+pulseaudio-compat-notinstalled_100.100.1-7bullseye1_i386.deb
+thunar-audio-converter_3.8.30+git4ad584d4d-7bullseye1_all.deb
