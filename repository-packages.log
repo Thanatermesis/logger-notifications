@@ -56987,3 +56987,12 @@ fonts-dejavu-extra_2.37-2_all.deb
 -------- Fri 15 Jul 2022 04:42:07 PM -05 --------
 elive-upgrader_202207152140+git051b530880-7bullseye1_all.deb
 hebernate_3.8.30+git956155158-7bullseye1_all.deb
+
+
+
+-------- Sat 16 Jul 2022 01:48:20 PM -05 --------
+deliver_3.8.30+git2d7b13be9-7bullseye1_all.deb
+elive-daemons_3.8.30+git93bfb0e10-7bullseye1_all.deb
+eliveinstaller-6g_3.8.30+202207161842+git5a34c72aa0-7bullseye1_amd64.deb
+eliveinstaller-6g_3.8.30+202207161842+git5a34c72aa0-7bullseye1_i386.deb
+elive-tools_3.8.30+202207161845+giteef9bc74e9-7bullseye1_all.deb
