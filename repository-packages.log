@@ -57179,3 +57179,16 @@ deliver_3.8.30+gitbdd82855b-7bullseye1_all.deb
 elive-tools_3.8.30+202210032119+gite27d9d741f-7bullseye1_all.deb
 elive-upgrader_202209291832+gitb97192a8d9-7bullseye1_all.deb
 gnome-themes-qogir_3.8.30+2022-07-17+git022d487c0-7bullseye1_all.deb
+
+
+
+-------- Sun 16 Oct 2022 01:50:29 PM -05 --------
+deliver_3.8.30+git13af05f76-7bullseye1_all.deb
+gnome-epub-thumbnailer_3.8.23+1.6+git0211ca3c1-7bullseye1_amd64.deb
+gnome-epub-thumbnailer_3.8.23+1.6+git0211ca3c1-7bullseye1_i386.deb
+gnome-epub-thumbnailer-data_3.8.23+1.6+git0211ca3c1-7bullseye1_all.deb
+retroarch_1.12.0+git415925c5dc-7bullseye1_amd64.deb
+retroarch_1.12.0+git415925c5dc-7bullseye1_i386.deb
+retroarch-assets_1.12.0+git415925c5dc-7bullseye1_all.deb
+retroarch-dbgsym_1.12.0+git415925c5dc-7bullseye1_amd64.deb
+retroarch-dbgsym_1.12.0+git415925c5dc-7bullseye1_i386.deb
