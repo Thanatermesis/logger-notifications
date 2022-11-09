@@ -57417,3 +57417,18 @@ firmware-siano_20221012-1_all.deb
 firmware-ti-connectivity_20221012-1_all.deb
 gnome-icon-theme-candy_3.0.6+git8697de2a7-7bullseye0.0.0_all.deb
 gnome-themes-qogir_3.0.6+2022-10-16+git7ea9e834a-7bullseye1_all.deb
+
+
+
+-------- Wed 09 Nov 2022 11:07:36 AM -05 --------
+e16_1.0.26+git6a0c30e77f-7bullseye1_amd64.deb
+e16-data_1.0.26+git6a0c30e77f-7bullseye1_amd64.deb
+e16-dbg_1.0.26+git6a0c30e77f-7bullseye1_amd64.deb
+e16-docs_3.0.6+git355b3a667-7bullseye1_all.deb
+e16-epplets_3.0.6+0.17.0+gita700d6b98-7bullseye1_amd64.deb
+e16-epplets-data_3.0.6+0.17.0+gita700d6b98-7bullseye1_all.deb
+e16-epplets-dbg_3.0.6+0.17.0+gita700d6b98-7bullseye1_amd64.deb
+e16-keyedit_3.0.6+0.9.0+gitf0d9b21fb-7bullseye1_amd64.deb
+e16-keyedit-data_3.0.6+0.9.0+gitf0d9b21fb-7bullseye1_all.deb
+e16-keyedit-dbg_3.0.6+0.9.0+gitf0d9b21fb-7bullseye1_amd64.deb
+libe16-epplets-dev_3.0.6+0.17.0+gita700d6b98-7bullseye1_amd64.deb
