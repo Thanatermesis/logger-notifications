@@ -57539,3 +57539,12 @@ elive-upgrader_202211210022+git1e10e5eedc-7bullseye1_all.deb
 -------- Sun 20 Nov 2022 09:20:04 PM -05 --------
 elive-tools_3.8.30+202211210214+git7c4262e6f6-7bullseye1_all.deb
 elive-upgrader_202211210046+git271f38f76b-7bullseye1_all.deb
+
+
+
+-------- Tue 22 Nov 2022 11:54:23 AM -05 --------
+elive-tools_3.8.30+202211221647+gitb1730dd6f9-7bullseye1_all.deb
+scite_4.4.5-2_amd64.deb
+scite_4.4.5-2_i386.deb
+scite-dbgsym_4.4.5-2_amd64.deb
+scite-dbgsym_4.4.5-2_i386.deb
