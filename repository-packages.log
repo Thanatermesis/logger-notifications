@@ -57807,3 +57807,13 @@ terminology_3.8.30+1.12.1+git0a24ce75a-7bullseye1_i386.deb
 terminology-data_3.8.30+1.12.1+git0a24ce75a-7bullseye1_all.deb
 terminology-dbgsym_3.8.30+1.12.1+git0a24ce75a-7bullseye1_amd64.deb
 terminology-dbgsym_3.8.30+1.12.1+git0a24ce75a-7bullseye1_i386.deb
+
+
+
+-------- Wed 30 Nov 2022 11:20:30 AM -05 --------
+elive-daemons_3.8.30+git0bc0df158-7bullseye1_all.deb
+elive-skel-default-all_3.8.30+git7e4814130-7bullseye1_all.deb
+elive-skel-retrowave-all_3.8.30+gitbe6f9fc44-7bullseye0.0.0_all.deb
+elive-tools_3.8.30+202211301615+gitd41fca335e-7bullseye1_all.deb
+r8168-dkms_8.051.02-1_all.deb
+ulauncher_3.8.30+5.14.0+gitcd826659b-7bullseye0.0.0_all.deb
