@@ -58332,3 +58332,10 @@ xterm-compat-notinstalled_100.100.1-7bullseye1_amd64.deb
 xterm-compat-notinstalled_100.100.1-7bullseye1_i386.deb
 zoom-compat-notinstalled_100.100.1-7bullseye1_amd64.deb
 zoom-compat-notinstalled_100.100.1-7bullseye1_i386.deb
+
+
+
+-------- Thu 29 Dec 2022 07:38:00 PM -05 --------
+elive-skel-default-all_3.8.30+git71057ee70-7bullseye1_all.deb
+elive-tools_3.8.30+202212260127+git2a4fd4abf1-7bullseye1_all.deb
+elive-udev_3.8.30+git24c85f9af-7bullseye1_all.deb
