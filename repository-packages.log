@@ -58364,3 +58364,44 @@ elive-upgrader_202212300246+git4c43dd5862-7bullseye1_all.deb
 
 -------- Fri 30 Dec 2022 10:39:56 AM -05 --------
 elive-skel-default-all_3.8.30+git622b977aa-7bullseye1_all.deb
+
+
+
+-------- Sat 31 Dec 2022 03:20:01 PM -05 --------
+cinelerra-gg_5.1.2022+12+gite914aa9a96-1_amd64.deb
+cinelerra-gg_5.1.2022+12+gite914aa9a96-1_i386.deb
+cinelerra-gg-dbgsym_5.1.2022+12+gite914aa9a96-1_amd64.deb
+cinelerra-gg-dbgsym_5.1.2022+12+gite914aa9a96-1_i386.deb
+elive-skel-default-all_3.8.30+git622b977aa-7bullseye1_all.deb
+elive-skel-default-e16_3.8.30+gitb31c61c29-7bullseye0.0.0_all.deb
+elive-skel-default-vim_3.8.30+git2b4307905-7bullseye1_all.deb
+elive-skel-retrowave-all_3.8.30+git331163b50-7bullseye0.0.0_all.deb
+elive-skel-retrowave-e16_3.8.30+gita4c528bb5-7bullseye0.0.0_all.deb
+elive-tools_3.8.30+202212311920+git3a7e01df1b-7bullseye1_all.deb
+elive-udev_3.8.30+git24c85f9af-7bullseye1_all.deb
+elive-upgrader_202212301742+git4c43dd5862-7bullseye1_all.deb
+firmware-amd-graphics_20221214-3_all.deb
+firmware-atheros_20221214-3_all.deb
+firmware-bnx2_20221214-3_all.deb
+firmware-bnx2x_20221214-3_all.deb
+firmware-brcm80211_20221214-3_all.deb
+firmware-cavium_20221214-3_all.deb
+firmware-intel-sound_20221214-3_all.deb
+firmware-ipw2x00_20221214-3_all.deb
+firmware-ivtv_20221214-3_all.deb
+firmware-iwlwifi_20221214-3_all.deb
+firmware-libertas_20221214-3_all.deb
+firmware-linux_20221214-3_all.deb
+firmware-linux-nonfree_20221214-3_all.deb
+firmware-misc-nonfree_20221214-3_all.deb
+firmware-myricom_20221214-3_all.deb
+firmware-netronome_20221214-3_all.deb
+firmware-netxen_20221214-3_all.deb
+firmware-qcom-media_20221214-3_all.deb
+firmware-qcom-soc_20221214-3_all.deb
+firmware-qlogic_20221214-3_all.deb
+firmware-realtek_20221214-3_all.deb
+firmware-samsung_20221214-3_all.deb
+firmware-siano_20221214-3_all.deb
+firmware-ti-connectivity_20221214-3_all.deb
+ulauncher_3.8.30+5.14.0+git81671e756-7bullseye0.0.0_all.deb
