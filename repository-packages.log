@@ -58800,3 +58800,19 @@ eliveinstaller-6g_3.8.30+202302092233+git5ddd263c7e-7bullseye1_amd64.deb
 eliveinstaller-6g_3.8.30+202302092233+git5ddd263c7e-7bullseye1_i386.deb
 elive-skel-default-all_3.8.30+git94af7fe9f-7bullseye1_all.deb
 elive-skel-retrowave-all_3.8.30+gitcacd3f288-7bullseye0.0.0_all.deb
+
+
+
+-------- Fri 10 Feb 2023 12:20:42 AM -05 --------
+deliver_3.8.30+git575bcf38c-7bullseye1_all.deb
+elive-ai_3.8.30+gita1e1c03f2-7bullseye0.0.0_all.deb
+eliveinstaller-6g_3.8.30+202302100507+git2876a0ed73-7bullseye1_amd64.deb
+eliveinstaller-6g_3.8.30+202302100507+git2876a0ed73-7bullseye1_i386.deb
+elive-skel-retrowave-all_3.8.30+git41feb3a0d-7bullseye0.0.0_all.deb
+elive-tools_3.8.30+202302100515+git2e0ef239e9-7bullseye1_all.deb
+r8125-dkms_9.011.00-3_all.deb
+yad-gtk2_3.8.30+0.42.73+gitd88748789-7bullseye1_amd64.deb
+yad-gtk2_3.8.30+0.42.73+gitd88748789-7bullseye1_i386.deb
+yad-gtk2-data_3.8.30+0.42.73+gitd88748789-7bullseye1_all.deb
+yad-gtk2-dbgsym_3.8.30+0.42.73+gitd88748789-7bullseye1_amd64.deb
+yad-gtk2-dbgsym_3.8.30+0.42.73+gitd88748789-7bullseye1_i386.deb
