@@ -58850,3 +58850,9 @@ eliveinstaller-6g_3.8.30+202302161556+git2876a0ed73-7bullseye1_amd64.deb
 eliveinstaller-6g_3.8.30+202302161556+git2876a0ed73-7bullseye1_i386.deb
 elive-skel-default-all_3.8.30+git60d506e61-7bullseye1_all.deb
 elive-skel-retrowave-all_3.8.30+gita20c7be83-7bullseye0.0.0_all.deb
+
+
+
+-------- Thu 16 Feb 2023 01:48:03 PM -05 --------
+deliver_3.8.30+git158231f59-7bullseye1_all.deb
+elive-tools_3.8.30+202302161843+gite6c6540448-7bullseye1_all.deb
