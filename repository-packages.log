@@ -58856,3 +58856,13 @@ elive-skel-retrowave-all_3.8.30+gita20c7be83-7bullseye0.0.0_all.deb
 -------- Thu 16 Feb 2023 01:48:03 PM -05 --------
 deliver_3.8.30+git158231f59-7bullseye1_all.deb
 elive-tools_3.8.30+202302161843+gite6c6540448-7bullseye1_all.deb
+
+
+
+-------- Tue 21 Feb 2023 02:48:51 PM -05 --------
+deliver_3.8.30+git163b932af-7bullseye1_all.deb
+elive-ai_3.8.30+git645551fc2-7bullseye0.0.0_all.deb
+eliveinstaller-6g_3.8.30+202302171745+gitda08cdc23e-7bullseye1_amd64.deb
+eliveinstaller-6g_3.8.30+202302171745+gitda08cdc23e-7bullseye1_i386.deb
+elive-tools_3.8.30+202302211944+git6db70e9a6c-7bullseye1_all.deb
+thunar-image-resizer_3.8.30+git4b0432cc3-7bullseye1_all.deb
