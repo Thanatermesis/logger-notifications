@@ -60083,3 +60083,20 @@ epour_3.8.30+0.7.0+git20230210.0f4ce59a-7bullseye0.0.1_all.deb
 
 -------- Wed 12 Apr 2023 11:32:16 AM -05 --------
 e17-theme-elive-light_3.8.30+git20220602.d4991850-7bullseye0.0.0_all.deb
+
+
+
+-------- Thu 13 Apr 2023 01:44:06 PM -05 --------
+deliver_3.8.30+git20230411.f00187c3-7bullseye18_all.deb
+e17-conf_3.8.30+git20190405.9779b4eb-7bullseye6_all.deb
+e17-moksha_3.8.30+0.3.4+git20230412.53780504-7bullseye23_amd64.deb
+e17-moksha_3.8.30+0.3.4+git20230412.53780504-7bullseye23_i386.deb
+e17-moksha-data_3.8.30+0.3.4+git20230412.53780504-7bullseye23_all.deb
+e17-moksha-dbg_3.8.30+0.3.4+git20230412.53780504-7bullseye23_amd64.deb
+e17-moksha-dbg_3.8.30+0.3.4+git20230412.53780504-7bullseye23_i386.deb
+e17-moksha-dev_3.8.30+0.3.4+git20230412.53780504-7bullseye23_amd64.deb
+e17-moksha-dev_3.8.30+0.3.4+git20230412.53780504-7bullseye23_i386.deb
+e17-moksha-doc_3.8.30+0.3.4+git20230412.53780504-7bullseye23_all.deb
+elive-skel-default-all_3.8.30+git20230412.6bd6b8a8-7bullseye15_all.deb
+elive-skel-retrowave-all_3.8.30+git20230407.39177918-7bullseye17_all.deb
+ulauncher_3.8.30+5.15.2+git20230410.4782bf97-7bullseye27_all.deb
