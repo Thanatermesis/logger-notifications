@@ -60100,3 +60100,25 @@ e17-moksha-doc_3.8.30+0.3.4+git20230412.53780504-7bullseye23_all.deb
 elive-skel-default-all_3.8.30+git20230412.6bd6b8a8-7bullseye15_all.deb
 elive-skel-retrowave-all_3.8.30+git20230407.39177918-7bullseye17_all.deb
 ulauncher_3.8.30+5.15.2+git20230410.4782bf97-7bullseye27_all.deb
+
+
+
+-------- Fri 14 Apr 2023 08:45:26 PM -05 --------
+e17-conf_3.8.30+git20190405.9779b4eb-7bullseye6_all.deb
+e17-moksha_3.8.30+0.3.4+git20230412.53780504-7bullseye24_amd64.deb
+e17-moksha_3.8.30+0.3.4+git20230412.53780504-7bullseye24_i386.deb
+e17-moksha-data_3.8.30+0.3.4+git20230412.53780504-7bullseye24_all.deb
+e17-moksha-dbg_3.8.30+0.3.4+git20230412.53780504-7bullseye24_amd64.deb
+e17-moksha-dbg_3.8.30+0.3.4+git20230412.53780504-7bullseye24_i386.deb
+e17-moksha-dev_3.8.30+0.3.4+git20230412.53780504-7bullseye24_amd64.deb
+e17-moksha-dev_3.8.30+0.3.4+git20230412.53780504-7bullseye24_i386.deb
+e17-moksha-doc_3.8.30+0.3.4+git20230412.53780504-7bullseye24_all.deb
+eliveinstaller-6g_3.8.30+202304140056+git20230413.3e75cd38-7bullseye23_amd64.deb
+eliveinstaller-6g_3.8.30+202304140056+git20230413.3e75cd38-7bullseye23_i386.deb
+elive-skel-default-all_3.8.30+git20230413.aee80499-7bullseye15_all.deb
+elive-skel-retrowave-all_3.8.30+git20230407.70107505-7bullseye17_all.deb
+eovim_3.8.30+0.2.0+git20210807.28ac0410-7bullseye8_amd64.deb
+eovim_3.8.30+0.2.0+git20210807.28ac0410-7bullseye8_i386.deb
+eovim-data_3.8.30+0.2.0+git20210807.28ac0410-7bullseye8_all.deb
+eovim-dbgsym_3.8.30+0.2.0+git20210807.28ac0410-7bullseye8_amd64.deb
+eovim-dbgsym_3.8.30+0.2.0+git20210807.28ac0410-7bullseye8_i386.deb
