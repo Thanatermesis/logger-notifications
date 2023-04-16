@@ -60160,3 +60160,9 @@ elive-tools_3.8.30+202304152348+git20230415.d9ed1a3e-7bullseye33_all.deb
 deliver_3.8.30+git20230416.502fe3dd-7bullseye18_all.deb
 eliveinstaller-6g_3.8.30+202304161559+git20230416.4849c165-7bullseye23_amd64.deb
 eliveinstaller-6g_3.8.30+202304161559+git20230416.4849c165-7bullseye23_i386.deb
+
+
+
+-------- Sun 16 Apr 2023 04:30:14 PM -05 --------
+elive-skel-default-all_3.8.30+git20230416.dcf5c763-7bullseye15_all.deb
+elive-skel-retrowave-all_3.8.30+git20230407.632036ab-7bullseye17_all.deb
