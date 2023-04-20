@@ -60228,3 +60228,15 @@ elive-tools_3.8.30+202304192117+git20230419.376142fe-7bullseye33_all.deb
 
 -------- Wed 19 Apr 2023 10:29:23 PM -05 --------
 elive-fonts_3.8.30+git20230419.11e21d4a-7bullseye5_all.deb
+
+
+
+-------- Wed 19 Apr 2023 11:45:19 PM -05 --------
+elive-desktop-applications_3.8.30+git20230419.a79f5ca7-7bullseye7_all.deb
+elive-skel-default-all_3.8.30+git20230419.17c4542a-7bullseye15_all.deb
+elive-skel-retrowave-all_3.8.30+git20230407.15b3c030-7bullseye17_all.deb
+terminology_3.8.30+1.13.0+git20230329.aca88e20-7bullseye62_amd64.deb
+terminology_3.8.30+1.13.0+git20230329.aca88e20-7bullseye62_i386.deb
+terminology-data_3.8.30+1.13.0+git20230329.aca88e20-7bullseye62_all.deb
+terminology-dbgsym_3.8.30+1.13.0+git20230329.aca88e20-7bullseye62_amd64.deb
+terminology-dbgsym_3.8.30+1.13.0+git20230329.aca88e20-7bullseye62_i386.deb
