@@ -60537,3 +60537,12 @@ eliveinstaller-6g_3.8.30+202305130013+git20230512.61021208-7bullseye23_i386.deb
 -------- Fri 12 May 2023 08:11:42 PM -05 --------
 elive-center_3.8.30+0.20-20230423+git20230512.776155a9-7bullseye4_all.deb
 elive-tools_3.8.30+202305130108+git20230512.7947c956-7bullseye33_all.deb
+
+
+
+-------- Fri 12 May 2023 08:47:50 PM -05 --------
+deliver_3.8.30+git20230512.ea424e12-7bullseye18_all.deb
+elive-center_3.8.30+0.20-20230423+git20230512.4e3af577-7bullseye4_all.deb
+elive-desktop-applications_3.8.30+git20230512.6a543c90-7bullseye7_all.deb
+elive-tools_3.8.30+202305130144+git20230512.7947c956-7bullseye33_all.deb
+eltrans_3.8.30+202305130144+git20230512.df3d050f-7bullseye8_all.deb
