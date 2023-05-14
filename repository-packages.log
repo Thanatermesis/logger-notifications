@@ -60612,3 +60612,13 @@ elive-tools_3.8.30+202305140229+git20230513.1653c0eb-7bullseye33_all.deb
 
 -------- Sat 13 May 2023 09:36:01 PM -05 --------
 elive-tools_3.8.30+202305140233+git20230513.1653c0eb-7bullseye33_all.deb
+
+
+
+-------- Sun 14 May 2023 11:39:50 AM -05 --------
+deliver_3.8.30+git20230514.5bbe1911-7bullseye18_all.deb
+elive-center_3.8.30+0.20-20230423+git20230514.8dcf0901-7bullseye4_all.deb
+elive-tools_3.8.30+202305141608+git20230514.7776b6cf-7bullseye33_all.deb
+elive-upgrader_202305141602+git20230514.0e3c1ddf-7bullseye10_all.deb
+optimus-manager_3.8.30+1.4+git20220606.29d737fe-7bullseye2_amd64.deb
+optimus-manager_3.8.30+1.4+git20220606.29d737fe-7bullseye2_i386.deb
