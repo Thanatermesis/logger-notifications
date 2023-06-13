@@ -61060,3 +61060,26 @@ yad-gtk3_3.8.32+13.0+git20230531.fbfb0faf-7bullseye15_i386.deb
 yad-gtk3-data_3.8.32+13.0+git20230531.fbfb0faf-7bullseye15_all.deb
 yad-gtk3-dbgsym_3.8.32+13.0+git20230531.fbfb0faf-7bullseye15_amd64.deb
 yad-gtk3-dbgsym_3.8.32+13.0+git20230531.fbfb0faf-7bullseye15_i386.deb
+
+
+
+-------- Tue 13 Jun 2023 02:03:10 PM -05 --------
+elive-tools_3.8.32+202306101843+git20230608.7ed348a6-7bullseye35_all.deb
+gir1.2-notify-0.7_0.8.2-1_amd64.deb
+gir1.2-notify-0.7_0.8.2-1_i386.deb
+libnotify4_0.8.2-1_amd64.deb
+libnotify4_0.8.2-1_i386.deb
+libnotify4-dbgsym_0.8.2-1_amd64.deb
+libnotify4-dbgsym_0.8.2-1_i386.deb
+libnotify-bin_0.8.2-1_amd64.deb
+libnotify-bin_0.8.2-1_i386.deb
+libnotify-bin-dbgsym_0.8.2-1_amd64.deb
+libnotify-bin-dbgsym_0.8.2-1_i386.deb
+libnotify-dev_0.8.2-1_amd64.deb
+libnotify-dev_0.8.2-1_i386.deb
+libnotify-doc_0.8.2-1_all.deb
+r8125-dkms_9.011.00-4_all.deb
+xserver-xorg-video-sis671_3.8.32+for-xorg-1.20+git20230613.9fb34f81-7bullseye9_amd64.deb
+xserver-xorg-video-sis671_3.8.32+for-xorg-1.20+git20230613.9fb34f81-7bullseye9_i386.deb
+xserver-xorg-video-sis671-dbgsym_3.8.32+for-xorg-1.20+git20230613.9fb34f81-7bullseye9_amd64.deb
+xserver-xorg-video-sis671-dbgsym_3.8.32+for-xorg-1.20+git20230613.9fb34f81-7bullseye9_i386.deb
