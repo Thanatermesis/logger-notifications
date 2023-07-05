@@ -61161,3 +61161,30 @@ eliveinstaller-6g_3.8.32+202306272218+git20230627.b6e14b54-7bullseye23_i386.deb
 
 -------- Wed 28 Jun 2023 03:11:37 PM -05 --------
 elive-daemons_3.8.32+git20230628.8b5a153a-7bullseye11_all.deb
+
+
+
+-------- Wed 05 Jul 2023 12:16:10 PM -05 --------
+cplay-ng_5.1.0-1_all.deb
+ddcci-dkms_0.4.2-4_all.deb
+gir1.2-notify-0.7_0.8.1-1_amd64.deb
+gir1.2-notify-0.7_0.8.1-1_i386.deb
+libnotify4_0.8.1-1_amd64.deb
+libnotify4_0.8.1-1_i386.deb
+libnotify4-dbgsym_0.8.1-1_amd64.deb
+libnotify4-dbgsym_0.8.1-1_i386.deb
+libnotify-bin_0.8.1-1_amd64.deb
+libnotify-bin_0.8.1-1_i386.deb
+libnotify-bin-dbgsym_0.8.1-1_amd64.deb
+libnotify-bin-dbgsym_0.8.1-1_i386.deb
+libnotify-dev_0.8.1-1_amd64.deb
+libnotify-dev_0.8.1-1_i386.deb
+libnotify-doc_0.8.1-1_all.deb
+opera-stable_100.0.4815.30_amd64.deb
+os-prober_1.79_amd64.deb
+os-prober_1.79_i386.deb
+os-prober-dbgsym_1.79_amd64.deb
+os-prober-dbgsym_1.79_i386.deb
+r8125-dkms_9.011.00-3_all.deb
+refind_0.13.2-1_amd64.deb
+refind_0.13.2-1_i386.deb
