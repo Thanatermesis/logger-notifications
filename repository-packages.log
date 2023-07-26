@@ -61545,3 +61545,11 @@ elive-upgrader_202307240100+git20230723.958b54b9-7bullseye10_all.deb
 -------- Tue 25 Jul 2023 01:52:41 PM -05 --------
 eliveinstaller-6g_3.8.34+202307251847+git20230723.ed3e9900-7bullseye23_amd64.deb
 eliveinstaller-6g_3.8.34+202307251847+git20230723.ed3e9900-7bullseye23_i386.deb
+
+
+
+-------- Wed 26 Jul 2023 10:31:14 AM -05 --------
+elive-daemons_3.8.34+git20230726.3614f6f3-7bullseye11_all.deb
+elive-news_3.8.34+git20230726.35b140c7-7bullseye8_all.deb
+elive-skel_3.8.34+git20230726.a32a694e-7bullseye4_all.deb
+elive-tools_3.8.34+202307261526+git20230726.54801ce2-7bullseye35_all.deb
