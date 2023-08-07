@@ -61883,3 +61883,14 @@ r8168-dkms_8.051.02-3_all.deb
 
 -------- Sun 06 Aug 2023 05:09:28 PM -05 --------
 deliver_3.8.34+git20230806.1fb58bf1-7bullseye18_all.deb
+
+
+
+-------- Mon 07 Aug 2023 10:51:56 AM -05 --------
+deliver_3.8.34+git20230806.cbcd2069-7bullseye18_all.deb
+elive-daemons_3.8.34+git20230807.c3a8a021-7bullseye11_all.deb
+elive-news_3.8.34+git20230807.75b305da-7bullseye8_all.deb
+elive-tools_3.8.34+202308071543+git20230806.1158896e-7bullseye35_all.deb
+elive-upgrader_202308071545+git20230806.ad0e8382-7bullseye10_all.deb
+links2_2.21-1+b1_amd64.deb
+links2_2.21-1+b1_i386.deb
