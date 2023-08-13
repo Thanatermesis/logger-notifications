@@ -61923,3 +61923,17 @@ elive-upgrader_202308131648+git20230813.46d2b8de-7bullseye10_all.deb
 
 -------- Sun 13 Aug 2023 11:56:51 AM -05 --------
 elive-upgrader_202308131655+git20230813.6ecaf389-7bullseye10_all.deb
+
+
+
+-------- Sun 13 Aug 2023 12:12:46 PM -05 --------
+bilibop_3.8.34+git20230813.5b7e968d-7bullseye5_amd64.deb
+bilibop_3.8.34+git20230813.5b7e968d-7bullseye5_i386.deb
+bilibop-common_3.8.34+git20230813.5b7e968d-7bullseye5_amd64.deb
+bilibop-common_3.8.34+git20230813.5b7e968d-7bullseye5_i386.deb
+bilibop-lockfs_3.8.34+git20230813.5b7e968d-7bullseye5_amd64.deb
+bilibop-lockfs_3.8.34+git20230813.5b7e968d-7bullseye5_i386.deb
+bilibop-rules_3.8.34+git20230813.5b7e968d-7bullseye5_amd64.deb
+bilibop-rules_3.8.34+git20230813.5b7e968d-7bullseye5_i386.deb
+bilibop-udev_3.8.34+git20230813.5b7e968d-7bullseye5_amd64.deb
+bilibop-udev_3.8.34+git20230813.5b7e968d-7bullseye5_i386.deb
