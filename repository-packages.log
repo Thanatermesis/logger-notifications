@@ -62109,3 +62109,13 @@ elive-news_3.8.34+git20230920.85cfecd5-7bullseye8_all.deb
 -------- Fri 22 Sep 2023 01:53:21 PM -05 --------
 elive-assistant_3.0.6+git20230922.e8ed2339-7bullseye3_all.deb
 elive-tools_3.0.6+202309221841+git20230921.638c317a-7bullseye35_all.deb
+
+
+
+-------- Mon 25 Sep 2023 01:43:22 PM -05 --------
+elive-tools_3.8.34+202309251840+git20230924.60bd79b1-7bullseye35_all.deb
+retroarch_1.16.0+git20230921.041ae301-7bullseye42_amd64.deb
+retroarch_1.16.0+git20230921.041ae301-7bullseye42_i386.deb
+retroarch-assets_1.16.0+git20230921.041ae301-7bullseye42_all.deb
+retroarch-dbgsym_1.16.0+git20230921.041ae301-7bullseye42_amd64.deb
+retroarch-dbgsym_1.16.0+git20230921.041ae301-7bullseye42_i386.deb
