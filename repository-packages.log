@@ -62191,3 +62191,9 @@ elive-skel-default-vim_3.8.32+git20220305.2b430790-7bullseye9_all.deb
 elive-tools_3.8.34+202309251840+git20230924.60bd79b1-7bullseye35_all.deb
 vim-colorscheme-elive-molokai_3.8.35+git20220316.73ca55ba-7bullseye8_all.deb
 zsh-elive_3.8.34+git20230908.92642966-7bullseye11_all.deb
+
+
+
+-------- Wed 11 Oct 2023 06:56:41 PM -05 --------
+elive-security_3.8.24+git48ac86278-7bullseye1_all.deb
+zsh-prezto_3.8.30+gitdf5aef118-7bullseye1_all.deb
