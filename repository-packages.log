@@ -62852,3 +62852,25 @@ elive-desktop-wrapper_3.8.35+git20221216.434912f9-8bookworm7_all.deb
 eliveinstaller-6g_3.8.35+202310142134+git20231012.71a79291-8bookworm23_amd64.deb
 eliveinstaller-6g_3.8.35+202310142134+git20231012.71a79291-8bookworm23_i386.deb
 elive-skel_3.8.35+git20230726.a32a694e-8bookworm4_all.deb
+
+
+
+-------- Sat 14 Oct 2023 10:30:57 PM -05 --------
+gir1.2-thunarx-3.0_4.18.4-1_amd64.deb
+gir1.2-thunarx-3.0_4.18.4-1_i386.deb
+libthunarx-3-0_4.18.4-1_amd64.deb
+libthunarx-3-0_4.18.4-1_i386.deb
+libthunarx-3-0-dbgsym_4.18.4-1_amd64.deb
+libthunarx-3-0-dbgsym_4.18.4-1_i386.deb
+libthunarx-3-dev_4.18.4-1_amd64.deb
+libthunarx-3-dev_4.18.4-1_i386.deb
+palemoon_32.4.0.1-1.gtk2_amd64.deb
+palemoon_32.4.0.1-1.gtk2_i386.deb
+thunar_4.18.4-1_amd64.deb
+thunar_4.18.4-1_i386.deb
+thunar-audio-converter_3.8.35+git20230828.e508f1bb-8bookworm8_all.deb
+thunar-data_4.18.4-1_all.deb
+thunar-dbgsym_4.18.4-1_amd64.deb
+thunar-dbgsym_4.18.4-1_i386.deb
+thunar-image-resizer_3.8.35+git20230217.4b0432cc-8bookworm7_all.deb
+ulauncher_3.8.35+5.15.4+git20230410.4782bf97-8bookworm28_all.deb
