@@ -63029,3 +63029,23 @@ eliveinstaller-6g_3.8.35+202310171636+git20231017.c40ff460-8bookworm23_i386.deb
 -------- Wed 18 Oct 2023 12:19:06 PM -05 --------
 digimend-dkms_11-3_amd64.deb
 digimend-dkms_11-3_i386.deb
+
+
+
+-------- Wed 18 Oct 2023 01:13:14 PM -05 --------
+deliver_3.8.35+git20231018.b59acced-8bookworm18_all.deb
+e16_1.0.28+git20231018.bb3bf1ea-8bookworm75_amd64.deb
+e16_1.0.28+git20231018.bb3bf1ea-8bookworm75_i386.deb
+e16-data_1.0.28+git20231018.bb3bf1ea-8bookworm75_amd64.deb
+e16-data_1.0.28+git20231018.bb3bf1ea-8bookworm75_i386.deb
+e16-dbg_1.0.28+git20231018.bb3bf1ea-8bookworm75_amd64.deb
+e16-dbg_1.0.28+git20231018.bb3bf1ea-8bookworm75_i386.deb
+elive-daemons_3.8.35+git20231018.c576c04e-8bookworm11_all.deb
+eliveinstaller-6g_3.8.35+202310181807+git20231018.43f02cb5-8bookworm23_amd64.deb
+eliveinstaller-6g_3.8.35+202310181807+git20231018.43f02cb5-8bookworm23_i386.deb
+eliveremote_3.8.35+git20231018.c5d2a3f7-8bookworm7_all.deb
+elive-tools_3.8.35+202310181804+git20231018.240634f0-8bookworm35_all.deb
+elive-upgrader_202310181806+git20231018.7259d5c9-8bookworm11_all.deb
+vim-colorscheme-elive-molokai_3.8.35+git20231018.3ce5e166-8bookworm10_all.deb
+virtualbox-ext-pack_7.0.12-2_all.deb
+zsh-elive_3.8.35+git20231017.b2907f1e-8bookworm11_all.deb
