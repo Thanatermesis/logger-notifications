@@ -63055,3 +63055,11 @@ zsh-elive_3.8.35+git20231017.b2907f1e-8bookworm11_all.deb
 -------- Thu 19 Oct 2023 10:17:07 AM -05 --------
 deliver_3.8.35+git20231019.796e17b8-8bookworm18_all.deb
 elive-upgrader_202310191513+git20231019.7531d6ed-8bookworm11_all.deb
+
+
+
+-------- Thu 19 Oct 2023 12:44:46 PM -05 --------
+bash_5.2.15-2+b2_amd64.deb
+bash_5.2.15-2+b2_i386.deb
+ulauncher_3.8.35+5.15.4+git20231015.3a1242cc-8bookworm30_all.deb
+zsh-elive_3.8.35+git20231019.5259d265-8bookworm11_all.deb
