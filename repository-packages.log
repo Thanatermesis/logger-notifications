@@ -63188,3 +63188,17 @@ eliveinstaller-6g_3.8.35+202310230117+git20231021.bba6da1a-7bullseye25_i386.deb
 -------- Sun 22 Oct 2023 08:24:52 PM -05 --------
 eliveinstaller-6g_3.8.35+202310230118+git20231021.bba6da1a-8bookworm25_amd64.deb
 eliveinstaller-6g_3.8.35+202310230118+git20231021.bba6da1a-8bookworm25_i386.deb
+
+
+
+-------- Mon 23 Oct 2023 11:00:30 AM -05 --------
+deliver_3.8.35+git20231021.636cf3d9-8bookworm19_all.deb
+eliveinstaller-6g_3.8.35+202310231555+git20231021.bba6da1a-8bookworm25_amd64.deb
+eliveinstaller-6g_3.8.35+202310231555+git20231021.bba6da1a-8bookworm25_i386.deb
+elive-tools_3.8.35+202310231555+git20231021.834bf0a4-8bookworm36_all.deb
+ulauncher_3.8.35+5.15.4+git20231023.8bbe222e-8bookworm31_all.deb
+zenity_3.44.0-1_amd64.deb
+zenity_3.44.0-1_i386.deb
+zenity-common_3.44.0-1_all.deb
+zenity-dbgsym_3.44.0-1_amd64.deb
+zenity-dbgsym_3.44.0-1_i386.deb
