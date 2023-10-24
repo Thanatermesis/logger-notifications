@@ -63428,3 +63428,10 @@ yad-gtk3_3.8.35+13.0+git20230531.fbfb0faf-8bookworm16_i386.deb
 yad-gtk3-data_3.8.35+13.0+git20230531.fbfb0faf-8bookworm16_all.deb
 yad-gtk3-dbgsym_3.8.35+13.0+git20230531.fbfb0faf-8bookworm16_amd64.deb
 yad-gtk3-dbgsym_3.8.35+13.0+git20230531.fbfb0faf-8bookworm16_i386.deb
+
+
+
+-------- Mon 23 Oct 2023 08:27:25 PM -05 --------
+eliveinstaller-6g_3.8.35+202310232315+git20231023.50dccfea-8bookworm25_amd64.deb
+eliveinstaller-6g_3.8.35+202310232315+git20231023.50dccfea-8bookworm25_i386.deb
+ulauncher_3.8.35+retry-v6-launchpad-release+git20231023.f495e6e9-8bookworm33_all.deb
