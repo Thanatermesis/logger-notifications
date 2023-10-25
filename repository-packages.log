@@ -63457,3 +63457,10 @@ broadcom-bt-firmware_12.0.1.1105_all.deb
 -------- Tue 24 Oct 2023 03:17:16 PM -05 --------
 deliver_3.8.35+git20231024.614c2f08-8bookworm19_all.deb
 elive-tools_3.8.35+202310242002+git20231024.edb61b6a-8bookworm36_all.deb
+
+
+
+-------- Tue 24 Oct 2023 08:43:40 PM -05 --------
+deliver_3.8.35+git20231024.b188f0c3-8bookworm19_all.deb
+elive-skel-default-e16_3.8.35+git20231024.e35ba1ea-8bookworm6_all.deb
+elive-tools_3.8.35+202310250141+git20231024.e2679376-8bookworm36_all.deb
