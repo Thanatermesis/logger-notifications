@@ -63464,3 +63464,20 @@ elive-tools_3.8.35+202310242002+git20231024.edb61b6a-8bookworm36_all.deb
 deliver_3.8.35+git20231024.b188f0c3-8bookworm19_all.deb
 elive-skel-default-e16_3.8.35+git20231024.e35ba1ea-8bookworm6_all.deb
 elive-tools_3.8.35+202310250141+git20231024.e2679376-8bookworm36_all.deb
+
+
+
+-------- Wed 25 Oct 2023 11:16:57 AM -05 --------
+eflete_3.8.35+git20231025.31d4307a-8bookworm4_amd64.deb
+eflete_3.8.35+git20231025.31d4307a-8bookworm4_i386.deb
+eflete-data_3.8.35+git20231025.31d4307a-8bookworm4_all.deb
+eflete-dbgsym_3.8.35+git20231025.31d4307a-8bookworm4_amd64.deb
+eflete-dbgsym_3.8.35+git20231025.31d4307a-8bookworm4_i386.deb
+eflete-doc_3.8.35+git20231025.31d4307a-8bookworm4_all.deb
+efm2_3.8.35+git20231024.2187a7df-8bookworm2_amd64.deb
+efm2_3.8.35+git20231024.2187a7df-8bookworm2_i386.deb
+efm2-dbgsym_3.8.35+git20231024.2187a7df-8bookworm2_amd64.deb
+efm2-dbgsym_3.8.35+git20231024.2187a7df-8bookworm2_i386.deb
+eliveinstaller-6g_3.8.35+202310251607+git20231025.3864d83f-8bookworm25_amd64.deb
+eliveinstaller-6g_3.8.35+202310251607+git20231025.3864d83f-8bookworm25_i386.deb
+hebernate_3.8.35+git20231025.e372823a-8bookworm9_all.deb
