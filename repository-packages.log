@@ -63510,3 +63510,9 @@ eliveinstaller-6g_3.8.35+202310260527+git20231026.3527abee-8bookworm25_amd64.deb
 eliveinstaller-6g_3.8.35+202310260527+git20231026.3527abee-8bookworm25_i386.deb
 elive-tools_3.8.35+202310260514+git20231026.62edc87b-8bookworm36_all.deb
 gnome-themes-qogir_3.8.35+2023-05-24+git20231027.71dacd79-8bookworm26_all.deb
+
+
+
+-------- Thu 26 Oct 2023 04:09:02 PM -05 --------
+deliver_3.8.35+git20231026.6e6842b2-8bookworm19_all.deb
+elive-tools_3.8.35+202310262103+git20231026.f0fc0d92-8bookworm36_all.deb
