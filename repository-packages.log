@@ -63494,3 +63494,19 @@ eliveinstaller-6g_3.8.35+202310251856+git20231025.92c5f649-8bookworm25_i386.deb
 eliveinstaller-6g_3.8.35+202310252249+git20231025.36c790b3-8bookworm25_amd64.deb
 eliveinstaller-6g_3.8.35+202310252249+git20231025.36c790b3-8bookworm25_i386.deb
 elive-tools_3.8.35+202310260340+git20231025.6fee2e68-8bookworm36_all.deb
+
+
+
+-------- Thu 26 Oct 2023 12:42:58 PM -05 --------
+browser-homepages-default_3.8.35+git20231024.0dc54c75-8bookworm2_all.deb
+deliver_3.8.35+git20231024.1ac4823c-8bookworm19_all.deb
+eflete_3.8.35+git20231026.cafd9a74-8bookworm5_amd64.deb
+eflete_3.8.35+git20231026.cafd9a74-8bookworm5_i386.deb
+eflete-data_3.8.35+git20231026.cafd9a74-8bookworm5_all.deb
+eflete-dbgsym_3.8.35+git20231026.cafd9a74-8bookworm5_amd64.deb
+eflete-dbgsym_3.8.35+git20231026.cafd9a74-8bookworm5_i386.deb
+eflete-doc_3.8.35+git20231026.cafd9a74-8bookworm5_all.deb
+eliveinstaller-6g_3.8.35+202310260527+git20231026.3527abee-8bookworm25_amd64.deb
+eliveinstaller-6g_3.8.35+202310260527+git20231026.3527abee-8bookworm25_i386.deb
+elive-tools_3.8.35+202310260514+git20231026.62edc87b-8bookworm36_all.deb
+gnome-themes-qogir_3.8.35+2023-05-24+git20231027.71dacd79-8bookworm26_all.deb
