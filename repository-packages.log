@@ -63535,3 +63535,13 @@ elive-skel-default-all_3.8.35+git20231020.d73bf395-8bookworm16_all.deb
 elive-tools_3.8.35+202310301824+git20231030.090fd84d-8bookworm36_all.deb
 elive-upgrader_202310301827+git20231019.7531d6ed-8bookworm12_all.deb
 hebernate_3.8.35+git20231025.e372823a-8bookworm9_all.deb
+
+
+
+-------- Tue 31 Oct 2023 12:57:34 PM -05 --------
+deliver_3.8.35+git20231030.f586e752-8bookworm19_all.deb
+elive-assistant_3.8.35+git20231030.377df468-8bookworm4_all.deb
+elive-daemons_3.8.35+git20231031.ee9a3e0c-8bookworm12_all.deb
+eliveinstaller-6g_3.8.35+202310311750+git20231031.3ba27185-8bookworm25_amd64.deb
+eliveinstaller-6g_3.8.35+202310311750+git20231031.3ba27185-8bookworm25_i386.deb
+elive-tools_3.8.35+202310311750+git20231030.090fd84d-8bookworm36_all.deb
