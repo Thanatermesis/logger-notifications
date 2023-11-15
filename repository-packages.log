@@ -63769,3 +63769,19 @@ supermariowar-data_3.8.35+2.0-beta.1.1+git20231027.6f828e46-8bookworm21_amd64.de
 supermariowar-data_3.8.35+2.0-beta.1.1+git20231027.6f828e46-8bookworm21_i386.deb
 usb-bootable-elive_3.8.35+git20231103.e49f0142-8bookworm8_all.deb
 zsh-elive_3.0.6+git20231103.4b0510d0-8bookworm12_all.deb
+
+
+
+-------- Tue 14 Nov 2023 08:46:22 PM -05 --------
+enlightenment_0.25.4+git20231114.3311cc07-8bookworm51_amd64.deb
+enlightenment_0.25.4+git20231114.3311cc07-8bookworm51_i386.deb
+enlightenment-data_0.25.4+git20231114.3311cc07-8bookworm51_all.deb
+enlightenment-dbgsym_0.25.4+git20231114.3311cc07-8bookworm51_amd64.deb
+enlightenment-dbgsym_0.25.4+git20231114.3311cc07-8bookworm51_i386.deb
+enlightenment-dev_0.25.4+git20231114.3311cc07-8bookworm51_amd64.deb
+enlightenment-dev_0.25.4+git20231114.3311cc07-8bookworm51_i386.deb
+terminology_3.0.6+1.13.0+git20231112.e860ac88-8bookworm64_amd64.deb
+terminology_3.0.6+1.13.0+git20231112.e860ac88-8bookworm64_i386.deb
+terminology-data_3.0.6+1.13.0+git20231112.e860ac88-8bookworm64_all.deb
+terminology-dbgsym_3.0.6+1.13.0+git20231112.e860ac88-8bookworm64_amd64.deb
+terminology-dbgsym_3.0.6+1.13.0+git20231112.e860ac88-8bookworm64_i386.deb
