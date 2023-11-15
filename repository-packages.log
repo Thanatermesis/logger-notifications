@@ -63752,3 +63752,20 @@ thunar-audio-converter_3.8.35+git20231019.6b381c55-7bullseye10_all.deb
 usb-bootable-elive_3.8.35+git20231103.e49f0142-7bullseye8_all.deb
 vim-colorscheme-elive-molokai_3.8.35+git20231018.3ce5e166-7bullseye11_all.deb
 zsh-elive_3.8.35+git20231103.4b0510d0-7bullseye12_all.deb
+
+
+
+-------- Tue 14 Nov 2023 08:29:59 PM -05 --------
+deliver_3.8.35+git20231112.a7e6554e-8bookworm19_all.deb
+elive-assistant_3.8.35+git20231114.10683f8f-8bookworm5_all.deb
+eliveinstaller-6g_3.8.35+202311150108+git20231114.964baa1b-8bookworm25_amd64.deb
+eliveinstaller-6g_3.8.35+202311150108+git20231114.964baa1b-8bookworm25_i386.deb
+elive-tools_3.8.35+202311150112+git20231114.e931fa5e-8bookworm36_all.deb
+geiger-tools_202311150114+git20231114.56326658-8bookworm5_all.deb
+gnome-themes-qogir_3.8.35+2023-05-24+git20231110.dedb3648-8bookworm26_all.deb
+supermariowar_3.8.35+2.0-beta.1.1+git20231027.6f828e46-8bookworm21_amd64.deb
+supermariowar_3.8.35+2.0-beta.1.1+git20231027.6f828e46-8bookworm21_i386.deb
+supermariowar-data_3.8.35+2.0-beta.1.1+git20231027.6f828e46-8bookworm21_amd64.deb
+supermariowar-data_3.8.35+2.0-beta.1.1+git20231027.6f828e46-8bookworm21_i386.deb
+usb-bootable-elive_3.8.35+git20231103.e49f0142-8bookworm8_all.deb
+zsh-elive_3.0.6+git20231103.4b0510d0-8bookworm12_all.deb
