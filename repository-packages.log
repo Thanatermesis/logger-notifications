@@ -63790,3 +63790,18 @@ terminology-dbgsym_3.0.6+1.13.0+git20231112.e860ac88-8bookworm64_i386.deb
 
 -------- Tue 14 Nov 2023 11:42:24 PM -05 --------
 geiger-tools_202311150441+git20231114.35ff092a-8bookworm5_all.deb
+
+
+
+-------- Wed 15 Nov 2023 11:59:17 AM -05 --------
+e16_1.0.29+git20231028.fa5c7897-8bookworm77_amd64.deb
+e16_1.0.29+git20231028.fa5c7897-8bookworm77_i386.deb
+e16-data_1.0.29+git20231028.fa5c7897-8bookworm77_amd64.deb
+e16-data_1.0.29+git20231028.fa5c7897-8bookworm77_i386.deb
+e16-dbg_1.0.29+git20231028.fa5c7897-8bookworm77_amd64.deb
+e16-dbg_1.0.29+git20231028.fa5c7897-8bookworm77_i386.deb
+elicit_3.8.35+git20231115.5dc45d88-8bookworm10_amd64.deb
+elicit_3.8.35+git20231115.5dc45d88-8bookworm10_i386.deb
+elicit-data_3.8.35+git20231115.5dc45d88-8bookworm10_all.deb
+elicit-dbgsym_3.8.35+git20231115.5dc45d88-8bookworm10_amd64.deb
+elicit-dbgsym_3.8.35+git20231115.5dc45d88-8bookworm10_i386.deb
