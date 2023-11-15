@@ -63732,3 +63732,23 @@ elive-tools_3.8.35+202311141515+git20231109.4ce1f804-7bullseye36_all.deb
 
 -------- Tue 14 Nov 2023 10:19:30 AM -05 --------
 geiger-tools_202311141518+git20231114.ac47736f-7bullseye5_all.deb
+
+
+
+-------- Tue 14 Nov 2023 07:44:24 PM -05 --------
+deliver_3.8.35+git20231112.a7e6554e-7bullseye19_all.deb
+elive-daemons_3.8.35+git20231031.ee9a3e0c-7bullseye12_all.deb
+elive-desktop-wrapper_3.8.35+git20231021.7f94b8bf-7bullseye8_all.deb
+eliveinstaller-6g_3.8.35+202311142343+git20231114.4be681f6-7bullseye25_amd64.deb
+eliveinstaller-6g_3.8.35+202311142343+git20231114.4be681f6-7bullseye25_i386.deb
+elive-tools_3.8.35+202311142343+git20231114.e931fa5e-7bullseye36_all.deb
+gnome-icon-theme_3.4.0-2+202311142343_all.deb
+hebernate_3.8.35+git20231025.e372823a-7bullseye9_all.deb
+supermariowar_3.8.35+2.0-beta.1.1+git20231027.6f828e46-7bullseye21_amd64.deb
+supermariowar_3.8.35+2.0-beta.1.1+git20231027.6f828e46-7bullseye21_i386.deb
+supermariowar-data_3.8.35+2.0-beta.1.1+git20231027.6f828e46-7bullseye21_amd64.deb
+supermariowar-data_3.8.35+2.0-beta.1.1+git20231027.6f828e46-7bullseye21_i386.deb
+thunar-audio-converter_3.8.35+git20231019.6b381c55-7bullseye10_all.deb
+usb-bootable-elive_3.8.35+git20231103.e49f0142-7bullseye8_all.deb
+vim-colorscheme-elive-molokai_3.8.35+git20231018.3ce5e166-7bullseye11_all.deb
+zsh-elive_3.8.35+git20231103.4b0510d0-7bullseye12_all.deb
