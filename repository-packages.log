@@ -63805,3 +63805,14 @@ elicit_3.8.35+git20231115.5dc45d88-8bookworm10_i386.deb
 elicit-data_3.8.35+git20231115.5dc45d88-8bookworm10_all.deb
 elicit-dbgsym_3.8.35+git20231115.5dc45d88-8bookworm10_amd64.deb
 elicit-dbgsym_3.8.35+git20231115.5dc45d88-8bookworm10_i386.deb
+
+
+
+-------- Wed 15 Nov 2023 12:33:31 PM -05 --------
+e16_1.0.29+git20231028.fa5c7897-8bookworm78_amd64.deb
+e16_1.0.29+git20231028.fa5c7897-8bookworm78_i386.deb
+e16-data_1.0.29+git20231028.fa5c7897-8bookworm78_amd64.deb
+e16-data_1.0.29+git20231028.fa5c7897-8bookworm78_i386.deb
+e16-dbg_1.0.29+git20231028.fa5c7897-8bookworm78_amd64.deb
+e16-dbg_1.0.29+git20231028.fa5c7897-8bookworm78_i386.deb
+elive-desktop-applications_3.8.35+git20231115.7864e5ed-8bookworm8_all.deb
