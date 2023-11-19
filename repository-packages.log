@@ -64070,3 +64070,18 @@ geiger-tools_202311171954+git20231116.d1c98826-8bookworm5_all.deb
 
 -------- Sat 18 Nov 2023 09:49:50 PM -05 --------
 elive-tools_3.8.35+202311190246+git20231118.ebbafff9-8bookworm36_all.deb
+
+
+
+-------- Sun 19 Nov 2023 12:02:42 AM -05 --------
+deliver_3.8.35+git20231118.fdf31c03-8bookworm19_all.deb
+e16_1.0.29+git20231028.fa5c7897-8bookworm79_amd64.deb
+e16_1.0.29+git20231028.fa5c7897-8bookworm79_i386.deb
+e16-data_1.0.29+git20231028.fa5c7897-8bookworm79_amd64.deb
+e16-data_1.0.29+git20231028.fa5c7897-8bookworm79_i386.deb
+e16-dbg_1.0.29+git20231028.fa5c7897-8bookworm79_amd64.deb
+e16-dbg_1.0.29+git20231028.fa5c7897-8bookworm79_i386.deb
+elive-assistant_3.8.35+git20231117.6000157d-8bookworm5_all.deb
+eliveinstaller-6g_3.8.35+202311190455+git20231118.da9b9fb7-8bookworm25_amd64.deb
+eliveinstaller-6g_3.8.35+202311190455+git20231118.da9b9fb7-8bookworm25_i386.deb
+elive-tools_3.8.35+202311190459+git20231118.ebbafff9-8bookworm36_all.deb
