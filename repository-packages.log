@@ -64177,3 +64177,21 @@ elive-tools_3.8.35+202311211723+git20231121.aeb2e677-8bookworm36_all.deb
 -------- Tue 21 Nov 2023 12:50:30 PM -05 --------
 elive-tools_3.8.35+202311211748+git20231121.aeb2e677-8bookworm36_all.deb
 gnome-icon-theme_3.4.0-2+202311211744_all.deb
+
+
+
+-------- Tue 21 Nov 2023 01:08:51 PM -05 --------
+elive-tools_3.8.35+202311211806+git20231121.baa3a520-8bookworm36_all.deb
+gir1.2-thunarx-3.0_4.18.4-1_amd64.deb
+gir1.2-thunarx-3.0_4.18.4-1_i386.deb
+libthunarx-3-0_4.18.4-1_amd64.deb
+libthunarx-3-0_4.18.4-1_i386.deb
+libthunarx-3-0-dbgsym_4.18.4-1_amd64.deb
+libthunarx-3-0-dbgsym_4.18.4-1_i386.deb
+libthunarx-3-dev_4.18.4-1_amd64.deb
+libthunarx-3-dev_4.18.4-1_i386.deb
+thunar_4.18.4-1_amd64.deb
+thunar_4.18.4-1_i386.deb
+thunar-data_4.18.4-1_all.deb
+thunar-dbgsym_4.18.4-1_amd64.deb
+thunar-dbgsym_4.18.4-1_i386.deb
