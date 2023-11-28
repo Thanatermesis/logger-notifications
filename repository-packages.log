@@ -64303,3 +64303,9 @@ e16-data_1.0.29+git20231125.a162d5ab-8bookworm80_i386.deb
 e16-dbg_1.0.29+git20231125.a162d5ab-8bookworm80_amd64.deb
 e16-dbg_1.0.29+git20231125.a162d5ab-8bookworm80_i386.deb
 geiger-tools_202311271940+git20231127.e7a46de9-8bookworm5_all.deb
+
+
+
+-------- Tue 28 Nov 2023 10:26:12 AM -05 --------
+elive-tools_3.8.35+202311281523+git20231126.78d023b3-8bookworm37_all.deb
+geiger-tools_202311281523+git20231127.e7a46de9-8bookworm5_all.deb
