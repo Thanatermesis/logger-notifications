@@ -64320,3 +64320,12 @@ eliveinstaller-6g_3.8.35+202311301536+git20231130.617ec65b-8bookworm25_i386.deb
 
 -------- Thu 30 Nov 2023 10:50:23 AM -05 --------
 elive-tools_3.8.35+202311301547+git20231130.58544bfe-8bookworm37_all.deb
+
+
+
+-------- Tue 05 Dec 2023 03:20:13 PM -05 --------
+elive-assistant_3.8.35+git20231205.f3de0ae0-8bookworm5_all.deb
+eliveinstaller-6g_3.8.35+202312052015+git20231130.5afc6e9b-8bookworm25_amd64.deb
+eliveinstaller-6g_3.8.35+202312052015+git20231130.5afc6e9b-8bookworm25_i386.deb
+elive-tools_3.8.35+202312052015+git20231130.58544bfe-8bookworm37_all.deb
+geiger-tools_202312052015+git20231201.6747a383-8bookworm5_all.deb
