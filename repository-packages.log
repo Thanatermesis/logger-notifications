@@ -64442,3 +64442,11 @@ elive-tools_3.8.35+202311221645+git20231122.79adc57f-7bullseye37_all.deb
 -------- Mon 11 Dec 2023 07:44:04 PM -05 --------
 elive-assistant_3.8.35+git20231211.7df9d95c-8bookworm5_all.deb
 geiger-tools_202312120042+git20231211.144aa40c-8bookworm5_all.deb
+
+
+
+-------- Mon 11 Dec 2023 08:28:11 PM -05 --------
+elive-assistant_3.8.35+git20231211.7df9d95c-8bookworm5_all.deb
+elive-tools_3.8.35+202312120120+git20231211.0ca15d1d-8bookworm37_all.deb
+geiger-tools_202312120127+git20231211.1cf947c7-8bookworm5_all.deb
+zsh-elive_3.8.35+git20231211.4dc27829-8bookworm12_all.deb
