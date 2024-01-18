@@ -64502,3 +64502,23 @@ supermariowar_3.8.35+2.0-beta.1.1+git20231216.98603159-8bookworm21_i386.deb
 supermariowar-data_3.8.35+2.0-beta.1.1+git20231216.98603159-8bookworm21_amd64.deb
 supermariowar-data_3.8.35+2.0-beta.1.1+git20231216.98603159-8bookworm21_i386.deb
 virtualbox-ext-pack_7.0.12-3_all.deb
+
+
+
+-------- Thu Jan 18 05:52:53 PM -05 2024 --------
+elive-assistant_3.8.35+git20240113.c0ad7606-8bookworm5_all.deb
+gnome-themes-qogir_3.8.35+2023-05-24+git20231231.0c4c9a5f-8bookworm26_all.deb
+luv-icon-theme_3.8.35+continuous-master+git20231223.cd15ec28-8bookworm4_amd64.deb
+luv-icon-theme_3.8.35+continuous-master+git20231223.cd15ec28-8bookworm4_i386.deb
+plymouth-themes-elive-generic_3.8.35+git20140927.7b42a028-8bookworm6_all.deb
+supermariowar_3.8.35+2.0-beta.1.1+git20240103.ed60ed45-8bookworm21_amd64.deb
+supermariowar_3.8.35+2.0-beta.1.1+git20240103.ed60ed45-8bookworm21_i386.deb
+supermariowar-data_3.8.35+2.0-beta.1.1+git20240103.ed60ed45-8bookworm21_amd64.deb
+supermariowar-data_3.8.35+2.0-beta.1.1+git20240103.ed60ed45-8bookworm21_i386.deb
+syasokoban_3.8.35+2.0.2+git20240101.7babf99f-8bookworm7_amd64.deb
+syasokoban_3.8.35+2.0.2+git20240101.7babf99f-8bookworm7_i386.deb
+syasokoban-data_3.8.35+2.0.2+git20240101.7babf99f-8bookworm7_all.deb
+syasokoban-dbgsym_3.8.35+2.0.2+git20240101.7babf99f-8bookworm7_amd64.deb
+syasokoban-dbgsym_3.8.35+2.0.2+git20240101.7babf99f-8bookworm7_i386.deb
+virtualbox-ext-pack_7.0.14-1_all.deb
+zsh-elive_3.8.35+git20240118.05f7ca69-8bookworm12_all.deb
