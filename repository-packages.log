@@ -64695,3 +64695,10 @@ elive-skel-default-vim_3.8.35+git20240121.10728ec6-8bookworm10_all.deb
 
 -------- Sun Jan 21 11:48:41 PM -05 2024 --------
 elive-skel-default-vim_3.8.35+git20240121.a3c08a84-8bookworm10_all.deb
+
+
+
+-------- Sat Jan 27 11:19:03 AM -05 2024 --------
+elive-assistant_3.8.35+git20240126.dbcabfd6-8bookworm5_all.deb
+elive-skel-default-vim_3.8.35+git20240126.8f7069d1-8bookworm10_all.deb
+elive-tools_3.8.35+202401271616+git20240127.d03a0931-8bookworm37_all.deb
