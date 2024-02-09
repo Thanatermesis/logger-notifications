@@ -65039,3 +65039,12 @@ elive-upgrader_202402091627+git20240209.23dd43a1-8bookworm12_all.deb
 
 -------- Fri Feb  9 11:37:39 AM -05 2024 --------
 elive-upgrader_202402091636+git20240209.b1218e95-8bookworm12_all.deb
+
+
+
+-------- Fri Feb  9 12:38:32 PM -05 2024 --------
+deliver_3.8.35+git20240209.a708cc19-8bookworm19_all.deb
+elive-daemons_3.8.35+git20240209.fb79d625-8bookworm12_all.deb
+elive-news_3.8.35+git20240209.af3db36a-8bookworm9_all.deb
+elive-tools_3.8.35+202402091735+git20240209.b9e3a6fc-8bookworm37_all.deb
+elive-upgrader_202402091737+git20240209.59e8f8df-8bookworm12_all.deb
