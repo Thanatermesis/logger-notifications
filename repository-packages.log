@@ -65026,3 +65026,11 @@ terminology-dbgsym_3.8.35+v1.13.0+git20240120.3c967f33-8bookworm64_i386.deb
 
 -------- Fri Feb  9 10:21:24 AM -05 2024 --------
 elive-tools_3.8.35+202402091518+git20240209.984e2cbb-8bookworm37_all.deb
+
+
+
+-------- Fri Feb  9 11:31:11 AM -05 2024 --------
+eliveinstaller-6g_3.8.35+202402091627+git20240209.b3b8d6b7-8bookworm25_amd64.deb
+eliveinstaller-6g_3.8.35+202402091627+git20240209.b3b8d6b7-8bookworm25_i386.deb
+elive-skel-default-all_3.8.35+git20240209.4b30d350-8bookworm16_all.deb
+elive-upgrader_202402091627+git20240209.23dd43a1-8bookworm12_all.deb
