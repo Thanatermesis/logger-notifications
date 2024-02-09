@@ -64780,3 +64780,20 @@ elive-upgrader_202402090319+git20240208.aa1f5f78-8bookworm12_all.deb
 eltrans_3.8.35+202402090325+git20240208.60fce64d-8bookworm9_all.deb
 hebernate_3.8.35+git20240208.21b48b61-8bookworm9_all.deb
 usb-bootable-elive_3.8.35+git20231103.e49f0142-8bookworm8_all.deb
+
+
+
+-------- Thu Feb  8 11:59:55 PM -05 2024 --------
+cairo-dock_3.5.0+git20240203.805818bb-8bookworm6_amd64.deb
+cairo-dock_3.5.0+git20240203.805818bb-8bookworm6_i386.deb
+cairo-dock-core_3.5.0+git20240203.805818bb-8bookworm6_amd64.deb
+cairo-dock-core_3.5.0+git20240203.805818bb-8bookworm6_i386.deb
+cairo-dock-core-dbgsym_3.5.0+git20240203.805818bb-8bookworm6_amd64.deb
+cairo-dock-core-dbgsym_3.5.0+git20240203.805818bb-8bookworm6_i386.deb
+cairo-dock-dev_3.5.0+git20240203.805818bb-8bookworm6_amd64.deb
+cairo-dock-dev_3.5.0+git20240203.805818bb-8bookworm6_i386.deb
+eliveinstaller-6g_3.8.35+202402090352+git20240208.cc63ffe4-8bookworm25_amd64.deb
+eliveinstaller-6g_3.8.35+202402090352+git20240208.cc63ffe4-8bookworm25_i386.deb
+elive-news_3.8.35+git20240208.8439a616-8bookworm9_all.deb
+elive-tools_3.8.35+202402090359+git20240208.93143a3d-8bookworm37_all.deb
+elive-upgrader_202402090402+git20240208.689561c6-8bookworm12_all.deb
