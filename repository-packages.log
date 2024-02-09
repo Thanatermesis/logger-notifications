@@ -65077,3 +65077,14 @@ elive-tools_3.8.35+202402092149+git20240209.e928470c-8bookworm38_all.deb
 
 -------- Fri Feb  9 05:16:14 PM -05 2024 --------
 elive-tools_3.8.35+202402092213+git20240209.8c509e2b-8bookworm38_all.deb
+
+
+
+-------- Fri Feb  9 05:48:13 PM -05 2024 --------
+enlightenment_0.26.0+git20240209.5a5059b0-8bookworm51_amd64.deb
+enlightenment_0.26.0+git20240209.5a5059b0-8bookworm51_i386.deb
+enlightenment-data_0.26.0+git20240209.5a5059b0-8bookworm51_all.deb
+enlightenment-dbgsym_0.26.0+git20240209.5a5059b0-8bookworm51_amd64.deb
+enlightenment-dbgsym_0.26.0+git20240209.5a5059b0-8bookworm51_i386.deb
+enlightenment-dev_0.26.0+git20240209.5a5059b0-8bookworm51_amd64.deb
+enlightenment-dev_0.26.0+git20240209.5a5059b0-8bookworm51_i386.deb
