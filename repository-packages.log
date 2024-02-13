@@ -65099,3 +65099,12 @@ elive-assistant_3.8.35+git20240209.a6446e4b-8bookworm5_all.deb
 elive-daemons_3.8.35+git20240210.3bd055c2-8bookworm12_all.deb
 elive-tools_3.8.35+202402101749+git20240210.0a0184a7-8bookworm38_all.deb
 elive-upgrader_202402101752+git20240210.6b89aa4c-8bookworm12_all.deb
+
+
+
+-------- Tue Feb 13 12:47:49 PM -05 2024 --------
+elive-assistant_3.8.35+git20240213.c9bd7f03-8bookworm5_all.deb
+neovim_0.9.5-8bookworm2_amd64.deb
+neovim_0.9.5-8bookworm2_i386.deb
+neovim-dbgsym_0.9.5-8bookworm2_amd64.deb
+neovim-dbgsym_0.9.5-8bookworm2_i386.deb
