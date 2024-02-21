@@ -65247,3 +65247,10 @@ elive-skel-retrowave-all_3.8.35+git20230520.b629cdc0-8bookworm18_all.deb
 
 -------- Wed Feb 21 11:07:15 AM -05 2024 --------
 elive-daemons_3.8.35+git20240221.b1e5a73b-8bookworm12_all.deb
+
+
+
+-------- Wed Feb 21 12:59:09 PM -05 2024 --------
+elive-assistant_3.8.35+git20240220.9ce1c687-8bookworm5_all.deb
+elive-daemons_3.8.35+git20240221.b1e5a73b-8bookworm12_all.deb
+elive-tools_3.8.35+202402211754+git20240221.40e10f5c-8bookworm38_all.deb
