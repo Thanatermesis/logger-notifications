@@ -65489,3 +65489,14 @@ virtualbox-source_7.0.14-dfsg-4_amd64.deb
 -------- Fri Mar 15 08:29:15 AM -05 2024 --------
 eliveinstaller-6g_3.8.40+202403151325+git20240315.16c9322a-8bookworm27_amd64.deb
 eliveinstaller-6g_3.8.40+202403151325+git20240315.16c9322a-8bookworm27_i386.deb
+
+
+
+-------- Fri Mar 15 05:45:28 PM -05 2024 --------
+elive-assistant_3.8.40+git20240315.571a3732-8bookworm5_all.deb
+elive-daemons_3.8.40+git20240315.f0ffc9e0-8bookworm12_all.deb
+eliveinstaller-6g_3.8.40+202403152044+git20240315.5155a296-8bookworm27_amd64.deb
+eliveinstaller-6g_3.8.40+202403152044+git20240315.5155a296-8bookworm27_i386.deb
+elive-skel-default-e16_3.8.40+git20231024.e35ba1ea-8bookworm6_all.deb
+elive-skel-retrowave-e16_3.8.40+git20221115.8b007827-8bookworm7_all.deb
+elive-tools_3.8.40+202403152049+git20240315.3b7938b7-8bookworm38_all.deb
