@@ -65510,3 +65510,10 @@ eliveinstaller-6g_3.8.40+202403152341+git20240315.62b804d3-8bookworm27_amd64.deb
 eliveinstaller-6g_3.8.40+202403152341+git20240315.62b804d3-8bookworm27_i386.deb
 elive-news_3.8.40+git20240315.3985e641-8bookworm9_all.deb
 elive-tools_3.8.40+202403152345+git20240315.58a88b53-8bookworm38_all.deb
+
+
+
+-------- Sun Mar 17 12:44:46 PM -05 2024 --------
+elive-assistant_3.8.40+git20240315.5ac4efb3-8bookworm5_all.deb
+elive-daemons_3.8.40+git20240317.246e5e8b-8bookworm12_all.deb
+hebernate_3.8.40+git20240317.87288585-8bookworm10_all.deb
