@@ -65532,3 +65532,20 @@ enlightenment-dev_0.26.0+git20240314.5e25ae24-8bookworm51_i386.deb
 v4l2loopback-dkms_0.13.1-1_all.deb
 v4l2loopback-source_0.13.1-1_all.deb
 v4l2loopback-utils_0.13.1-1_all.deb
+
+
+
+-------- Wed Mar 27 12:44:57 PM -05 2024 --------
+deliver_3.8.40+git20240322.63a117b5-8bookworm19_all.deb
+optimus-manager_1.5+git20240327.5357a56d-8bookworm8_amd64.deb
+optimus-manager_1.5+git20240327.5357a56d-8bookworm8_i386.deb
+retroarch_1.18.0+git20240321.06fa5325-8bookworm43_amd64.deb
+retroarch_1.18.0+git20240321.06fa5325-8bookworm43_i386.deb
+retroarch-assets_1.18.0+git20240321.06fa5325-8bookworm43_all.deb
+retroarch-dbgsym_1.18.0+git20240321.06fa5325-8bookworm43_amd64.deb
+retroarch-dbgsym_1.18.0+git20240321.06fa5325-8bookworm43_i386.deb
+terminology_1.13.0+git20240120.3c967f33-8bookworm64_amd64.deb
+terminology_1.13.0+git20240120.3c967f33-8bookworm64_i386.deb
+terminology-data_1.13.0+git20240120.3c967f33-8bookworm64_all.deb
+terminology-dbgsym_1.13.0+git20240120.3c967f33-8bookworm64_amd64.deb
+terminology-dbgsym_1.13.0+git20240120.3c967f33-8bookworm64_i386.deb
