@@ -65784,3 +65784,24 @@ virtualbox-source_7.0.16-dfsg-2_amd64.deb
 
 -------- Sun Apr 21 12:45:46 PM -05 2024 --------
 gnome-themes-qogir_2023-05-24+git20240421.2d72e1b6-8bookworm26_all.deb
+
+
+
+-------- Sun Apr 21 01:24:29 PM -05 2024 --------
+enlightenment_0.26.0+git20240324.9c4b4423-8bookworm51_amd64.deb
+enlightenment_0.26.0+git20240324.9c4b4423-8bookworm51_i386.deb
+enlightenment-data_0.26.0+git20240324.9c4b4423-8bookworm51_all.deb
+enlightenment-dbgsym_0.26.0+git20240324.9c4b4423-8bookworm51_amd64.deb
+enlightenment-dbgsym_0.26.0+git20240324.9c4b4423-8bookworm51_i386.deb
+enlightenment-dev_0.26.0+git20240324.9c4b4423-8bookworm51_amd64.deb
+enlightenment-dev_0.26.0+git20240324.9c4b4423-8bookworm51_i386.deb
+evisum_0.6.0+git20240418.2d0697c7-8bookworm11_amd64.deb
+evisum_0.6.0+git20240418.2d0697c7-8bookworm11_i386.deb
+evisum-data_0.6.0+git20240418.2d0697c7-8bookworm11_all.deb
+evisum-dbgsym_0.6.0+git20240418.2d0697c7-8bookworm11_amd64.deb
+evisum-dbgsym_0.6.0+git20240418.2d0697c7-8bookworm11_i386.deb
+terminology_1.13.0+git20240420.87c0538a-8bookworm64_amd64.deb
+terminology_1.13.0+git20240420.87c0538a-8bookworm64_i386.deb
+terminology-data_1.13.0+git20240420.87c0538a-8bookworm64_all.deb
+terminology-dbgsym_1.13.0+git20240420.87c0538a-8bookworm64_amd64.deb
+terminology-dbgsym_1.13.0+git20240420.87c0538a-8bookworm64_i386.deb
