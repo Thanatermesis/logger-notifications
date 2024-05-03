@@ -65842,3 +65842,32 @@ supermariowar-data_2.0-beta.1.1+git20240428.79f8d01f-8bookworm21_i386.deb
 
 -------- Fri May  3 12:42:07 PM -05 2024 --------
 virtualbox-ext-pack_7.0.18-1_all.deb
+
+
+
+-------- Fri May  3 04:32:29 PM -05 2024 --------
+firmware-amd-graphics_20230625-2_all.deb
+firmware-atheros_20230625-2_all.deb
+firmware-bnx2_20230625-2_all.deb
+firmware-bnx2x_20230625-2_all.deb
+firmware-brcm80211_20230625-2_all.deb
+firmware-cavium_20230625-2_all.deb
+firmware-intel-sound_20230625-2_all.deb
+firmware-ipw2x00_20230625-2_all.deb
+firmware-ivtv_20230625-2_all.deb
+firmware-iwlwifi_20230625-2_all.deb
+firmware-libertas_20230625-2_all.deb
+firmware-linux_20230625-2_all.deb
+firmware-linux-free_20200122-4_all.deb
+firmware-linux-nonfree_20230625-2_all.deb
+firmware-misc-nonfree_20230625-2_all.deb
+firmware-myricom_20230625-2_all.deb
+firmware-netronome_20230625-2_all.deb
+firmware-netxen_20230625-2_all.deb
+firmware-qcom-media_20230625-2_all.deb
+firmware-qcom-soc_20230625-2_all.deb
+firmware-qlogic_20230625-2_all.deb
+firmware-realtek_20230625-2_all.deb
+firmware-samsung_20230625-2_all.deb
+firmware-siano_20230625-2_all.deb
+firmware-ti-connectivity_20230625-2_all.deb
