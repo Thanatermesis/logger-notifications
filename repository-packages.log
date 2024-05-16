@@ -66322,3 +66322,11 @@ eliveinstaller-6g_3.8.40+202405161514+git20240516.77775832-8bookworm30_i386.deb
 -------- Thu May 16 10:28:32 AM -05 2024 --------
 eliveinstaller-6g_3.8.40+202405161525+git20240516.5cec51fc-8bookworm30_amd64.deb
 eliveinstaller-6g_3.8.40+202405161525+git20240516.5cec51fc-8bookworm30_i386.deb
+
+
+
+-------- Thu May 16 12:54:30 PM -05 2024 --------
+elive-assistant_3.8.40+git20240515.68fdfa6c-8bookworm5_all.deb
+eliveinstaller-6g_3.8.40+202405161745+git20240516.c0e38dde-8bookworm30_amd64.deb
+eliveinstaller-6g_3.8.40+202405161745+git20240516.c0e38dde-8bookworm30_i386.deb
+elive-tools_3.8.40+202405161751+git20240515.1dce0452-8bookworm40_all.deb
