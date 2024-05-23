@@ -66509,3 +66509,14 @@ eliveinstaller-6g_3.8.42+202405231745+git20240523.14db786a-8bookworm31_i386.deb
 -------- Thu May 23 01:01:48 PM -05 2024 --------
 eliveinstaller-6g_3.8.42+202405231757+git20240523.9caa591e-8bookworm31_amd64.deb
 eliveinstaller-6g_3.8.42+202405231757+git20240523.9caa591e-8bookworm31_i386.deb
+
+
+
+-------- Thu May 23 06:16:06 PM -05 2024 --------
+elive-daemons_3.8.42+git20240523.9cacccfc-8bookworm12_all.deb
+eliveinstaller-6g_3.8.42+202405232311+git20240523.f46f5fe8-8bookworm31_amd64.deb
+eliveinstaller-6g_3.8.42+202405232311+git20240523.f46f5fe8-8bookworm31_i386.deb
+live-config_5.0-a5+git20240523.31e61daf-8bookworm6_all.deb
+live-config-doc_5.0-a5+git20240523.31e61daf-8bookworm6_all.deb
+live-config-systemd_5.0-a5+git20240523.31e61daf-8bookworm6_all.deb
+live-config-sysvinit_5.0-a5+git20240523.31e61daf-8bookworm6_all.deb
