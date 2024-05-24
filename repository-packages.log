@@ -66561,3 +66561,9 @@ elive-tools_3.8.42+202405241750+git20240524.43466da0-8bookworm40_all.deb
 v4l2loopback-dkms_0.13.2-1_all.deb
 v4l2loopback-source_0.13.2-1_all.deb
 v4l2loopback-utils_0.13.2-1_all.deb
+
+
+
+-------- Fri May 24 02:28:15 PM -05 2024 --------
+eliveinstaller-6g_3.8.42+202405241924+git20240524.4a7430c5-8bookworm31_amd64.deb
+eliveinstaller-6g_3.8.42+202405241924+git20240524.4a7430c5-8bookworm31_i386.deb
