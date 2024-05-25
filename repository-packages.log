@@ -66716,3 +66716,12 @@ elive-tools_3.8.42+202405252019+git20240525.b7e2e515-8bookworm40_all.deb
 -------- Sat May 25 03:29:34 PM -05 2024 --------
 deliver_3.8.42+git20240525.e90b26ed-8bookworm20_all.deb
 elive-daemons_3.8.42+git20240525.2e112cf9-8bookworm12_all.deb
+
+
+
+-------- Sat May 25 04:33:02 PM -05 2024 --------
+deliver_3.8.42+git20240525.e90b26ed-8bookworm20_all.deb
+elive-daemons_3.8.42+git20240525.2e112cf9-8bookworm12_all.deb
+eliveinstaller-6g_3.8.42+202405252129+git20240525.1d963ae4-8bookworm32_amd64.deb
+eliveinstaller-6g_3.8.42+202405252129+git20240525.1d963ae4-8bookworm32_i386.deb
+elive-tools_3.8.42+202405252129+git20240525.06f724dd-8bookworm40_all.deb
