@@ -66913,3 +66913,12 @@ eliveinstaller-6g_3.8.42+202406010256+git20240531.57c44674-8bookworm32_i386.deb
 -------- Fri May 31 11:04:15 PM -05 2024 --------
 eliveinstaller-6g_3.8.42+202406010401+git20240531.87555996-8bookworm32_amd64.deb
 eliveinstaller-6g_3.8.42+202406010401+git20240531.87555996-8bookworm32_i386.deb
+
+
+
+-------- Sat Jun  1 03:07:58 AM -05 2024 --------
+elive-skel-default-all_3.8.42+git20240531.ec05cbeb-8bookworm16_all.deb
+live-config_5.20190312+git20240523.31e61daf-8bookworm6_all.deb
+live-config-doc_5.20190312+git20240523.31e61daf-8bookworm6_all.deb
+live-config-systemd_5.20190312+git20240523.31e61daf-8bookworm6_all.deb
+live-config-sysvinit_5.20190312+git20240523.31e61daf-8bookworm6_all.deb
