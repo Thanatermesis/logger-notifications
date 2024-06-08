@@ -67107,3 +67107,11 @@ eliveinstaller-6g_3.8.43+202406081846+git20240608.7bced48a-8bookworm33_i386.deb
 deliver_3.8.43+git20240605.7eff24e3-8bookworm20_all.deb
 elive-skel_3.8.43+git20240608.f22fa24e-8bookworm5_all.deb
 elive-tools_3.8.43+202406081937+git20240605.e18eedf1-8bookworm40_all.deb
+
+
+
+-------- Sat Jun  8 04:09:53 PM -05 2024 --------
+eliveinstaller-6g_3.8.43+202406082108+git20240608.6e065438-8bookworm33_amd64.deb
+eliveinstaller-6g_3.8.43+202406082108+git20240608.6e065438-8bookworm33_i386.deb
+elive-skel_3.8.43+git20240608.a79ee64e-8bookworm5_all.deb
+elive-tools_3.8.43+202406082106+git20240608.618ebc0f-8bookworm40_all.deb
