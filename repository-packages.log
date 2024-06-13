@@ -67162,3 +67162,15 @@ eliveinstaller-6g_3.8.43+202406131707+git20240613.7074722b-8bookworm33_i386.deb
 -------- Thu Jun 13 12:25:41 PM -05 2024 --------
 eliveinstaller-6g_3.8.43+202406131720+git20240613.57c36a9f-8bookworm33_i386.deb
 eliveinstaller-6g_3.8.43+202406131720+git20240613.c51ea846-8bookworm33_amd64.deb
+
+
+
+-------- Thu Jun 13 01:09:52 PM -05 2024 --------
+deliver_3.8.43+git20240612.d1d192e6-8bookworm20_all.deb
+elive-daemons_3.8.43+git20240613.34968ff9-8bookworm12_all.deb
+eliveinstaller-6g_3.8.43+202406131803+git20240613.8d13ab4a-8bookworm33_amd64.deb
+eliveinstaller-6g_3.8.43+202406131803+git20240613.8d13ab4a-8bookworm33_i386.deb
+os-prober_1.82_amd64.deb
+os-prober_1.82_i386.deb
+os-prober-dbgsym_1.82_amd64.deb
+os-prober-dbgsym_1.82_i386.deb
