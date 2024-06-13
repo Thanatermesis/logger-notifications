@@ -67138,3 +67138,9 @@ elive-tools_3.8.43+202406121646+git20240612.c8c97982-8bookworm40_all.deb
 -------- Wed Jun 12 07:39:23 PM -05 2024 --------
 eliveinstaller-6g_3.8.43+202406130035+git20240612.74fc4748-8bookworm33_amd64.deb
 eliveinstaller-6g_3.8.43+202406130035+git20240612.74fc4748-8bookworm33_i386.deb
+
+
+
+-------- Wed Jun 12 09:15:22 PM -05 2024 --------
+elive-daemons_3.8.43+git20240612.12142762-8bookworm12_all.deb
+elive-tools_3.8.43+202406130212+git20240612.9b1d9a8f-8bookworm40_all.deb
