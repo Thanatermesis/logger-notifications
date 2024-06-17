@@ -67236,3 +67236,11 @@ eliveinstaller-6g_3.8.43+202406170429+git20240616.70d56104-8bookworm33_i386.deb
 eliveinstaller-6g_3.8.43+202406171746+git20240617.9f13bbe1-8bookworm33_amd64.deb
 eliveinstaller-6g_3.8.43+202406171746+git20240617.9f13bbe1-8bookworm33_i386.deb
 elive-tools_3.8.43+202406171743+git20240616.c107b953-8bookworm40_all.deb
+
+
+
+-------- Mon Jun 17 12:53:19 PM -05 2024 --------
+efm2_3.8.43+git20240617.6ca9a6ec-8bookworm2_amd64.deb
+efm2_3.8.43+git20240617.6ca9a6ec-8bookworm2_i386.deb
+efm2-dbgsym_3.8.43+git20240617.6ca9a6ec-8bookworm2_amd64.deb
+efm2-dbgsym_3.8.43+git20240617.6ca9a6ec-8bookworm2_i386.deb
