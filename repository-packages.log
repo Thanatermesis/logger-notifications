@@ -67346,3 +67346,9 @@ terminology_1.13.0+git20240618.10b4d7cd-8bookworm64_i386.deb
 terminology-data_1.13.0+git20240618.10b4d7cd-8bookworm64_all.deb
 terminology-dbgsym_1.13.0+git20240618.10b4d7cd-8bookworm64_amd64.deb
 terminology-dbgsym_1.13.0+git20240618.10b4d7cd-8bookworm64_i386.deb
+
+
+
+-------- Mon Jun 24 12:45:08 PM -05 2024 --------
+elive-tools_3.8.43+202406241742+git20240624.a4e15d98-8bookworm40_all.deb
+warning-messages_3.8.43+git20220531.fab03b5c-8bookworm8_all.deb
