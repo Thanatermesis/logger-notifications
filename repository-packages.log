@@ -67396,3 +67396,26 @@ libefl-data_1.27.0+135+202406250536+git20231223.248d62bf-8bookworm135_all.deb
 libefl-dev_1.27.0+135+202406250536+git20231223.248d62bf-8bookworm135_amd64.deb
 libefl-dev_1.27.0+135+202406250536+git20231223.248d62bf-8bookworm135_i386.deb
 libefl-doc_1.27.0+135+202406250536+git20231223.248d62bf-8bookworm135_all.deb
+
+
+
+-------- Tue Jun 25 02:00:48 PM -05 2024 --------
+e16_1.0.29+git20240624.e5a2f740-8bookworm85_amd64.deb
+e16_1.0.29+git20240624.e5a2f740-8bookworm85_i386.deb
+e16-data_1.0.29+git20240624.e5a2f740-8bookworm85_amd64.deb
+e16-data_1.0.29+git20240624.e5a2f740-8bookworm85_i386.deb
+e16-dbg_1.0.29+git20240624.e5a2f740-8bookworm85_amd64.deb
+e16-dbg_1.0.29+git20240624.e5a2f740-8bookworm85_i386.deb
+edi_0.8.0+git20221027.e9d30f6c-8bookworm9_amd64.deb
+edi_0.8.0+git20221027.e9d30f6c-8bookworm9_i386.deb
+edi-data_0.8.0+git20221027.e9d30f6c-8bookworm9_all.deb
+edi-dbgsym_0.8.0+git20221027.e9d30f6c-8bookworm9_amd64.deb
+edi-dbgsym_0.8.0+git20221027.e9d30f6c-8bookworm9_i386.deb
+edi-doc_0.8.0+git20221027.e9d30f6c-8bookworm9_all.deb
+elive-tools_3.8.43+202406251749+git20240624.e70ee632-8bookworm40_all.deb
+entice_3.8.43+git20231207.ed4d58fa-8bookworm8_amd64.deb
+entice_3.8.43+git20231207.ed4d58fa-8bookworm8_i386.deb
+entice-data_3.8.43+git20231207.ed4d58fa-8bookworm8_all.deb
+entice-dbgsym_3.8.43+git20231207.ed4d58fa-8bookworm8_amd64.deb
+entice-dbgsym_3.8.43+git20231207.ed4d58fa-8bookworm8_i386.deb
+warning-messages_3.8.43+git20220531.fab03b5c-8bookworm8_all.deb
