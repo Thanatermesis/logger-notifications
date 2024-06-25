@@ -67357,3 +67357,23 @@ warning-messages_3.8.43+git20220531.fab03b5c-8bookworm8_all.deb
 
 -------- Mon Jun 24 06:56:20 PM -05 2024 --------
 elive-tools_3.8.43+202406242353+git20240624.4a687ab0-8bookworm40_all.deb
+
+
+
+-------- Mon Jun 24 09:31:01 PM -05 2024 --------
+e17-moksha_0.4.1+git20240622.14118ef1-8bookworm27_amd64.deb
+e17-moksha_0.4.1+git20240622.14118ef1-8bookworm27_i386.deb
+e17-moksha-data_0.4.1+git20240622.14118ef1-8bookworm27_all.deb
+e17-moksha-dbg_0.4.1+git20240622.14118ef1-8bookworm27_amd64.deb
+e17-moksha-dbg_0.4.1+git20240622.14118ef1-8bookworm27_i386.deb
+e17-moksha-dev_0.4.1+git20240622.14118ef1-8bookworm27_amd64.deb
+e17-moksha-dev_0.4.1+git20240622.14118ef1-8bookworm27_i386.deb
+e17-moksha-doc_0.4.1+git20240622.14118ef1-8bookworm27_all.deb
+elive-tools_3.8.43+202406250006+git20240624.09184786-8bookworm40_all.deb
+libedbus1_1.7.10+git20140211.72b1524e-8bookworm4_amd64.deb
+libedbus1_1.7.10+git20140211.72b1524e-8bookworm4_i386.deb
+libedbus1-dbgsym_1.7.10+git20140211.72b1524e-8bookworm4_amd64.deb
+libedbus1-dbgsym_1.7.10+git20140211.72b1524e-8bookworm4_i386.deb
+libedbus-dev_1.7.10+git20140211.72b1524e-8bookworm4_amd64.deb
+libedbus-dev_1.7.10+git20140211.72b1524e-8bookworm4_i386.deb
+libedbus-doc_1.7.10+git20140211.72b1524e-8bookworm4_all.deb
