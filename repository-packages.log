@@ -67377,3 +67377,22 @@ libedbus1-dbgsym_1.7.10+git20140211.72b1524e-8bookworm4_i386.deb
 libedbus-dev_1.7.10+git20140211.72b1524e-8bookworm4_amd64.deb
 libedbus-dev_1.7.10+git20140211.72b1524e-8bookworm4_i386.deb
 libedbus-doc_1.7.10+git20140211.72b1524e-8bookworm4_all.deb
+
+
+
+-------- Tue Jun 25 01:23:42 AM -05 2024 --------
+enlightenment_0.26.0+git20240225.7dbfdfc8-8bookworm51_amd64.deb
+enlightenment_0.26.0+git20240225.7dbfdfc8-8bookworm51_i386.deb
+enlightenment-data_0.26.0+git20240225.7dbfdfc8-8bookworm51_all.deb
+enlightenment-dbgsym_0.26.0+git20240225.7dbfdfc8-8bookworm51_amd64.deb
+enlightenment-dbgsym_0.26.0+git20240225.7dbfdfc8-8bookworm51_i386.deb
+enlightenment-dev_0.26.0+git20240225.7dbfdfc8-8bookworm51_amd64.deb
+enlightenment-dev_0.26.0+git20240225.7dbfdfc8-8bookworm51_i386.deb
+libefl1_1.27.0+135+202406250536+git20231223.248d62bf-8bookworm135_amd64.deb
+libefl1_1.27.0+135+202406250536+git20231223.248d62bf-8bookworm135_i386.deb
+libefl1-dbgsym_1.27.0+135+202406250536+git20231223.248d62bf-8bookworm135_amd64.deb
+libefl1-dbgsym_1.27.0+135+202406250536+git20231223.248d62bf-8bookworm135_i386.deb
+libefl-data_1.27.0+135+202406250536+git20231223.248d62bf-8bookworm135_all.deb
+libefl-dev_1.27.0+135+202406250536+git20231223.248d62bf-8bookworm135_amd64.deb
+libefl-dev_1.27.0+135+202406250536+git20231223.248d62bf-8bookworm135_i386.deb
+libefl-doc_1.27.0+135+202406250536+git20231223.248d62bf-8bookworm135_all.deb
