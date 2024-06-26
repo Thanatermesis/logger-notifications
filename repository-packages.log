@@ -67419,3 +67419,18 @@ entice-data_3.8.43+git20231207.ed4d58fa-8bookworm8_all.deb
 entice-dbgsym_3.8.43+git20231207.ed4d58fa-8bookworm8_amd64.deb
 entice-dbgsym_3.8.43+git20231207.ed4d58fa-8bookworm8_i386.deb
 warning-messages_3.8.43+git20220531.fab03b5c-8bookworm8_all.deb
+
+
+
+-------- Wed Jun 26 11:28:51 AM -05 2024 --------
+edi_0.8.0+git20221027.e9d30f6c-8bookworm9_amd64.deb
+edi_0.8.0+git20221027.e9d30f6c-8bookworm9_i386.deb
+edi-data_0.8.0+git20221027.e9d30f6c-8bookworm9_all.deb
+edi-dbgsym_0.8.0+git20221027.e9d30f6c-8bookworm9_amd64.deb
+edi-dbgsym_0.8.0+git20221027.e9d30f6c-8bookworm9_i386.deb
+edi-doc_0.8.0+git20221027.e9d30f6c-8bookworm9_all.deb
+elive-skel-default-all_3.8.43+git20240603.f30ef568-8bookworm16_all.deb
+elive-tools_3.8.43+202406260418+git20240625.83436a5d-8bookworm41_all.deb
+eltrans_3.8.43+202406261627+git20240208.60fce64d-8bookworm9_all.deb
+luv-icon-theme_3.8.43+git20240604.91b4e9e3-8bookworm4_amd64.deb
+luv-icon-theme_3.8.43+git20240604.91b4e9e3-8bookworm4_i386.deb
