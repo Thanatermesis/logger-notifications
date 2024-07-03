@@ -67511,3 +67511,9 @@ elive-tools_3.8.43+202407021923+git20240702.13f04dec-8bookworm41_all.deb
 optimus-manager_1.5+git20240702.97e4f159-8bookworm8_amd64.deb
 optimus-manager_1.5+git20240702.97e4f159-8bookworm8_i386.deb
 r8125-dkms_9.013.02-1_all.deb
+
+
+
+-------- Wed Jul  3 12:49:12 PM -05 2024 --------
+elive-skel-default-all_3.8.43+git20240702.f93ea3fc-8bookworm16_all.deb
+elive-tools_3.8.43+202407031745+git20240702.0b900353-8bookworm41_all.deb
