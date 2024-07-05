@@ -67517,3 +67517,20 @@ r8125-dkms_9.013.02-1_all.deb
 -------- Wed Jul  3 12:49:12 PM -05 2024 --------
 elive-skel-default-all_3.8.43+git20240702.f93ea3fc-8bookworm16_all.deb
 elive-tools_3.8.43+202407031745+git20240702.0b900353-8bookworm41_all.deb
+
+
+
+-------- Thu Jul  4 11:53:16 PM -05 2024 --------
+elive-tools_3.8.43+202407050450+git20240704.7986f375-8bookworm41_all.deb
+enlightenment_0.26.0+git20240703.43537732-8bookworm52_amd64.deb
+enlightenment_0.26.0+git20240703.43537732-8bookworm52_i386.deb
+enlightenment-data_0.26.0+git20240703.43537732-8bookworm52_all.deb
+enlightenment-dbgsym_0.26.0+git20240703.43537732-8bookworm52_amd64.deb
+enlightenment-dbgsym_0.26.0+git20240703.43537732-8bookworm52_i386.deb
+enlightenment-dev_0.26.0+git20240703.43537732-8bookworm52_amd64.deb
+enlightenment-dev_0.26.0+git20240703.43537732-8bookworm52_i386.deb
+yad-gtk3_14.1+git20240704.b0774c42-8bookworm17_amd64.deb
+yad-gtk3_14.1+git20240704.b0774c42-8bookworm17_i386.deb
+yad-gtk3-data_14.1+git20240704.b0774c42-8bookworm17_all.deb
+yad-gtk3-dbgsym_14.1+git20240704.b0774c42-8bookworm17_amd64.deb
+yad-gtk3-dbgsym_14.1+git20240704.b0774c42-8bookworm17_i386.deb
