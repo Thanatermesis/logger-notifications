@@ -67590,3 +67590,10 @@ usb-bootable-elive_3.8.43+git20240706.dc2f0c23-8bookworm8_all.deb
 
 -------- Sat Jul  6 03:50:55 PM -05 2024 --------
 elive-tools_3.8.43+202407061758+git20240706.738975c1-8bookworm41_all.deb
+
+
+
+-------- Sat Jul  6 04:20:15 PM -05 2024 --------
+eliveinstaller-6g_3.8.43+202407062114+git20240706.810906bc-8bookworm33_amd64.deb
+eliveinstaller-6g_3.8.43+202407062114+git20240706.810906bc-8bookworm33_i386.deb
+elive-tools_3.8.43+202407062114+git20240706.f6e0f039-8bookworm41_all.deb
