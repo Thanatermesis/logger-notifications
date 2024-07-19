@@ -67808,3 +67808,14 @@ hebernate_3.8.43+git20240717.ed7edfbb-8bookworm10_all.deb
 
 -------- Wed Jul 17 07:58:40 PM -05 2024 --------
 elive-daemons_3.8.43+git20240717.fb8ca9b2-8bookworm12_all.deb
+
+
+
+-------- Thu Jul 18 07:31:40 PM -05 2024 --------
+elive-assistant_3.8.43+git20240718.d657fe51-8bookworm5_all.deb
+expedite_1.7.10+git20201110.9db3724e-8bookworm24_amd64.deb
+expedite_1.7.10+git20201110.9db3724e-8bookworm24_i386.deb
+expedite-data_1.7.10+git20201110.9db3724e-8bookworm24_all.deb
+expedite-dbgsym_1.7.10+git20201110.9db3724e-8bookworm24_amd64.deb
+expedite-dbgsym_1.7.10+git20201110.9db3724e-8bookworm24_i386.deb
+hebernate_3.8.43+git20240718.3ba80835-8bookworm10_all.deb
