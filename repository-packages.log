@@ -67864,3 +67864,12 @@ firmware-realtek_20240610-1_all.deb
 firmware-samsung_20240610-1_all.deb
 firmware-siano_20240610-1_all.deb
 firmware-ti-connectivity_20240610-1_all.deb
+
+
+
+-------- Mon Jul 22 02:10:13 PM -05 2024 --------
+ddcci-dkms_0.4.4-2_all.deb
+elive-daemons_3.8.43+git20240719.84a8df10-8bookworm12_all.deb
+eliveinstaller-6g_3.8.43+202407221904+git20240719.2f957df6-8bookworm33_amd64.deb
+eliveinstaller-6g_3.8.43+202407221904+git20240719.2f957df6-8bookworm33_i386.deb
+virtualbox-ext-pack_7.0.20-1_all.deb
