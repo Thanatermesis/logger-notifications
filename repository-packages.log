@@ -67923,3 +67923,9 @@ deliver_3.8.43+git20240722.b0158983-8bookworm20_all.deb
 elive-desktop-applications_3.8.43+git20240708.a2c0524e-8bookworm8_all.deb
 elive-sounds_3.8.43+git20240722.20e8f61d-8bookworm9_all.deb
 elive-tools_3.8.43+202407230302+git20240722.67baac7f-8bookworm41_all.deb
+
+
+
+-------- Tue Jul 23 09:31:00 AM -05 2024 --------
+eliveinstaller-6g_3.8.43+202407231428+git20240723.6e168d99-8bookworm33_amd64.deb
+eliveinstaller-6g_3.8.43+202407231428+git20240723.6e168d99-8bookworm33_i386.deb
