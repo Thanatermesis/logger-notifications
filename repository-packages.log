@@ -67969,3 +67969,19 @@ elive-tools_3.8.43+202407261738+git20240725.ef541dcd-8bookworm41_all.deb
 
 -------- Thu Aug  1 12:46:17 AM -05 2024 --------
 elive-skel-default-all_3.8.43+git20240801.6747b786-8bookworm16_all.deb
+
+
+
+-------- Thu Aug  1 02:10:09 PM -05 2024 --------
+cinelerra-gg_2024+07+git20240728.7e4aa7bd-26_amd64.deb
+cinelerra-gg_2024+07+git20240728.7e4aa7bd-26_i386.deb
+cinelerra-gg-dbgsym_2024+07+git20240728.7e4aa7bd-26_amd64.deb
+cinelerra-gg-dbgsym_2024+07+git20240728.7e4aa7bd-26_i386.deb
+cinelerra-gg-manual_2024+07+git20240728.0bcffb7f-13_all.deb
+gnome-themes-qogir_2024-05-22+git20240720.f3589c6a-8bookworm27_all.deb
+optimus-manager_1.5+git20240715.1fcdcf25-8bookworm8_amd64.deb
+optimus-manager_1.5+git20240715.1fcdcf25-8bookworm8_i386.deb
+supermariowar_2.0-beta.1.1+git20240716.0ba445f4-8bookworm21_amd64.deb
+supermariowar_2.0-beta.1.1+git20240716.0ba445f4-8bookworm21_i386.deb
+supermariowar-data_2.0-beta.1.1+git20240716.0ba445f4-8bookworm21_amd64.deb
+supermariowar-data_2.0-beta.1.1+git20240716.0ba445f4-8bookworm21_i386.deb
