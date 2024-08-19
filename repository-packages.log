@@ -68030,3 +68030,16 @@ gnome-themes-qogir_2024-05-22+git20240802.8dc373b6-8bookworm27_all.deb
 -------- Tue Aug  6 12:44:51 PM -05 2024 --------
 elive-tools_3.8.43+202408031615+git20240803.dd3ca528-8bookworm41_all.deb
 gnome-themes-qogir_2024-05-22+git20240807.b17fd566-8bookworm27_all.deb
+
+
+
+-------- Mon Aug 19 02:36:54 PM -05 2024 --------
+gnome-icon-theme-beautyline_1.6-20230128+git20230522.aa7b2056-8bookworm2_all.deb
+gnome-themes-qogir_2024-05-22+git20240819.b0e25c97-8bookworm27_all.deb
+optimus-manager_1.5+git20240808.ba773366-8bookworm8_amd64.deb
+optimus-manager_1.5+git20240808.ba773366-8bookworm8_i386.deb
+yad-gtk2_5.0+git20240811.cfe6c706-8bookworm25_amd64.deb
+yad-gtk2_5.0+git20240811.cfe6c706-8bookworm25_i386.deb
+yad-gtk2-data_5.0+git20240811.cfe6c706-8bookworm25_all.deb
+yad-gtk2-dbgsym_5.0+git20240811.cfe6c706-8bookworm25_amd64.deb
+yad-gtk2-dbgsym_5.0+git20240811.cfe6c706-8bookworm25_i386.deb
