@@ -68073,3 +68073,12 @@ virtualbox-guest-x11-hwe_7.0.20-dfsg-1_i386.deb
 virtualbox-qt_7.0.20-dfsg-1_amd64.deb
 virtualbox-qt-dbgsym_7.0.20-dfsg-1_amd64.deb
 virtualbox-source_7.0.20-dfsg-1_amd64.deb
+
+
+
+-------- Tue Aug 20 02:38:17 AM -05 2024 --------
+elive-extra-features_3.8.43+git20220721.e1e474eb-8bookworm8_all.deb
+eliveinstaller-6g_3.8.43+202408200737+git20240819.2895b372-8bookworm33_amd64.deb
+eliveinstaller-6g_3.8.43+202408200737+git20240819.2895b372-8bookworm33_i386.deb
+elive-upgrader_202408200521+git20240819.e8df94f2-8bookworm12_all.deb
+eltrans_3.8.43+202408200521+git20240819.9073b2fe-8bookworm9_all.deb
