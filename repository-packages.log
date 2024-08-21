@@ -68082,3 +68082,17 @@ eliveinstaller-6g_3.8.43+202408200737+git20240819.2895b372-8bookworm33_amd64.deb
 eliveinstaller-6g_3.8.43+202408200737+git20240819.2895b372-8bookworm33_i386.deb
 elive-upgrader_202408200521+git20240819.e8df94f2-8bookworm12_all.deb
 eltrans_3.8.43+202408200521+git20240819.9073b2fe-8bookworm9_all.deb
+
+
+
+-------- Wed Aug 21 01:19:19 PM -05 2024 --------
+deliver_3.8.43+git20240820.c75739a5-8bookworm20_all.deb
+elive-extra-features_3.8.43+git20240821.ee6fef3a-8bookworm8_all.deb
+eliveinstaller-6g_3.8.43+202408211812+git20240821.7645dc53-8bookworm33_amd64.deb
+eliveinstaller-6g_3.8.43+202408211812+git20240821.7645dc53-8bookworm33_i386.deb
+elive-skel_3.8.43+git20240821.af1c7d8c-8bookworm5_all.deb
+elive-upgrader_202408201742+git20240819.e8df94f2-8bookworm12_all.deb
+eltrans_3.8.43+202408211818+git20240821.0ecaf80a-8bookworm9_all.deb
+hebernate_3.8.43+git20240820.b75f45a2-8bookworm10_all.deb
+thunar-audio-converter_3.8.43+git20231019.6b381c55-8bookworm10_all.deb
+usb-bootable-elive_3.8.43+git20240821.c411ce95-8bookworm8_all.deb
