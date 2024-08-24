@@ -68096,3 +68096,23 @@ eltrans_3.8.43+202408211818+git20240821.0ecaf80a-8bookworm9_all.deb
 hebernate_3.8.43+git20240820.b75f45a2-8bookworm10_all.deb
 thunar-audio-converter_3.8.43+git20231019.6b381c55-8bookworm10_all.deb
 usb-bootable-elive_3.8.43+git20240821.c411ce95-8bookworm8_all.deb
+
+
+
+-------- Fri Aug 23 11:45:28 PM -05 2024 --------
+efm2_3.8.43+git20240726.9a51d84d-8bookworm2_amd64.deb
+efm2_3.8.43+git20240726.9a51d84d-8bookworm2_i386.deb
+efm2-dbgsym_3.8.43+git20240726.9a51d84d-8bookworm2_amd64.deb
+efm2-dbgsym_3.8.43+git20240726.9a51d84d-8bookworm2_i386.deb
+eliveinstaller-6g_3.8.43+202408240444+git20240823.175b6043-8bookworm33_amd64.deb
+eliveinstaller-6g_3.8.43+202408240444+git20240823.175b6043-8bookworm33_i386.deb
+entice_3.8.43+git20240709.9c6d7f7e-8bookworm8_amd64.deb
+entice_3.8.43+git20240709.9c6d7f7e-8bookworm8_i386.deb
+entice-data_3.8.43+git20240709.9c6d7f7e-8bookworm8_all.deb
+entice-dbgsym_3.8.43+git20240709.9c6d7f7e-8bookworm8_amd64.deb
+entice-dbgsym_3.8.43+git20240709.9c6d7f7e-8bookworm8_i386.deb
+evisum_0.6.0+git20240806.634e50b5-8bookworm11_amd64.deb
+evisum_0.6.0+git20240806.634e50b5-8bookworm11_i386.deb
+evisum-data_0.6.0+git20240806.634e50b5-8bookworm11_all.deb
+evisum-dbgsym_0.6.0+git20240806.634e50b5-8bookworm11_amd64.deb
+evisum-dbgsym_0.6.0+git20240806.634e50b5-8bookworm11_i386.deb
