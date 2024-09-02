@@ -68165,3 +68165,18 @@ firmware-realtek_20240709-2_all.deb
 firmware-samsung_20240709-2_all.deb
 firmware-siano_20240709-2_all.deb
 firmware-ti-connectivity_20240709-2_all.deb
+
+
+
+-------- Mon Sep  2 12:55:58 PM -05 2024 --------
+enlightenment_0.26.0+git20240826.c600f7b3-8bookworm52_amd64.deb
+enlightenment_0.26.0+git20240826.c600f7b3-8bookworm52_i386.deb
+enlightenment-data_0.26.0+git20240826.c600f7b3-8bookworm52_all.deb
+enlightenment-dbgsym_0.26.0+git20240826.c600f7b3-8bookworm52_amd64.deb
+enlightenment-dbgsym_0.26.0+git20240826.c600f7b3-8bookworm52_i386.deb
+enlightenment-dev_0.26.0+git20240826.c600f7b3-8bookworm52_amd64.deb
+enlightenment-dev_0.26.0+git20240826.c600f7b3-8bookworm52_i386.deb
+os-prober_1.83_amd64.deb
+os-prober_1.83_i386.deb
+os-prober-dbgsym_1.83_amd64.deb
+os-prober-dbgsym_1.83_i386.deb
