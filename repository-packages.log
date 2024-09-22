@@ -68457,3 +68457,23 @@ cairo-dock-xgamma-plug-in-dbgsym_3.5.1+git20240921.9df9af76-8bookworm9_i386.deb
 -------- Sun Sep 22 05:49:12 PM -05 2024 --------
 eliveinstaller-6g_3.8.44+202409222247+git20240922.a12e4060-8bookworm33_amd64.deb
 eliveinstaller-6g_3.8.44+202409222247+git20240922.a12e4060-8bookworm33_i386.deb
+
+
+
+-------- Sun Sep 22 06:09:30 PM -05 2024 --------
+elive-tools_3.8.44+202409222307+git20240922.aa809b86-8bookworm41_all.deb
+enlightenment_0.26.0+git20240916.4d5b5945-8bookworm52_amd64.deb
+enlightenment_0.26.0+git20240916.4d5b5945-8bookworm52_i386.deb
+enlightenment-data_0.26.0+git20240916.4d5b5945-8bookworm52_all.deb
+enlightenment-dbgsym_0.26.0+git20240916.4d5b5945-8bookworm52_amd64.deb
+enlightenment-dbgsym_0.26.0+git20240916.4d5b5945-8bookworm52_i386.deb
+enlightenment-dev_0.26.0+git20240916.4d5b5945-8bookworm52_amd64.deb
+enlightenment-dev_0.26.0+git20240916.4d5b5945-8bookworm52_i386.deb
+libefl1_1.27.0+137+202409222255+git20231223.248d62bf-8bookworm137_amd64.deb
+libefl1_1.27.0+137+202409222255+git20231223.248d62bf-8bookworm137_i386.deb
+libefl1-dbgsym_1.27.0+137+202409222255+git20231223.248d62bf-8bookworm137_amd64.deb
+libefl1-dbgsym_1.27.0+137+202409222255+git20231223.248d62bf-8bookworm137_i386.deb
+libefl-data_1.27.0+137+202409222255+git20231223.248d62bf-8bookworm137_all.deb
+libefl-dev_1.27.0+137+202409222255+git20231223.248d62bf-8bookworm137_amd64.deb
+libefl-dev_1.27.0+137+202409222255+git20231223.248d62bf-8bookworm137_i386.deb
+libefl-doc_1.27.0+137+202409222255+git20231223.248d62bf-8bookworm137_all.deb
