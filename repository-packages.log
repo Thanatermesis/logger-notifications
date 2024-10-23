@@ -68664,3 +68664,15 @@ gnome-themes-qogir_2024-05-22+git20241019.196a4641-8bookworm28_all.deb
 
 -------- Mon Oct 21 12:43:07 PM -05 2024 --------
 r8168-dkms_8.054.00-1_all.deb
+
+
+
+-------- Wed Oct 23 12:42:25 PM -05 2024 --------
+enlightenment_0.26.0+git20241022.c5e29b4f-8bookworm52_amd64.deb
+enlightenment_0.26.0+git20241022.c5e29b4f-8bookworm52_i386.deb
+enlightenment-data_0.26.0+git20241022.c5e29b4f-8bookworm52_all.deb
+enlightenment-dbgsym_0.26.0+git20241022.c5e29b4f-8bookworm52_amd64.deb
+enlightenment-dbgsym_0.26.0+git20241022.c5e29b4f-8bookworm52_i386.deb
+enlightenment-dev_0.26.0+git20241022.c5e29b4f-8bookworm52_amd64.deb
+enlightenment-dev_0.26.0+git20241022.c5e29b4f-8bookworm52_i386.deb
+gnome-themes-qogir_2024-05-22+git20241023.0330a037-8bookworm28_all.deb
