@@ -68683,3 +68683,15 @@ gnome-themes-qogir_2024-05-22+git20241023.0330a037-8bookworm28_all.deb
 gnome-themes-qogir_2024-05-22+git20241024.62126cf5-8bookworm28_all.deb
 luv-icon-theme_3.8.44+git20241023.e6fd6606-8bookworm4_amd64.deb
 luv-icon-theme_3.8.44+git20241023.e6fd6606-8bookworm4_i386.deb
+
+
+
+-------- Fri Oct 25 01:10:58 PM -05 2024 --------
+elive-center_0.20-20230423+git20241024.be7b246f-8bookworm4_all.deb
+elive-daemons_3.0.6+git20241024.e5f29ef4-8bookworm12_all.deb
+elive-desktop-applications_3.0.6+git20241025.f7099309-8bookworm8_all.deb
+elive-help_3.0.6+git20241024.d43561c0-8bookworm8_all.deb
+elive-skel_3.0.6+git20241024.7e66295a-8bookworm5_all.deb
+elive-tools_3.0.6+202410251808+git20241024.3ae89a43-8bookworm41_all.deb
+elive-upgrader_202410251809+git20241025.d2a60ce5-8bookworm12_all.deb
+usb-bootable-elive_3.0.6+git20241024.7b4e1e97-8bookworm8_all.deb
