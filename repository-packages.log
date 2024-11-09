@@ -68770,3 +68770,10 @@ elive-tools_3.8.44+202411061817+git20241104.cd07e4ec-8bookworm41_all.deb
 hebernate_3.8.44+git20241030.c39298fd-8bookworm10_all.deb
 optimus-manager_1.5+git20241106.6b3d3e5e-8bookworm8_amd64.deb
 optimus-manager_1.5+git20241106.6b3d3e5e-8bookworm8_i386.deb
+
+
+
+-------- Sat Nov  9 10:50:47 AM -05 2024 --------
+base-files_12.4+deb12u8_amd64.deb
+base-files_12.4+deb12u8_i386.deb
+elive-tools_3.8.44+202411071850+git20241104.cd07e4ec-8bookworm41_all.deb
