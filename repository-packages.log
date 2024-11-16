@@ -68897,3 +68897,30 @@ terminology-dbgsym_1.13.0+git20240906.262c66a3-8bookworm64_i386.deb
 
 -------- Thu Nov 14 10:37:09 AM -05 2024 --------
 elive-tools_3.8.44+202411141535+git20241114.c60157dc-8bookworm42_all.deb
+
+
+
+-------- Sat Nov 16 10:26:06 AM -05 2024 --------
+e16_1.0.30+git20240816.4e064c3d-8bookworm85_amd64.deb
+e16_1.0.30+git20240816.4e064c3d-8bookworm85_i386.deb
+e16-data_1.0.30+git20240816.4e064c3d-8bookworm85_amd64.deb
+e16-data_1.0.30+git20240816.4e064c3d-8bookworm85_i386.deb
+e16-dbg_1.0.30+git20240816.4e064c3d-8bookworm85_amd64.deb
+e16-dbg_1.0.30+git20240816.4e064c3d-8bookworm85_i386.deb
+e16-epplets_0.17.0+git20240921.6f69ae08-8bookworm10_amd64.deb
+e16-epplets_0.17.0+git20240921.6f69ae08-8bookworm10_i386.deb
+e16-epplets-data_0.17.0+git20240921.6f69ae08-8bookworm10_all.deb
+e16-epplets-dbg_0.17.0+git20240921.6f69ae08-8bookworm10_amd64.deb
+e16-epplets-dbg_0.17.0+git20240921.6f69ae08-8bookworm10_i386.deb
+efm2_3.8.44+git20241030.0c76f831-8bookworm2_amd64.deb
+efm2_3.8.44+git20241030.0c76f831-8bookworm2_i386.deb
+efm2-dbgsym_3.8.44+git20241030.0c76f831-8bookworm2_amd64.deb
+efm2-dbgsym_3.8.44+git20241030.0c76f831-8bookworm2_i386.deb
+elive-assistant_3.8.44+git20240905.3172b957-8bookworm5_all.deb
+elive-tools_3.8.44+202411161504+git20241115.fa807664-8bookworm42_all.deb
+eltrans_3.0.6+202411141904+git20241114.7504c5d2-8bookworm9_all.deb
+enlightenment-conf_3.8.44+git20150422.358541ac-8bookworm9_all.deb
+hebernate_3.0.6+git20241114.27d86881-8bookworm10_all.deb
+libe16-epplets-dev_0.17.0+git20240921.6f69ae08-8bookworm10_amd64.deb
+libe16-epplets-dev_0.17.0+git20240921.6f69ae08-8bookworm10_i386.deb
+usb-bootable-elive_3.0.6+git20241114.0faf0eca-8bookworm8_all.deb
