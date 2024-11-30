@@ -69421,3 +69421,15 @@ elive-desktop-applications_3.8.44+202411301927.git2c4d01d9-8bookworm8_all.deb
 elive-skel-default-all_3.8.44+202411301927.git5abbc9f0-8bookworm16_all.deb
 elive-tools_3.8.44+202411301927.git808cc4ce-8bookworm43_all.deb
 enlightenment-conf_3.8.44+202411301927.git8a4a2039-8bookworm13_all.deb
+
+
+
+-------- Sat Nov 30 03:06:46 PM -05 2024 --------
+enlightenment-conf_3.8.44+202411301949.git8a4a2039-8bookworm13_all.deb
+enlightenment-vanilla_0.26.0+202411301947.git72505d30-8bookworm62_amd64.deb
+enlightenment-vanilla_0.26.0+202411301947.git72505d30-8bookworm62_i386.deb
+enlightenment-vanilla-data_0.26.0+202411301947.git72505d30-8bookworm62_all.deb
+enlightenment-vanilla-dbgsym_0.26.0+202411301947.git72505d30-8bookworm62_amd64.deb
+enlightenment-vanilla-dbgsym_0.26.0+202411301947.git72505d30-8bookworm62_i386.deb
+enlightenment-vanilla-dev_0.26.0+202411301947.git72505d30-8bookworm62_amd64.deb
+enlightenment-vanilla-dev_0.26.0+202411301947.git72505d30-8bookworm62_i386.deb
