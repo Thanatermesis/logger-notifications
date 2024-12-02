@@ -69480,3 +69480,16 @@ deliver_3.8.44+202412020636.git190cef8b-8bookworm20_all.deb
 
 -------- Mon Dec  2 01:45:30 AM -05 2024 --------
 deliver_3.8.44+202412020644.git83c9384a-8bookworm20_all.deb
+
+
+
+-------- Mon Dec  2 11:08:01 AM -05 2024 --------
+deliver_3.8.44+202412021602.gitb9e2e71c-8bookworm20_all.deb
+elive-tools_3.8.44+202412021605.git6894fda6-8bookworm44_all.deb
+live-boot_5.0-a5-2+202412020655.gitae1911c6-8bookworm7_all.deb
+live-boot-doc_5.0-a5-2+202412020655.gitae1911c6-8bookworm7_all.deb
+live-boot-initramfs-tools_5.0-a5-2+202412020655.gitae1911c6-8bookworm7_all.deb
+live-config_5.0-a5+202412021607.git83466074-8bookworm6_all.deb
+live-config-doc_5.0-a5+202412021607.git83466074-8bookworm6_all.deb
+live-config-systemd_5.0-a5+202412021607.git83466074-8bookworm6_all.deb
+live-config-sysvinit_5.0-a5+202412021607.git83466074-8bookworm6_all.deb
