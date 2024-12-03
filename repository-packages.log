@@ -69588,3 +69588,14 @@ ulauncher_6.0.0-beta16+202412030124.gitf495e6e9-8bookworm52_all.deb
 
 -------- Mon Dec  2 08:28:36 PM -05 2024 --------
 elive-skel-default-all_3.8.44+202412030127.git5abbc9f0-8bookworm17_all.deb
+
+
+
+-------- Tue Dec  3 12:21:53 AM -05 2024 --------
+enlightenment_0.26.0+202412030518.git5ff4b00a-8bookworm58_amd64.deb
+enlightenment_0.26.0+202412030518.git5ff4b00a-8bookworm58_i386.deb
+enlightenment-data_0.26.0+202412030518.git5ff4b00a-8bookworm58_all.deb
+enlightenment-dbgsym_0.26.0+202412030518.git5ff4b00a-8bookworm58_amd64.deb
+enlightenment-dbgsym_0.26.0+202412030518.git5ff4b00a-8bookworm58_i386.deb
+enlightenment-dev_0.26.0+202412030518.git5ff4b00a-8bookworm58_amd64.deb
+enlightenment-dev_0.26.0+202412030518.git5ff4b00a-8bookworm58_i386.deb
