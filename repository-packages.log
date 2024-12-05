@@ -69631,3 +69631,16 @@ deliver_3.8.44+202412041610.gitcc9b1010-8bookworm20_all.deb
 elive-tools_3.8.44+202412041730.git6037c765-8bookworm44_all.deb
 enlightenment-conf_3.8.44+202412041730.git01137652-8bookworm13_all.deb
 plymouth-theme-elive-vortex-glow_3.8.44+202412041749.git221fb74e-8bookworm4_all.deb
+
+
+
+-------- Thu Dec  5 09:02:52 AM -05 2024 --------
+deliver_3.0.6+202412041818.gitcc9b1010-8bookworm20_all.deb
+elive-desktop-wrapper_3.0.6+202412041819.gita5894dc7-8bookworm9_all.deb
+enlightenment_0.26.0+202412050600.git2b879b1b-8bookworm58_amd64.deb
+enlightenment_0.26.0+202412050600.git2b879b1b-8bookworm58_i386.deb
+enlightenment-data_0.26.0+202412050600.git2b879b1b-8bookworm58_all.deb
+enlightenment-dbgsym_0.26.0+202412050600.git2b879b1b-8bookworm58_amd64.deb
+enlightenment-dbgsym_0.26.0+202412050600.git2b879b1b-8bookworm58_i386.deb
+enlightenment-dev_0.26.0+202412050600.git2b879b1b-8bookworm58_amd64.deb
+enlightenment-dev_0.26.0+202412050600.git2b879b1b-8bookworm58_i386.deb
