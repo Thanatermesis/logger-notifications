@@ -69810,3 +69810,15 @@ elive-tools_3.8.44+202412102039.git30197ee6-8bookworm44_all.deb
 
 -------- Tue Dec 10 03:44:36 PM -05 2024 --------
 elive-tools_3.8.44+202412102042.git5bc8fb1b-8bookworm44_all.deb
+
+
+
+-------- Tue Dec 10 04:03:51 PM -05 2024 --------
+enlightenment_0.26.0+202412102100.git9ef0abae-8bookworm59_amd64.deb
+enlightenment_0.26.0+202412102100.git9ef0abae-8bookworm59_i386.deb
+enlightenment-data_0.26.0+202412102100.git9ef0abae-8bookworm59_all.deb
+enlightenment-dbgsym_0.26.0+202412102100.git9ef0abae-8bookworm59_amd64.deb
+enlightenment-dbgsym_0.26.0+202412102100.git9ef0abae-8bookworm59_i386.deb
+enlightenment-dev_0.26.0+202412102100.git9ef0abae-8bookworm59_amd64.deb
+enlightenment-dev_0.26.0+202412102100.git9ef0abae-8bookworm59_i386.deb
+plymouth-theme-elive-vortex-glow_3.8.44+202412102053.git3bcbd6ce-8bookworm4_all.deb
