@@ -69903,3 +69903,14 @@ enlightenment-dev_0.26.0+202412110335.git7b2d8f90-8bookworm59_i386.deb
 
 -------- Wed Dec 11 08:12:48 AM -05 2024 --------
 elive-tools_3.8.44+202412111311.gita585effd-8bookworm44_all.deb
+
+
+
+-------- Wed Dec 11 08:40:22 AM -05 2024 --------
+enlightenment_0.26.0+202412111337.gitaca78e1c-8bookworm59_amd64.deb
+enlightenment_0.26.0+202412111337.gitaca78e1c-8bookworm59_i386.deb
+enlightenment-data_0.26.0+202412111337.gitaca78e1c-8bookworm59_all.deb
+enlightenment-dbgsym_0.26.0+202412111337.gitaca78e1c-8bookworm59_amd64.deb
+enlightenment-dbgsym_0.26.0+202412111337.gitaca78e1c-8bookworm59_i386.deb
+enlightenment-dev_0.26.0+202412111337.gitaca78e1c-8bookworm59_amd64.deb
+enlightenment-dev_0.26.0+202412111337.gitaca78e1c-8bookworm59_i386.deb
