@@ -69932,3 +69932,15 @@ e16-dbg_1.0.30+202412122350.git4e064c3d-8bookworm88_i386.deb
 elive-tools_3.8.44+202412130049.gitbee08daa-8bookworm44_all.deb
 enlightenment-conf_3.8.44+202412122126.git886523a8-8bookworm13_all.deb
 zsh-elive_3.8.44+202412130042.git04c05cd2-8bookworm12_all.deb
+
+
+
+-------- Fri Dec 13 05:35:03 PM -05 2024 --------
+elive-tools_3.8.44+202412130148.gitcdea40b5-8bookworm44_all.deb
+enlightenment_0.26.0+202412131943.gitd942bc8c-8bookworm59_amd64.deb
+enlightenment_0.26.0+202412131943.gitd942bc8c-8bookworm59_i386.deb
+enlightenment-data_0.26.0+202412131943.gitd942bc8c-8bookworm59_all.deb
+enlightenment-dbgsym_0.26.0+202412131943.gitd942bc8c-8bookworm59_amd64.deb
+enlightenment-dbgsym_0.26.0+202412131943.gitd942bc8c-8bookworm59_i386.deb
+enlightenment-dev_0.26.0+202412131943.gitd942bc8c-8bookworm59_amd64.deb
+enlightenment-dev_0.26.0+202412131943.gitd942bc8c-8bookworm59_i386.deb
