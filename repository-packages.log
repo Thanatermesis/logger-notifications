@@ -70064,3 +70064,15 @@ enlightenment-dev_0.26.0+202412180321.git9d0c0326-8bookworm60_i386.deb
 
 -------- Tue Dec 17 10:26:08 PM -05 2024 --------
 enlightenment-conf_3.8.44+202412180325.git1eb4aaa7-8bookworm13_all.deb
+
+
+
+-------- Tue Dec 17 10:43:12 PM -05 2024 --------
+deliver_3.8.44+202412180334.git5da8e039-8bookworm20_all.deb
+enlightenment_0.26.0+202412180339.git53186a2f-8bookworm60_amd64.deb
+enlightenment_0.26.0+202412180339.git53186a2f-8bookworm60_i386.deb
+enlightenment-data_0.26.0+202412180339.git53186a2f-8bookworm60_all.deb
+enlightenment-dbgsym_0.26.0+202412180339.git53186a2f-8bookworm60_amd64.deb
+enlightenment-dbgsym_0.26.0+202412180339.git53186a2f-8bookworm60_i386.deb
+enlightenment-dev_0.26.0+202412180339.git53186a2f-8bookworm60_amd64.deb
+enlightenment-dev_0.26.0+202412180339.git53186a2f-8bookworm60_i386.deb
