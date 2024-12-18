@@ -70048,3 +70048,14 @@ enlightenment-dev_0.26.0+202412172353.git8022faa3-8bookworm60_i386.deb
 -------- Tue Dec 17 09:31:13 PM -05 2024 --------
 deliver_3.8.44+202412180230.git5da8e039-8bookworm20_all.deb
 elive-tools_3.8.44+202412180230.git28b8f8ba-8bookworm44_all.deb
+
+
+
+-------- Tue Dec 17 10:25:09 PM -05 2024 --------
+enlightenment_0.26.0+202412180321.git9d0c0326-8bookworm60_amd64.deb
+enlightenment_0.26.0+202412180321.git9d0c0326-8bookworm60_i386.deb
+enlightenment-data_0.26.0+202412180321.git9d0c0326-8bookworm60_all.deb
+enlightenment-dbgsym_0.26.0+202412180321.git9d0c0326-8bookworm60_amd64.deb
+enlightenment-dbgsym_0.26.0+202412180321.git9d0c0326-8bookworm60_i386.deb
+enlightenment-dev_0.26.0+202412180321.git9d0c0326-8bookworm60_amd64.deb
+enlightenment-dev_0.26.0+202412180321.git9d0c0326-8bookworm60_i386.deb
