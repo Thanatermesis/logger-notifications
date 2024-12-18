@@ -70029,3 +70029,16 @@ elive-tools_3.8.44+202412172254.git6ef279de-8bookworm44_all.deb
 deliver_3.8.44+202412172335.git5da8e039-8bookworm20_all.deb
 elive-skel-default-e16_3.8.44+202412172337.git40899468-8bookworm6_all.deb
 elive-tools_3.8.44+202412172332.git77a127ea-8bookworm44_all.deb
+
+
+
+-------- Tue Dec 17 07:06:06 PM -05 2024 --------
+elive-skel-default-e16_3.8.44+202412180003.gitdc43ca6a-8bookworm6_all.deb
+elive-tools_3.8.44+202412180004.git28b8f8ba-8bookworm44_all.deb
+enlightenment_0.26.0+202412172353.git8022faa3-8bookworm60_amd64.deb
+enlightenment_0.26.0+202412172353.git8022faa3-8bookworm60_i386.deb
+enlightenment-data_0.26.0+202412172353.git8022faa3-8bookworm60_all.deb
+enlightenment-dbgsym_0.26.0+202412172353.git8022faa3-8bookworm60_amd64.deb
+enlightenment-dbgsym_0.26.0+202412172353.git8022faa3-8bookworm60_i386.deb
+enlightenment-dev_0.26.0+202412172353.git8022faa3-8bookworm60_amd64.deb
+enlightenment-dev_0.26.0+202412172353.git8022faa3-8bookworm60_i386.deb
