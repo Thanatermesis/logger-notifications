@@ -70102,3 +70102,16 @@ elive-tools_3.8.44+202412180404.git2af7fe96-8bookworm44_all.deb
 
 -------- Wed Dec 18 08:56:04 PM -05 2024 --------
 deliver_3.8.44+202412190154.giteb780d4a-8bookworm20_all.deb
+
+
+
+-------- Thu Dec 19 12:19:05 AM -05 2024 --------
+elive-tools_3.8.44+202412190508.git6cb334ac-8bookworm44_all.deb
+libefl1_1.27.0+141+202412190508+git248d62bf-8bookworm141_amd64.deb
+libefl1_1.27.0+141+202412190508+git248d62bf-8bookworm141_i386.deb
+libefl1-dbgsym_1.27.0+141+202412190508+git248d62bf-8bookworm141_amd64.deb
+libefl1-dbgsym_1.27.0+141+202412190508+git248d62bf-8bookworm141_i386.deb
+libefl-data_1.27.0+141+202412190508+git248d62bf-8bookworm141_all.deb
+libefl-dev_1.27.0+141+202412190508+git248d62bf-8bookworm141_amd64.deb
+libefl-dev_1.27.0+141+202412190508+git248d62bf-8bookworm141_i386.deb
+libefl-doc_1.27.0+141+202412190508+git248d62bf-8bookworm141_all.deb
