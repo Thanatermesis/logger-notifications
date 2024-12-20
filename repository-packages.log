@@ -70169,3 +70169,15 @@ eliveinstaller-6g_3.8.44+202412200119.gitdd3c9f76-8bookworm34_i386.deb
 -------- Thu Dec 19 08:45:32 PM -05 2024 --------
 eliveinstaller-6g_3.8.44+202412200142.gitc1ef9e4e-8bookworm34_amd64.deb
 eliveinstaller-6g_3.8.44+202412200142.gitc1ef9e4e-8bookworm34_i386.deb
+
+
+
+-------- Thu Dec 19 09:20:42 PM -05 2024 --------
+elive-tools_3.8.44+202412200204.gitd047d156-8bookworm45_all.deb
+enlightenment_0.26.0+202412200207.git52de6d8b-8bookworm60_amd64.deb
+enlightenment_0.26.0+202412200207.git52de6d8b-8bookworm60_i386.deb
+enlightenment-data_0.26.0+202412200207.git52de6d8b-8bookworm60_all.deb
+enlightenment-dbgsym_0.26.0+202412200207.git52de6d8b-8bookworm60_amd64.deb
+enlightenment-dbgsym_0.26.0+202412200207.git52de6d8b-8bookworm60_i386.deb
+enlightenment-dev_0.26.0+202412200207.git52de6d8b-8bookworm60_amd64.deb
+enlightenment-dev_0.26.0+202412200207.git52de6d8b-8bookworm60_i386.deb
