@@ -70495,3 +70495,22 @@ elive-skel-default-all_3.8.46+202502011431.gitb1f86494-8bookworm17_all.deb
 deliver_3.8.46+202502101630.git361d303d-8bookworm20_all.deb
 elive-assistant_3.8.46+202502101631.gitce1a6167-8bookworm5_all.deb
 elive-tools_3.8.46+202502101630.git2a619cb3-8bookworm43_all.deb
+
+
+
+-------- Sat Mar  1 06:21:40 PM -04 2025 --------
+enlightenment_0.27.0+202503010046.git069cbe01-8bookworm53_amd64.deb
+enlightenment_0.27.0+202503010046.git069cbe01-8bookworm53_i386.deb
+enlightenment-data_0.27.0+202503010046.git069cbe01-8bookworm53_all.deb
+enlightenment-dbgsym_0.27.0+202503010046.git069cbe01-8bookworm53_amd64.deb
+enlightenment-dbgsym_0.27.0+202503010046.git069cbe01-8bookworm53_i386.deb
+enlightenment-dev_0.27.0+202503010046.git069cbe01-8bookworm53_amd64.deb
+enlightenment-dev_0.27.0+202503010046.git069cbe01-8bookworm53_i386.deb
+libefl1_1.28.0+138+202503010046+git9f018874-8bookworm138_amd64.deb
+libefl1_1.28.0+138+202503010046+git9f018874-8bookworm138_i386.deb
+libefl1-dbgsym_1.28.0+138+202503010046+git9f018874-8bookworm138_amd64.deb
+libefl1-dbgsym_1.28.0+138+202503010046+git9f018874-8bookworm138_i386.deb
+libefl-data_1.28.0+138+202503010046+git9f018874-8bookworm138_all.deb
+libefl-dev_1.28.0+138+202503010046+git9f018874-8bookworm138_amd64.deb
+libefl-dev_1.28.0+138+202503010046+git9f018874-8bookworm138_i386.deb
+libefl-doc_1.28.0+138+202503010046+git9f018874-8bookworm138_all.deb
