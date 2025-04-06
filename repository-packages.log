@@ -70640,3 +70640,15 @@ deliver_3.8.46+202504061540.gitc97dedee-8bookworm20_all.deb
 eliveinstaller-6g_3.8.46+202504061532.git4eb0e3fd-8bookworm34_amd64.deb
 eliveinstaller-6g_3.8.46+202504061532.git4eb0e3fd-8bookworm34_i386.deb
 elive-tools_3.8.46+202504061540.git648f7a9f-8bookworm43_all.deb
+
+
+
+-------- Sun Apr  6 05:50:53 PM -04 2025 --------
+eliveinstaller-6g_3.8.46+202504061906.gitf585d4b0-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.46+202504061906.gitf585d4b0-8bookworm34_i386.deb
+gnome-themes-qogir_2024-05-22+202504061906.git8c6ef1f1-8bookworm28_all.deb
+optimus-manager_1.5+202504061906.git67d06ddb-8bookworm8_amd64.deb
+optimus-manager_1.5+202504061906.git67d06ddb-8bookworm8_i386.deb
+supermariowar_2.0-beta.1.1+202504061906.gitc0ed774a-8bookworm21_amd64.deb
+supermariowar_2.0-beta.1.1+202504061906.gitc0ed774a-8bookworm21_i386.deb
+supermariowar-data_2.0-beta.1.1+202504061906.gitc0ed774a-8bookworm21_i386.deb
