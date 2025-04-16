@@ -70798,3 +70798,11 @@ elive-tools_3.8.46+202504152255.git9e3d0742-8bookworm43_all.deb
 -------- Tue Apr 15 07:05:38 PM -04 2025 --------
 eliveinstaller-6g_3.8.46+202504152300.gita8dea48b-8bookworm34_amd64.deb
 eliveinstaller-6g_3.8.46+202504152300.gita8dea48b-8bookworm34_i386.deb
+
+
+
+-------- Tue Apr 15 09:15:24 PM -04 2025 --------
+linux-headers-6.11.10+bpo-amd64_6.11.10-1~bpo12+1_amd64.deb
+linux-headers-6.11.10+bpo-common_6.11.10-1~bpo12+1_all.deb
+linux-image-6.11.10+bpo-amd64_6.11.10-1~bpo12+1_amd64.deb
+linux-kbuild-6.11.10+bpo_6.11.10-1~bpo12+1_amd64.deb
