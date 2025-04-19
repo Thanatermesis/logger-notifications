@@ -70811,3 +70811,10 @@ linux-kbuild-6.11.10+bpo_6.11.10-1~bpo12+1_amd64.deb
 
 -------- Wed Apr 16 06:06:34 PM -04 2025 --------
 elive-tools_3.8.46+202504162203.gitd2e4f001-8bookworm43_all.deb
+
+
+
+-------- Fri Apr 18 11:27:58 PM -04 2025 --------
+elive-assistant_3.8.48+202504190111.git7964959f-8bookworm5_all.deb
+eliveinstaller-6g_3.8.48+202504190320.git8b816fb6-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.48+202504190320.git8b816fb6-8bookworm34_i386.deb
