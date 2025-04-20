@@ -70835,3 +70835,16 @@ eliveinstaller-6g_3.8.48+202504190421.gitea7bb58f-8bookworm34_i386.deb
 
 -------- Sat Apr 19 12:32:52 PM -04 2025 --------
 elive-assistant_3.8.48+202504191630.gitad7d74d2-8bookworm5_all.deb
+
+
+
+-------- Sun Apr 20 07:59:04 PM -04 2025 --------
+e16_1.0.30+202504201827.git21f58dbf-8bookworm87_amd64.deb
+e16_1.0.30+202504201827.git21f58dbf-8bookworm87_i386.deb
+e16-data_1.0.30+202504201827.git21f58dbf-8bookworm87_amd64.deb
+e16-data_1.0.30+202504201827.git21f58dbf-8bookworm87_i386.deb
+e16-dbg_1.0.30+202504201827.git21f58dbf-8bookworm87_amd64.deb
+e16-dbg_1.0.30+202504201827.git21f58dbf-8bookworm87_i386.deb
+eliveinstaller-6g_3.8.48+202504202351.gitf3414335-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.48+202504202351.gitf3414335-8bookworm34_i386.deb
+elive-tools_3.8.48+202504201936.git682f0f2d-8bookworm43_all.deb
