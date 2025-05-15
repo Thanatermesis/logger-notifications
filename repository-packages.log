@@ -70997,3 +70997,10 @@ firmware-ti-connectivity_20250410-2_all.deb
 gnome-themes-qogir_2024-05-22+202505150247.gitf90a35ab-8bookworm28_all.deb
 python3-eyed3_0.9.8+giteeb90f4f-8bookworm5_all.deb
 virtualbox-ext-pack_7.0.26-1_all.deb
+
+
+
+-------- Thu May 15 12:28:09 AM -04 2025 --------
+eliveinstaller-6g_3.8.49+202505150413.git07aafe94-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.49+202505150413.git07aafe94-8bookworm34_i386.deb
+elive-tools_3.8.49+202505150413.git479ef832-8bookworm43_all.deb
