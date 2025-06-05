@@ -71050,3 +71050,12 @@ elive-tools_3.8.49+202505301630.git2d0538e7-8bookworm43_all.deb
 
 -------- Tue Jun  3 12:31:30 PM -04 2025 --------
 elive-assistant_3.8.49+202506031630.git30639cc7-8bookworm5_all.deb
+
+
+
+-------- Wed Jun  4 09:23:54 PM -04 2025 --------
+virtualbox_7.1.8-dfsg-3_amd64.deb
+virtualbox-dbgsym_7.1.8-dfsg-3_amd64.deb
+virtualbox-qt_7.1.8-dfsg-3_amd64.deb
+virtualbox-qt-dbgsym_7.1.8-dfsg-3_amd64.deb
+virtualbox-source_7.1.8-dfsg-3_amd64.deb
