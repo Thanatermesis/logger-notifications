@@ -71066,3 +71066,9 @@ virtualbox-source_7.1.8-dfsg-3_amd64.deb
 elive-skel-default-all_3.8.49+202506051842.git053aec49-8bookworm17_all.deb
 elive-skel-retrowave-all_3.8.49+202506051842.gitf5b4eec4-8bookworm18_all.deb
 virtualbox-qt-dbgsym_7.1.8-dfsg-3_amd64.deb
+
+
+
+-------- Thu Jun  5 03:43:10 PM -04 2025 --------
+elive-skel-default-e16_3.8.49+202506051940.git69511fb4-8bookworm6_all.deb
+elive-skel-retrowave-e16_3.8.49+202506051940.git3effc560-8bookworm7_all.deb
