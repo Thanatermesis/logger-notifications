@@ -71084,3 +71084,12 @@ elicit-dbgsym_3.8.49+202506071630.git5dc45d88-8bookworm10_i386.deb
 elive-help_3.8.49+202506061612.git1f732e16-8bookworm8_all.deb
 elive-skel-default-e16_3.8.49+202506061611.git96feeae5-8bookworm6_all.deb
 elive-skel-retrowave-e16_3.8.49+202506061611.git709873ce-8bookworm7_all.deb
+
+
+
+-------- Fri Jun 13 12:32:46 PM -04 2025 --------
+elicit_3.8.49+202506131630.git5dc45d88-8bookworm10_amd64.deb
+elicit_3.8.49+202506131630.git5dc45d88-8bookworm10_i386.deb
+elicit-data_3.8.49+202506131630.git5dc45d88-8bookworm10_all.deb
+elicit-dbgsym_3.8.49+202506131630.git5dc45d88-8bookworm10_amd64.deb
+elicit-dbgsym_3.8.49+202506131630.git5dc45d88-8bookworm10_i386.deb
