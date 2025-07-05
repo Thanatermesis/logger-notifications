@@ -71184,3 +71184,13 @@ eliveinstaller-6g_3.8.49+202507050157.git32cf7d43-8bookworm34_amd64.deb
 eliveinstaller-6g_3.8.49+202507050157.git32cf7d43-8bookworm34_i386.deb
 elive-tools_3.8.49+202507050201.gitd738be15-8bookworm45_all.deb
 gnome-themes-qogir_2024-05-22+202507050203.gitedb58215-8bookworm28_all.deb
+
+
+
+-------- Sat Jul  5 12:31:45 PM -05 2025 --------
+elive-gadget-clock_3.8.49+202507050622.git4b8ca99c-8bookworm2_amd64.deb
+elive-gadget-clock_3.8.49+202507050622.git4b8ca99c-8bookworm2_i386.deb
+elive-gadget-clock-data_3.8.49+202507050622.git4b8ca99c-8bookworm2_all.deb
+elive-gadget-clock-dbgsym_3.8.49+202507050622.git4b8ca99c-8bookworm2_amd64.deb
+elive-gadget-clock-dbgsym_3.8.49+202507050622.git4b8ca99c-8bookworm2_i386.deb
+elive-tools_3.8.49+202507051730.gite6fe8f32-8bookworm45_all.deb
