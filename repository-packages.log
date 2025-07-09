@@ -71245,3 +71245,20 @@ virtualbox-guest-x11-hwe_7.1.10-dfsg-1_i386.deb
 virtualbox-qt_7.1.10-dfsg-1_amd64.deb
 virtualbox-qt-dbgsym_7.1.10-dfsg-1_amd64.deb
 virtualbox-source_7.1.10-dfsg-1_amd64.deb
+
+
+
+-------- Wed Jul  9 12:31:14 PM -05 2025 --------
+elicit_3.8.49+202507091730.git5dc45d88-8bookworm10_amd64.deb
+elicit_3.8.49+202507091730.git5dc45d88-8bookworm10_i386.deb
+elicit-data_3.8.49+202507091730.git5dc45d88-8bookworm10_all.deb
+elicit-dbgsym_3.8.49+202507091730.git5dc45d88-8bookworm10_amd64.deb
+elicit-dbgsym_3.8.49+202507091730.git5dc45d88-8bookworm10_i386.deb
+libefl1_1.28.0+142+202507090624+git3ca07b9b-8bookworm142_amd64.deb
+libefl1_1.28.0+142+202507090624+git3ca07b9b-8bookworm142_i386.deb
+libefl1-dbgsym_1.28.0+142+202507090624+git3ca07b9b-8bookworm142_amd64.deb
+libefl1-dbgsym_1.28.0+142+202507090624+git3ca07b9b-8bookworm142_i386.deb
+libefl-data_1.28.0+142+202507090624+git3ca07b9b-8bookworm142_all.deb
+libefl-dev_1.28.0+142+202507090624+git3ca07b9b-8bookworm142_amd64.deb
+libefl-dev_1.28.0+142+202507090624+git3ca07b9b-8bookworm142_i386.deb
+libefl-doc_1.28.0+142+202507090624+git3ca07b9b-8bookworm142_all.deb
