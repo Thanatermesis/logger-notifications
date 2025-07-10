@@ -71392,3 +71392,13 @@ terminology_1.14.0+202507091938.git1b1251ad-8bookworm64_i386.deb
 terminology-data_1.14.0+202507091938.git1b1251ad-8bookworm64_all.deb
 terminology-dbgsym_1.14.0+202507091938.git1b1251ad-8bookworm64_amd64.deb
 terminology-dbgsym_1.14.0+202507091938.git1b1251ad-8bookworm64_i386.deb
+
+
+
+-------- Wed Jul  9 08:01:56 PM -05 2025 --------
+b43-fwcutter_019-13_amd64.deb
+b43-fwcutter_019-13_i386.deb
+b43-fwcutter-dbgsym_019-13_amd64.deb
+b43-fwcutter-dbgsym_019-13_i386.deb
+firmware-b43-installer_019-13_all.deb
+firmware-b43legacy-installer_019-13_all.deb
