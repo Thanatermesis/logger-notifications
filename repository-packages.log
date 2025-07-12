@@ -71423,3 +71423,9 @@ terminology_1.14.0+202507100720.git1b1251ad-8bookworm65_i386.deb
 terminology-data_1.14.0+202507100720.git1b1251ad-8bookworm65_all.deb
 terminology-dbgsym_1.14.0+202507100720.git1b1251ad-8bookworm65_amd64.deb
 terminology-dbgsym_1.14.0+202507100720.git1b1251ad-8bookworm65_i386.deb
+
+
+
+-------- Sat Jul 12 01:21:07 PM -05 2025 --------
+elive-skel-default-all_3.8.49+202507121817.gitdaea16b1-8bookworm17_all.deb
+elive-skel-retrowave-all_3.8.49+202507121817.gitb782e155-8bookworm18_all.deb
