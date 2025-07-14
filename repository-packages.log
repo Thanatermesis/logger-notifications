@@ -71561,3 +71561,15 @@ terminology_1.14.0+202507122218.git1b1251ad-8bookworm64_i386.deb
 terminology-data_1.14.0+202507122218.git1b1251ad-8bookworm64_all.deb
 terminology-dbgsym_1.14.0+202507122218.git1b1251ad-8bookworm64_amd64.deb
 terminology-dbgsym_1.14.0+202507122218.git1b1251ad-8bookworm64_i386.deb
+
+
+
+-------- Sun Jul 13 08:35:11 PM -05 2025 --------
+e16_1.0.30+202507130541.git21f58dbf-8bookworm88_amd64.deb
+e16_1.0.30+202507130541.git21f58dbf-8bookworm88_i386.deb
+e16-data_1.0.30+202507130541.git21f58dbf-8bookworm88_amd64.deb
+e16-data_1.0.30+202507130541.git21f58dbf-8bookworm88_i386.deb
+e16-dbg_1.0.30+202507130541.git21f58dbf-8bookworm88_amd64.deb
+e16-dbg_1.0.30+202507130541.git21f58dbf-8bookworm88_i386.deb
+elive-skel-default-e16_3.8.49+202507140133.git0d2d1ab2-8bookworm6_all.deb
+elive-skel-retrowave-e16_3.8.49+202507140133.git5f17f681-8bookworm7_all.deb
