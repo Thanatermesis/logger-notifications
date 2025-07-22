@@ -71661,3 +71661,9 @@ virtualbox-guest-x11-hwe_7.1.12-dfsg-2_i386.deb
 virtualbox-qt_7.1.12-dfsg-2_amd64.deb
 virtualbox-qt-dbgsym_7.1.12-dfsg-2_amd64.deb
 virtualbox-source_7.1.12-dfsg-2_amd64.deb
+
+
+
+-------- Tue Jul 22 12:12:56 PM -05 2025 --------
+elive-skel-default-all_3.8.49+202507221710.git53d493e2-8bookworm17_all.deb
+elive-skel-retrowave-all_3.8.49+202507221710.gitc058c845-8bookworm18_all.deb
