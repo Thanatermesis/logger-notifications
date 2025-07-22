@@ -71667,3 +71667,12 @@ virtualbox-source_7.1.12-dfsg-2_amd64.deb
 -------- Tue Jul 22 12:12:56 PM -05 2025 --------
 elive-skel-default-all_3.8.49+202507221710.git53d493e2-8bookworm17_all.deb
 elive-skel-retrowave-all_3.8.49+202507221710.gitc058c845-8bookworm18_all.deb
+
+
+
+-------- Tue Jul 22 05:22:07 PM -05 2025 --------
+elive-gadget-clock_3.8.49+202507222217.git1dc93828-8bookworm3_amd64.deb
+elive-gadget-clock_3.8.49+202507222217.git1dc93828-8bookworm3_i386.deb
+elive-gadget-clock-data_3.8.49+202507222217.git1dc93828-8bookworm3_all.deb
+elive-gadget-clock-dbgsym_3.8.49+202507222217.git1dc93828-8bookworm3_amd64.deb
+elive-gadget-clock-dbgsym_3.8.49+202507222217.git1dc93828-8bookworm3_i386.deb
