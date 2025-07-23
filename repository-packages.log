@@ -71704,3 +71704,15 @@ elive-gadget-clock_3.8.49+202507230207.git58d91404-8bookworm5_i386.deb
 elive-gadget-clock-data_3.8.49+202507230207.git58d91404-8bookworm5_all.deb
 elive-gadget-clock-dbgsym_3.8.49+202507230207.git58d91404-8bookworm5_amd64.deb
 elive-gadget-clock-dbgsym_3.8.49+202507230207.git58d91404-8bookworm5_i386.deb
+
+
+
+-------- Wed Jul 23 01:14:05 PM -05 2025 --------
+elive-gadget-clock_3.8.49+202507231503.git624f2255-8bookworm5_amd64.deb
+elive-gadget-clock_3.8.49+202507231503.git624f2255-8bookworm5_i386.deb
+elive-gadget-clock-data_3.8.49+202507231503.git624f2255-8bookworm5_all.deb
+elive-gadget-clock-dbgsym_3.8.49+202507231503.git624f2255-8bookworm5_amd64.deb
+elive-gadget-clock-dbgsym_3.8.49+202507231503.git624f2255-8bookworm5_i386.deb
+eliveinstaller-6g_3.8.49+202507230220.git4023e805-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.49+202507230220.git4023e805-8bookworm34_i386.deb
+plymouth-theme-elive-vortex-glow_3.8.49+202507231813.git8fa69e92-8bookworm4_all.deb
