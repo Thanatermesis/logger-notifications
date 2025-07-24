@@ -71728,3 +71728,16 @@ elive-skel-retrowave-all_3.8.49+202507240033.gite9bda8e3-8bookworm18_all.deb
 -------- Wed Jul 23 11:40:56 PM -05 2025 --------
 elive-skel-default-e16_3.8.49+202507240439.gitbb796b7d-8bookworm7_all.deb
 elive-skel-retrowave-e16_3.8.49+202507240439.gitfc66d6b4-8bookworm7_all.deb
+
+
+
+-------- Thu Jul 24 11:43:44 AM -05 2025 --------
+e16_1.0.30+202507240551.git21f58dbf-8bookworm89_amd64.deb
+e16_1.0.30+202507240551.git21f58dbf-8bookworm89_i386.deb
+e16-data_1.0.30+202507240551.git21f58dbf-8bookworm89_amd64.deb
+e16-data_1.0.30+202507240551.git21f58dbf-8bookworm89_i386.deb
+e16-dbg_1.0.30+202507240551.git21f58dbf-8bookworm89_amd64.deb
+e16-dbg_1.0.30+202507240551.git21f58dbf-8bookworm89_i386.deb
+elive-skel-default-e16_3.8.49+202507241642.git711ab42c-8bookworm7_all.deb
+elive-skel-retrowave-e16_3.8.49+202507241642.git9bb14a33-8bookworm8_all.deb
+elive-tools_3.8.49+202507240441.gitc9ad6b89-8bookworm43_all.deb
