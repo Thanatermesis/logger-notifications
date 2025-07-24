@@ -71716,3 +71716,9 @@ elive-gadget-clock-dbgsym_3.8.49+202507231503.git624f2255-8bookworm5_i386.deb
 eliveinstaller-6g_3.8.49+202507230220.git4023e805-8bookworm34_amd64.deb
 eliveinstaller-6g_3.8.49+202507230220.git4023e805-8bookworm34_i386.deb
 plymouth-theme-elive-vortex-glow_3.8.49+202507231813.git8fa69e92-8bookworm4_all.deb
+
+
+
+-------- Wed Jul 23 07:35:51 PM -05 2025 --------
+elive-skel-default-all_3.8.49+202507240033.gitd633a876-8bookworm17_all.deb
+elive-skel-retrowave-all_3.8.49+202507240033.gite9bda8e3-8bookworm18_all.deb
