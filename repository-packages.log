@@ -71722,3 +71722,9 @@ plymouth-theme-elive-vortex-glow_3.8.49+202507231813.git8fa69e92-8bookworm4_all.
 -------- Wed Jul 23 07:35:51 PM -05 2025 --------
 elive-skel-default-all_3.8.49+202507240033.gitd633a876-8bookworm17_all.deb
 elive-skel-retrowave-all_3.8.49+202507240033.gite9bda8e3-8bookworm18_all.deb
+
+
+
+-------- Wed Jul 23 11:40:56 PM -05 2025 --------
+elive-skel-default-e16_3.8.49+202507240439.gitbb796b7d-8bookworm7_all.deb
+elive-skel-retrowave-e16_3.8.49+202507240439.gitfc66d6b4-8bookworm7_all.deb
