@@ -71797,3 +71797,18 @@ elive-skel-retrowave-all_3.8.49+202507260010.git1fda5c6c-8bookworm18_all.deb
 -------- Fri Jul 25 07:18:40 PM -05 2025 --------
 elive-skel-default-all_3.8.49+202507260015.git3caab2ee-8bookworm17_all.deb
 elive-skel-retrowave-all_3.8.49+202507260015.gitd06aae80-8bookworm18_all.deb
+
+
+
+-------- Sat Jul 26 05:08:51 PM -05 2025 --------
+deliver_3.8.49+202507262206.git614cd094-8bookworm20_all.deb
+elive-assistant_3.8.49+202507262207.gitf9290252-8bookworm5_all.deb
+elive-desktop-applications_3.8.49+202507262207.git3e6965c9-8bookworm8_all.deb
+eliveinstaller-6g_3.8.49+202507261640.git66cf6019-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.49+202507261640.git66cf6019-8bookworm34_i386.deb
+elive-menus_3.8.49+202507262208.gitac1abd5a-8bookworm11_all.deb
+terminology_1.14.0+202507261759.git8777e2b3-8bookworm68_amd64.deb
+terminology_1.14.0+202507261759.git8777e2b3-8bookworm68_i386.deb
+terminology-data_1.14.0+202507261759.git8777e2b3-8bookworm68_all.deb
+terminology-dbgsym_1.14.0+202507261759.git8777e2b3-8bookworm68_amd64.deb
+terminology-dbgsym_1.14.0+202507261759.git8777e2b3-8bookworm68_i386.deb
