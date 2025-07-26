@@ -71779,3 +71779,15 @@ elive-tools_3.8.49+202507242139.gitd111f70a-8bookworm43_all.deb
 eliveinstaller-6g_3.8.49+202507242334.git1c5517dc-8bookworm34_amd64.deb
 eliveinstaller-6g_3.8.49+202507242334.git1c5517dc-8bookworm34_i386.deb
 elive-tools_3.8.49+202507250000.git338ec9c4-8bookworm43_all.deb
+
+
+
+-------- Fri Jul 25 07:13:03 PM -05 2025 --------
+e16_1.0.30+202507260010.git46691a33-8bookworm91_amd64.deb
+e16_1.0.30+202507260010.git46691a33-8bookworm91_i386.deb
+e16-data_1.0.30+202507260010.git46691a33-8bookworm91_amd64.deb
+e16-data_1.0.30+202507260010.git46691a33-8bookworm91_i386.deb
+e16-dbg_1.0.30+202507260010.git46691a33-8bookworm91_amd64.deb
+e16-dbg_1.0.30+202507260010.git46691a33-8bookworm91_i386.deb
+elive-skel-default-all_3.8.49+202507260010.git3caab2ee-8bookworm17_all.deb
+elive-skel-retrowave-all_3.8.49+202507260010.git1fda5c6c-8bookworm18_all.deb
