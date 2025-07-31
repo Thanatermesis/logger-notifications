@@ -72063,3 +72063,17 @@ elive-skel-retrowave-all_3.8.49+202507310615.gitfc4f6078-8bookworm18_all.deb
 
 -------- Thu Jul 31 01:39:28 AM -05 2025 --------
 elive-tools_3.8.49+202507310638.gitdd1eea88-8bookworm43_all.deb
+
+
+
+-------- Thu Jul 31 05:01:34 PM -05 2025 --------
+deliver_3.8.49+202507311957.git8aa541fc-8bookworm20_all.deb
+elive-extra-features_3.8.49+202507311957.gitee6fef3a-8bookworm8_all.deb
+eliveinstaller-6g_3.8.49+202507310725.gitc0108284-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.49+202507310725.gitc0108284-8bookworm34_i386.deb
+elive-tools_3.8.49+202507310727.gitdd1eea88-8bookworm43_all.deb
+elive-upgrader_202507310728+git7194e7c5-8bookworm13_all.deb
+eltrans_3.8.49+202507310729+git22b87d66-8bookworm9_all.deb
+hebernate_3.8.49+202507311957.gitf96972e9-8bookworm10_all.deb
+thunar-audio-converter_3.8.49+202507311957.git6b381c55-8bookworm10_all.deb
+usb-bootable-elive_3.8.49+202507311957.git0faf0eca-8bookworm8_all.deb
