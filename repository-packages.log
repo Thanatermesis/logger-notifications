@@ -72035,3 +72035,20 @@ eliveinstaller-6g_3.8.49+202507301831.gitfaa982a8-8bookworm34_i386.deb
 
 -------- Wed Jul 30 02:46:13 PM -05 2025 --------
 elive-tools_3.8.49+202507301937.gitf124e0de-8bookworm43_all.deb
+
+
+
+-------- Thu Jul 31 01:00:51 AM -05 2025 --------
+elive-gadget-clock_3.8.49+202507310105.gite2723979-8bookworm5_amd64.deb
+elive-gadget-clock_3.8.49+202507310105.gite2723979-8bookworm5_i386.deb
+elive-gadget-clock-data_3.8.49+202507310105.gite2723979-8bookworm5_all.deb
+elive-gadget-clock-dbgsym_3.8.49+202507310105.gite2723979-8bookworm5_amd64.deb
+elive-gadget-clock-dbgsym_3.8.49+202507310105.gite2723979-8bookworm5_i386.deb
+elive-news_3.8.49+202507310134.git0908fe42-8bookworm9_all.deb
+eliveremote_3.8.49+202507310134.git7d46b6f4-8bookworm9_all.deb
+elive-skel_3.8.49+202507310134.git7e66295a-8bookworm5_all.deb
+elive-skel-default-all_3.8.49+202507310558.git95238c07-8bookworm17_all.deb
+elive-skel-retrowave-all_3.8.49+202507310558.git72575634-8bookworm18_all.deb
+elive-sounds_3.8.49+202507310106.git9d25029b-8bookworm9_all.deb
+elive-tools_3.8.49+202507310134.gitf124e0de-8bookworm43_all.deb
+elive-upgrader_202507310134+git7194e7c5-8bookworm13_all.deb
