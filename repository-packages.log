@@ -72090,3 +72090,26 @@ deliver_3.8.49+202508011815.git8aa541fc-8bookworm20_all.deb
 optimus-manager_3.8.49+202508011817.git99306a72-8bookworm9_amd64.deb
 optimus-manager_3.8.49+202508011817.git99306a72-8bookworm9_i386.deb
 thunar-audio-converter_3.8.49+202508011817.git6b381c55-8bookworm10_all.deb
+
+
+
+-------- Sun Aug  3 07:12:47 PM -05 2025 --------
+deliver_3.8.49+202508012159.git8aa541fc-8bookworm20_all.deb
+elive-tools_3.8.49+202508022130.gitd5c5570b-8bookworm43_all.deb
+enlightenment_0.27.0+202508032336.gitcf97ca89-8bookworm55_amd64.deb
+enlightenment_0.27.0+202508032336.gitcf97ca89-8bookworm55_i386.deb
+enlightenment-data_0.27.0+202508032336.gitcf97ca89-8bookworm55_all.deb
+enlightenment-dbgsym_0.27.0+202508032336.gitcf97ca89-8bookworm55_amd64.deb
+enlightenment-dbgsym_0.27.0+202508032336.gitcf97ca89-8bookworm55_i386.deb
+enlightenment-dev_0.27.0+202508032336.gitcf97ca89-8bookworm55_amd64.deb
+enlightenment-dev_0.27.0+202508032336.gitcf97ca89-8bookworm55_i386.deb
+libefl1_1.28.0+145+202508032336+git0799e106-8bookworm145_amd64.deb
+libefl1_1.28.0+145+202508032336+git0799e106-8bookworm145_i386.deb
+libefl1-dbgsym_1.28.0+145+202508032336+git0799e106-8bookworm145_amd64.deb
+libefl1-dbgsym_1.28.0+145+202508032336+git0799e106-8bookworm145_i386.deb
+libefl-data_1.28.0+145+202508032336+git0799e106-8bookworm145_all.deb
+libefl-dev_1.28.0+145+202508032336+git0799e106-8bookworm145_amd64.deb
+libefl-dev_1.28.0+145+202508032336+git0799e106-8bookworm145_i386.deb
+libefl-doc_1.28.0+145+202508032336+git0799e106-8bookworm145_all.deb
+usb-bootable-elive_3.8.49+202508011857.git0faf0eca-8bookworm8_all.deb
+warning-messages_3.8.49+202508011857.git006f0197-8bookworm8_all.deb
