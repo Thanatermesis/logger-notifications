@@ -72113,3 +72113,9 @@ libefl-dev_1.28.0+145+202508032336+git0799e106-8bookworm145_i386.deb
 libefl-doc_1.28.0+145+202508032336+git0799e106-8bookworm145_all.deb
 usb-bootable-elive_3.8.49+202508011857.git0faf0eca-8bookworm8_all.deb
 warning-messages_3.8.49+202508011857.git006f0197-8bookworm8_all.deb
+
+
+
+-------- Thu Aug 14 11:20:16 PM -05 2025 --------
+perl-efl_3.8.49+202508150418.gitd45e5ed1-8bookworm2_all.deb
+perl-efl-doc_3.8.49+202508150418.gitd45e5ed1-8bookworm2_all.deb
