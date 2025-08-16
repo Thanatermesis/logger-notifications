@@ -72125,3 +72125,16 @@ perl-efl-doc_3.8.49+202508150418.gitd45e5ed1-8bookworm2_all.deb
 -------- Fri Aug 15 10:03:29 AM -05 2025 --------
 eliveinstaller-6g_3.8.49+202508151453.git615f138c-8bookworm34_amd64.deb
 eliveinstaller-6g_3.8.49+202508151453.git615f138c-8bookworm34_i386.deb
+
+
+
+-------- Sat Aug 16 12:32:22 PM -05 2025 --------
+elive-gadget-clock_3.8.49+202508161731.gite2723979-8bookworm5_amd64.deb
+elive-gadget-clock_3.8.49+202508161731.gite2723979-8bookworm5_i386.deb
+elive-gadget-clock-data_3.8.49+202508161731.gite2723979-8bookworm5_all.deb
+elive-gadget-clock-dbgsym_3.8.49+202508161731.gite2723979-8bookworm5_amd64.deb
+elive-gadget-clock-dbgsym_3.8.49+202508161731.gite2723979-8bookworm5_i386.deb
+eliveinstaller-6g_3.8.49+202508151532.git615f138c-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.49+202508151532.git615f138c-8bookworm34_i386.deb
+elive-tools_3.8.49+202508161730.git367f71e9-8bookworm43_all.deb
+elive-upgrader_202508161731+git7194e7c5-8bookworm13_all.deb
