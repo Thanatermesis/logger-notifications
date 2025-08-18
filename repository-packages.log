@@ -72216,3 +72216,15 @@ terminology_1.14.0+202508180825.git0f8380b7-8bookworm72_i386.deb
 terminology-data_1.14.0+202508180825.git0f8380b7-8bookworm72_all.deb
 terminology-dbgsym_1.14.0+202508180825.git0f8380b7-8bookworm72_amd64.deb
 terminology-dbgsym_1.14.0+202508180825.git0f8380b7-8bookworm72_i386.deb
+
+
+
+-------- Mon Aug 18 01:15:45 PM -05 2025 --------
+gnome-themes-qogir_2025-08-17+202508181812.git8bbd2ea9-8bookworm28_all.deb
+plymouth-theme-elive-retrowave_3.8.49+202508181812.gitb429e533-8bookworm5_all.deb
+plymouth-theme-elive-vortex-glow_3.8.49+202508181812.git14feead0-8bookworm4_all.deb
+plymouth-theme-elive-vortex-spin_3.8.49+202508181813.git410cd2c9-8bookworm3_all.deb
+v4l2loopback-dkms_0.15.0-3_all.deb
+v4l2loopback-source_0.15.0-3_all.deb
+v4l2loopback-utils_0.15.0-3_amd64.deb
+v4l2loopback-utils-dbgsym_0.15.0-3_amd64.deb
