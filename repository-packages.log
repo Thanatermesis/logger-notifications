@@ -72228,3 +72228,12 @@ v4l2loopback-dkms_0.15.0-3_all.deb
 v4l2loopback-source_0.15.0-3_all.deb
 v4l2loopback-utils_0.15.0-3_amd64.deb
 v4l2loopback-utils-dbgsym_0.15.0-3_amd64.deb
+
+
+
+-------- Mon Aug 18 04:20:04 PM -05 2025 --------
+terminology_1.14.0+202508182119.git0f8380b7-8bookworm72_amd64.deb
+terminology_1.14.0+202508182119.git0f8380b7-8bookworm72_i386.deb
+terminology-data_1.14.0+202508182119.git0f8380b7-8bookworm72_all.deb
+terminology-dbgsym_1.14.0+202508182119.git0f8380b7-8bookworm72_amd64.deb
+terminology-dbgsym_1.14.0+202508182119.git0f8380b7-8bookworm72_i386.deb
