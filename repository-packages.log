@@ -72247,3 +72247,12 @@ elive-tools_3.8.49+202508191730.gitaa7735a4-8bookworm43_all.deb
 
 -------- Wed Aug 20 12:30:39 PM -05 2025 --------
 elive-assistant_3.8.49+202508201730.gitbe232d91-8bookworm5_all.deb
+
+
+
+-------- Wed Aug 20 01:14:21 PM -05 2025 --------
+gnome-themes-qogir_2025-08-17+202508201812.git823fb470-8bookworm28_all.deb
+v4l2loopback-dkms_0.15.1-1_all.deb
+v4l2loopback-source_0.15.1-1_all.deb
+v4l2loopback-utils_0.15.1-1_amd64.deb
+v4l2loopback-utils-dbgsym_0.15.1-1_amd64.deb
