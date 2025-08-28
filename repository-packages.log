@@ -72279,3 +72279,16 @@ r8125-dkms_9.016.01-1_all.deb
 
 -------- Tue Aug 26 01:15:05 PM -05 2025 --------
 virtualbox-ext-pack_7.2.0-3_all.deb
+
+
+
+-------- Thu Aug 28 06:08:18 PM -05 2025 --------
+elive-essence_3.8.49+202508282307.git1026078a-8bookworm6_all.deb
+eliveinstaller-6g_3.8.49+202508271614.gitd935c335-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.49+202508271614.gitd935c335-8bookworm34_i386.deb
+elive-tools_3.8.49+202508271611.git0ea9b825-8bookworm43_all.deb
+terminology_1.14.0+202508262158.git0f8380b7-8bookworm72_amd64.deb
+terminology_1.14.0+202508262158.git0f8380b7-8bookworm72_i386.deb
+terminology-data_1.14.0+202508262158.git0f8380b7-8bookworm72_all.deb
+terminology-dbgsym_1.14.0+202508262158.git0f8380b7-8bookworm72_amd64.deb
+terminology-dbgsym_1.14.0+202508262158.git0f8380b7-8bookworm72_i386.deb
