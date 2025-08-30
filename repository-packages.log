@@ -72292,3 +72292,12 @@ terminology_1.14.0+202508262158.git0f8380b7-8bookworm72_i386.deb
 terminology-data_1.14.0+202508262158.git0f8380b7-8bookworm72_all.deb
 terminology-dbgsym_1.14.0+202508262158.git0f8380b7-8bookworm72_amd64.deb
 terminology-dbgsym_1.14.0+202508262158.git0f8380b7-8bookworm72_i386.deb
+
+
+
+-------- Sat Aug 30 01:20:24 PM -05 2025 --------
+elive-essence_3.8.49+202508282319.git1026078a-8bookworm6_all.deb
+eliveinstaller-6g_3.8.49+202508301816.gitebecb036-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.49+202508301816.gitebecb036-8bookworm34_i386.deb
+optimus-manager_3.8.49+202508301819.git6804b094-8bookworm9_amd64.deb
+optimus-manager_3.8.49+202508301819.git6804b094-8bookworm9_i386.deb
