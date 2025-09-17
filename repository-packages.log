@@ -72336,3 +72336,10 @@ virtualbox-ext-pack_7.2.2-1_all.deb
 
 -------- Wed Sep 17 12:30:55 PM -05 2025 --------
 deliver_3.8.49+202509171730.git8aa541fc-8bookworm20_all.deb
+
+
+
+-------- Wed Sep 17 05:23:45 PM -05 2025 --------
+eliveinstaller-6g_3.8.49+202509172219.gitc3cbacb6-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.49+202509172219.gitc3cbacb6-8bookworm34_i386.deb
+elive-upgrader_202509172213+gitf7bfa53f-8bookworm13_all.deb
