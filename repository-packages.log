@@ -72476,3 +72476,42 @@ elive-tools_3.8.49+202510091830.git824da428-8bookworm43_all.deb
 
 -------- Thu Oct 16 01:30:52 PM -05 2025 --------
 deliver_3.8.49+202510161830.git965e7194-8bookworm20_all.deb
+
+
+
+-------- Thu Oct 16 02:46:33 PM -05 2025 --------
+firmware-amd-graphics_20250917-1_all.deb
+firmware-atheros_20250917-1_all.deb
+firmware-bnx2_20250917-1_all.deb
+firmware-bnx2x_20250917-1_all.deb
+firmware-brcm80211_20250917-1_all.deb
+firmware-cavium_20250917-1_all.deb
+firmware-cirrus_20250917-1_all.deb
+firmware-intel-graphics_20250917-1_all.deb
+firmware-intel-misc_20250917-1_all.deb
+firmware-intel-sound_20250917-1_all.deb
+firmware-ipw2x00_20250917-1_all.deb
+firmware-ivtv_20250917-1_all.deb
+firmware-iwlwifi_20250917-1_all.deb
+firmware-libertas_20250917-1_all.deb
+firmware-linux_20250917-1_all.deb
+firmware-linux-nonfree_20250917-1_all.deb
+firmware-marvell-prestera_20250917-1_all.deb
+firmware-mediatek_20250917-1_all.deb
+firmware-misc-nonfree_20250917-1_all.deb
+firmware-myricom_20250917-1_all.deb
+firmware-netronome_20250917-1_all.deb
+firmware-netxen_20250917-1_all.deb
+firmware-nvidia-graphics_20250917-1_all.deb
+firmware-qcom-media_20250917-1_all.deb
+firmware-qcom-soc_20250917-1_all.deb
+firmware-qlogic_20250917-1_all.deb
+firmware-realtek_20250917-1_all.deb
+firmware-samsung_20250917-1_all.deb
+firmware-siano_20250917-1_all.deb
+firmware-ti-connectivity_20250917-1_all.deb
+hebernate_3.8.49+202510161916.gitfdf8279c-8bookworm10_all.deb
+v4l2loopback-dkms_0.15.2-1_all.deb
+v4l2loopback-source_0.15.2-1_all.deb
+v4l2loopback-utils_0.15.2-1_amd64.deb
+v4l2loopback-utils-dbgsym_0.15.2-1_amd64.deb
