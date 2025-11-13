@@ -72520,3 +72520,39 @@ v4l2loopback-utils-dbgsym_0.15.2-1_amd64.deb
 
 -------- Fri Oct 17 01:31:30 PM -05 2025 --------
 elive-tools_3.8.49+202510171830.gitb892db55-8bookworm43_all.deb
+
+
+
+-------- Thu Nov 13 06:09:23 PM -05 2025 --------
+firmware-amd-graphics_20251021-1_all.deb
+firmware-atheros_20251021-1_all.deb
+firmware-bnx2_20251021-1_all.deb
+firmware-bnx2x_20251021-1_all.deb
+firmware-brcm80211_20251021-1_all.deb
+firmware-cavium_20251021-1_all.deb
+firmware-cirrus_20251021-1_all.deb
+firmware-intel-graphics_20251021-1_all.deb
+firmware-intel-misc_20251021-1_all.deb
+firmware-intel-sound_20251021-1_all.deb
+firmware-ipw2x00_20251021-1_all.deb
+firmware-ivtv_20251021-1_all.deb
+firmware-iwlwifi_20251021-1_all.deb
+firmware-libertas_20251021-1_all.deb
+firmware-linux_20251021-1_all.deb
+firmware-linux-nonfree_20251021-1_all.deb
+firmware-marvell-prestera_20251021-1_all.deb
+firmware-mediatek_20251021-1_all.deb
+firmware-misc-nonfree_20251021-1_all.deb
+firmware-myricom_20251021-1_all.deb
+firmware-netronome_20251021-1_all.deb
+firmware-netxen_20251021-1_all.deb
+firmware-nvidia-graphics_20251021-1_all.deb
+firmware-qcom-media_20251021-1_all.deb
+firmware-qcom-soc_20251021-1_all.deb
+firmware-qlogic_20251021-1_all.deb
+firmware-realtek_20251021-1_all.deb
+firmware-samsung_20251021-1_all.deb
+firmware-siano_20251021-1_all.deb
+firmware-ti-connectivity_20251021-1_all.deb
+gnome-themes-qogir_2025-08-17+202511132305.git551e6765-8bookworm28_all.deb
+virtualbox-ext-pack_7.2.4-1_all.deb
