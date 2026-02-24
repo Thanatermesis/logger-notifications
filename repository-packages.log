@@ -73130,3 +73130,16 @@ libenventor-dev_0.1+202602240359.gitc036fea5-8bookworm11_i386.deb
 
 -------- Tue Feb 24 01:30:54 PM -05 2026 --------
 elive-tools_3.8.49+202602241830.gitbe48c4c4-8bookworm43_all.deb
+
+
+
+-------- Tue Feb 24 02:35:11 PM -05 2026 --------
+eliveinstaller-6g_3.8.49+202602241917.git0110a5e8-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.49+202602241917.git8e52c7bc-8bookworm34_i386.deb
+eliveremote_3.8.49+202602241915.gitb9cd69ea-8bookworm9_all.deb
+optimus-manager_3.8.49+202602241927.git7272206e-8bookworm9_amd64.deb
+optimus-manager_3.8.49+202602241927.git7272206e-8bookworm9_i386.deb
+supermariowar_2.0-beta.1.1+202602241928.git7252b2c8-8bookworm21_amd64.deb
+supermariowar_2.0-beta.1.1+202602241928.git7252b2c8-8bookworm21_i386.deb
+supermariowar-data_2.0-beta.1.1+202602241928.git7252b2c8-8bookworm21_amd64.deb
+supermariowar-data_2.0-beta.1.1+202602241928.git7252b2c8-8bookworm21_i386.deb
