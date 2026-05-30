@@ -73697,3 +73697,37 @@ synthwave-player-server_3.9+202603282257.gitd1cd23d0-8bookworm6_all.deb
 -------- Sat May 30 03:13:29 PM +07 2026 --------
 bash_5.2.15-2+b2_amd64.deb
 bash_5.2.15-2+b2_i386.deb
+
+
+
+-------- Sat May 30 03:26:45 PM +07 2026 --------
+firmware-amd-graphics_20260410-1_all.deb
+firmware-atheros_20260410-1_all.deb
+firmware-bnx2_20260410-1_all.deb
+firmware-bnx2x_20260410-1_all.deb
+firmware-brcm80211_20260410-1_all.deb
+firmware-cavium_20260410-1_all.deb
+firmware-cirrus_20260410-1_all.deb
+firmware-intel-graphics_20260410-1_all.deb
+firmware-intel-misc_20260410-1_all.deb
+firmware-intel-sound_20260410-1_all.deb
+firmware-ipw2x00_20260410-1_all.deb
+firmware-ivtv_20260410-1_all.deb
+firmware-iwlwifi_20260410-1_all.deb
+firmware-libertas_20260410-1_all.deb
+firmware-linux_20260410-1_all.deb
+firmware-linux-nonfree_20260410-1_all.deb
+firmware-marvell-prestera_20260410-1_all.deb
+firmware-mediatek_20260410-1_all.deb
+firmware-misc-nonfree_20260410-1_all.deb
+firmware-myricom_20260410-1_all.deb
+firmware-netronome_20260410-1_all.deb
+firmware-netxen_20260410-1_all.deb
+firmware-nvidia-graphics_20260410-1_all.deb
+firmware-qcom-media_20260410-1_all.deb
+firmware-qcom-soc_20260410-1_all.deb
+firmware-qlogic_20260410-1_all.deb
+firmware-realtek_20260410-1_all.deb
+firmware-samsung_20260410-1_all.deb
+firmware-siano_20260410-1_all.deb
+firmware-ti-connectivity_20260410-1_all.deb
