@@ -73785,3 +73785,11 @@ elive-tools_3.8.49+202606111132.git89d27935-8bookworm44_all.deb
 vim-colorscheme-elive-molokai_3.8.35+git20231018.3ce5e166-8bookworm10_all.deb
 zsh-elive_3.8.49+202606080456.git5ab2c98e-8bookworm12_all.deb
 zsh-prezto_3.8.49+202602261919.git2d7ee6bc-8bookworm12_all.deb
+
+
+
+-------- Thu Jun 11 11:42:31 PM +07 2026 --------
+os-prober_1.84_amd64.deb
+os-prober_1.84_i386.deb
+os-prober-dbgsym_1.84_amd64.deb
+os-prober-dbgsym_1.84_i386.deb
