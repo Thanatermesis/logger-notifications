@@ -73772,3 +73772,16 @@ elive-tools_3.8.49+202606111120.git464e731b-8bookworm44_all.deb
 
 -------- Thu Jun 11 06:37:28 PM +07 2026 --------
 elive-tools_3.8.49+202606111132.git89d27935-8bookworm44_all.deb
+
+
+
+-------- Thu Jun 11 09:55:28 PM +07 2026 --------
+elive-etc_3.8.35+git20231023.8daa29a6-8bookworm5_all.deb
+elive-etc-desktop_3.8.35+git20230404.d391a062-8bookworm8_all.deb
+elive-security_3.8.35+git20211115.48ac8627-8bookworm3_all.deb
+elive-skel-default-all_3.8.49+202508311730.git95238c07-8bookworm17_all.deb
+elive-skel-default-vim_3.8.49+202507271445.gitf16bc549-8bookworm10_all.deb
+elive-tools_3.8.49+202606111132.git89d27935-8bookworm44_all.deb
+vim-colorscheme-elive-molokai_3.8.35+git20231018.3ce5e166-8bookworm10_all.deb
+zsh-elive_3.8.49+202606080456.git5ab2c98e-8bookworm12_all.deb
+zsh-prezto_3.8.49+202602261919.git2d7ee6bc-8bookworm12_all.deb
