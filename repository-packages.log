@@ -73859,3 +73859,16 @@ vim-colorscheme-elive-molokai_3.8.49+202606121356.git3ce5e166-9trixie12_all.deb
 -------- Sat Jun 13 10:44:16 AM +07 2026 --------
 elive-skel_3.8.49+202606130341.git7e66295a-9trixie5_all.deb
 elive-udev_3.8.49+202606130339.git24c85f9a-9trixie9_all.deb
+
+
+
+-------- Sat Jun 13 04:01:57 PM +07 2026 --------
+elive-etc_3.8.49+202606130852.git8daa29a6-9trixie5_all.deb
+elive-etc-desktop_3.8.49+202606130853.gitd391a062-9trixie8_all.deb
+elive-security_3.8.49+202606130859.git48ac8627-9trixie4_all.deb
+elive-skel-default-all_3.8.49+202606130848.git95238c07-9trixie17_all.deb
+elive-skel-default-vim_3.8.49+202606130850.gitf16bc549-9trixie10_all.deb
+elive-tools_3.8.49+202606130854.git8feed72e-9trixie44_all.deb
+vim-colorscheme-elive-molokai_3.8.49+202606130847.git3ce5e166-9trixie12_all.deb
+zsh-elive_3.8.49+202606130858.git05acdda0-9trixie12_all.deb
+zsh-prezto_3.8.49+202606130858.git2d7ee6bc-9trixie12_all.deb
