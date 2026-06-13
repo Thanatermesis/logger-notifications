@@ -73853,3 +73853,9 @@ v4l2loopback-source_0.15.3-1_all.deb
 v4l2loopback-utils_0.15.3-1_amd64.deb
 v4l2loopback-utils-dbgsym_0.15.3-1_amd64.deb
 vim-colorscheme-elive-molokai_3.8.49+202606121356.git3ce5e166-9trixie12_all.deb
+
+
+
+-------- Sat Jun 13 10:44:16 AM +07 2026 --------
+elive-skel_3.8.49+202606130341.git7e66295a-9trixie5_all.deb
+elive-udev_3.8.49+202606130339.git24c85f9a-9trixie9_all.deb
