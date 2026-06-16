@@ -74603,3 +74603,23 @@ xdg-user-dirs_0.18-2_i386.deb
 xdg-user-dirs-dbgsym_0.18-2_amd64.deb
 xdg-user-dirs-dbgsym_0.18-2_i386.deb
 zsh-elive_3.8.49+202606161559.git83f07b22-13trixie13_all.deb
+
+
+
+-------- Wed Jun 17 01:44:13 AM +07 2026 --------
+libedbus1_1.7.10+git72b1524e-13trixie5_amd64.deb
+libedbus1_1.7.10+git72b1524e-13trixie5_i386.deb
+libedbus1-dbgsym_1.7.10+git72b1524e-13trixie5_amd64.deb
+libedbus1-dbgsym_1.7.10+git72b1524e-13trixie5_i386.deb
+libedbus-dev_1.7.10+git72b1524e-13trixie5_amd64.deb
+libedbus-dev_1.7.10+git72b1524e-13trixie5_i386.deb
+libedbus-doc_1.7.10+git72b1524e-13trixie5_all.deb
+plymouth-theme-elive-retrowave_3.8.49+202606161641.gitb429e533-13trixie1_all.deb
+plymouth-theme-elive-vortex-glow_3.8.49+202606161641.git14feead0-13trixie4_all.deb
+plymouth-theme-elive-vortex-spin_3.8.49+202606161641.git410cd2c9-13trixie3_all.deb
+smplayer-themes_3.8.49+202606161644.gitc629e508-13trixie2_all.deb
+yad-gtk2_5.0+202606161703.gitc072c35a-13trixie26_amd64.deb
+yad-gtk2_5.0+202606161703.gitc072c35a-13trixie26_i386.deb
+yad-gtk2-data_5.0+202606161703.gitc072c35a-13trixie26_all.deb
+yad-gtk2-dbgsym_5.0+202606161703.gitc072c35a-13trixie26_amd64.deb
+yad-gtk2-dbgsym_5.0+202606161703.gitc072c35a-13trixie26_i386.deb
