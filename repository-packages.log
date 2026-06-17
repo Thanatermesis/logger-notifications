@@ -74623,3 +74623,20 @@ yad-gtk2_5.0+202606161703.gitc072c35a-13trixie26_i386.deb
 yad-gtk2-data_5.0+202606161703.gitc072c35a-13trixie26_all.deb
 yad-gtk2-dbgsym_5.0+202606161703.gitc072c35a-13trixie26_amd64.deb
 yad-gtk2-dbgsym_5.0+202606161703.gitc072c35a-13trixie26_i386.deb
+
+
+
+-------- Wed Jun 17 01:47:00 PM +07 2026 --------
+deliver_3.8.49+202606131500.gitae437211-8bookworm20_all.deb
+eliveinstaller-6g_3.8.49+202606131500.gitabc580e3-8bookworm34_amd64.deb
+eliveinstaller-6g_3.8.49+202606131500.gitabc580e3-8bookworm34_i386.deb
+elive-listener_3.8.49+202606170630.gitdf28be1d-12bookworm1_amd64.deb
+elive-listener_3.8.49+202606170630.gitdf28be1d-12bookworm1_i386.deb
+elive-listener-dbgsym_3.8.49+202606170630.gitdf28be1d-12bookworm1_amd64.deb
+elive-listener-dbgsym_3.8.49+202606170630.gitdf28be1d-12bookworm1_i386.deb
+elive-tools_3.8.49+202606131500.gitafec0246-8bookworm44_all.deb
+procps-legacy_4.0.6rc1+202606170639.git19a508ea-12bookworm5_amd64.deb
+procps-legacy_4.0.6rc1+202606170639.git19a508ea-12bookworm5_i386.deb
+procps-legacy-dbgsym_4.0.6rc1+202606170639.git19a508ea-12bookworm5_amd64.deb
+procps-legacy-dbgsym_4.0.6rc1+202606170639.git19a508ea-12bookworm5_i386.deb
+zsh-elive_3.8.49+202606170645.git83f07b22-12bookworm13_all.deb
