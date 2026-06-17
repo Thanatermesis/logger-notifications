@@ -74859,3 +74859,20 @@ cairo-dock-xgamma-plug-in_3.6.2+202606171711.git3dd7e676-13trixie12_amd64.deb
 cairo-dock-xgamma-plug-in_3.6.2+202606171711.git3dd7e676-13trixie12_i386.deb
 cairo-dock-xgamma-plug-in-dbgsym_3.6.2+202606171711.git3dd7e676-13trixie12_amd64.deb
 cairo-dock-xgamma-plug-in-dbgsym_3.6.2+202606171711.git3dd7e676-13trixie12_i386.deb
+
+
+
+-------- Thu Jun 18 02:38:35 AM +07 2026 --------
+gir1.2-thunarx-3.0_4.20.2-1+deb13u1_amd64.deb
+gir1.2-thunarx-3.0_4.20.2-1+deb13u1_i386.deb
+libthunarx-3-0_4.20.2-1+deb13u1_amd64.deb
+libthunarx-3-0_4.20.2-1+deb13u1_i386.deb
+libthunarx-3-0-dbgsym_4.20.2-1+deb13u1_amd64.deb
+libthunarx-3-0-dbgsym_4.20.2-1+deb13u1_i386.deb
+libthunarx-3-dev_4.20.2-1+deb13u1_amd64.deb
+libthunarx-3-dev_4.20.2-1+deb13u1_i386.deb
+thunar_4.20.2-1+deb13u1_amd64.deb
+thunar_4.20.2-1+deb13u1_i386.deb
+thunar-data_4.20.2-1+deb13u1_all.deb
+thunar-dbgsym_4.20.2-1+deb13u1_amd64.deb
+thunar-dbgsym_4.20.2-1+deb13u1_i386.deb
