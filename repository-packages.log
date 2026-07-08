@@ -75621,3 +75621,13 @@ elive-gadget-clock_3.8.52+202607081224.gite2723979-12bookworm3_i386.deb
 elive-gadget-clock-data_3.8.52+202607081224.gite2723979-12bookworm3_all.deb
 elive-gadget-clock-dbgsym_3.8.52+202607081224.gite2723979-12bookworm3_amd64.deb
 elive-gadget-clock-dbgsym_3.8.52+202607081224.gite2723979-12bookworm3_i386.deb
+
+
+
+-------- Wed Jul  8 10:27:33 PM +07 2026 --------
+deliver_3.8.49+202607081409.gitcf8ae4f9-13trixie22_all.deb
+elive-tools_3.8.49+202607081000.git8768477a-13trixie45_all.deb
+elsurf_2.2+git202607081032-13trixie2_amd64.deb
+elsurf_2.2+git202607081032-13trixie2_i386.deb
+elsurf-dbgsym_2.2+git202607081032-13trixie2_amd64.deb
+elsurf-dbgsym_2.2+git202607081032-13trixie2_i386.deb
