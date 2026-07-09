@@ -75644,3 +75644,9 @@ eliveinstaller-6g_3.8.49+202607081526.gitf5abaa5b-13trixie36_i386.deb
 deliver_3.8.49+202607081409.gitcf8ae4f9-12bookworm20_all.deb
 eliveinstaller-6g_3.8.49+202607081526.gitf5abaa5b-12bookworm34_amd64.deb
 eliveinstaller-6g_3.8.49+202607081526.gitf5abaa5b-12bookworm34_i386.deb
+
+
+
+-------- Thu Jul  9 12:25:55 PM +07 2026 --------
+elive-daemons_3.8.49+202607090506.git6eae3043-12bookworm12_all.deb
+elive-tools_3.8.49+202607090506.git8768477a-12bookworm44_all.deb
