@@ -75869,3 +75869,15 @@ elive-upgrader_202607300904+git97e474a8-12bookworm14_all.deb
 
 -------- Thu Jul 30 04:07:30 PM +07 2026 --------
 elive-upgrader_202607300904+git97e474a8-13trixie15_all.deb
+
+
+
+-------- Thu Jul 30 04:36:30 PM +07 2026 --------
+libefl-pro1_1.28.0+151+202607300916+git6ebab4c1-13trixie151_amd64.deb
+libefl-pro1_1.28.0+151+202607300916+git6ebab4c1-13trixie151_i386.deb
+libefl-pro1-dbgsym_1.28.0+151+202607300916+git6ebab4c1-13trixie151_amd64.deb
+libefl-pro1-dbgsym_1.28.0+151+202607300916+git6ebab4c1-13trixie151_i386.deb
+libefl-pro-data_1.28.0+151+202607300916+git6ebab4c1-13trixie151_all.deb
+libefl-pro-dev_1.28.0+151+202607300916+git6ebab4c1-13trixie151_amd64.deb
+libefl-pro-dev_1.28.0+151+202607300916+git6ebab4c1-13trixie151_i386.deb
+libefl-pro-doc_1.28.0+151+202607300916+git6ebab4c1-13trixie151_all.deb
