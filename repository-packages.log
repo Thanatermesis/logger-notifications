@@ -75824,3 +75824,15 @@ elive-tools_3.8.49+202607300725.gitcb02c5b1-12bookworm44_all.deb
 
 -------- Thu Jul 30 02:37:19 PM +07 2026 --------
 elive-tools_3.8.49+202607300725.gitcb02c5b1-13trixie45_all.deb
+
+
+
+-------- Thu Jul 30 02:43:15 PM +07 2026 --------
+libefl-pro1_1.28.0+151+202607300725+git6ebab4c1-13trixie151_amd64.deb
+libefl-pro1_1.28.0+151+202607300725+git6ebab4c1-13trixie151_i386.deb
+libefl-pro1-dbgsym_1.28.0+151+202607300725+git6ebab4c1-13trixie151_amd64.deb
+libefl-pro1-dbgsym_1.28.0+151+202607300725+git6ebab4c1-13trixie151_i386.deb
+libefl-pro-data_1.28.0+151+202607300725+git6ebab4c1-13trixie151_all.deb
+libefl-pro-dev_1.28.0+151+202607300725+git6ebab4c1-13trixie151_amd64.deb
+libefl-pro-dev_1.28.0+151+202607300725+git6ebab4c1-13trixie151_i386.deb
+libefl-pro-doc_1.28.0+151+202607300725+git6ebab4c1-13trixie151_all.deb
