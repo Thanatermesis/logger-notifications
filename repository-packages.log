@@ -75963,3 +75963,9 @@ eliveinstaller-6g_3.8.49+202607301231.gite69758a6-12bookworm34_i386.deb
 -------- Thu Jul 30 07:38:43 PM +07 2026 --------
 eliveinstaller-6g_3.8.49+202607301231.gite69758a6-13trixie36_amd64.deb
 eliveinstaller-6g_3.8.49+202607301231.gite69758a6-13trixie36_i386.deb
+
+
+
+-------- Sat Aug  1 11:02:05 AM +07 2026 --------
+elive-skel-default-all_3.8.49+202608010354.git0d5603ab-12bookworm17_all.deb
+elive-skel-retrowave-all_3.8.49+202608010354.git3d89bf0f-12bookworm18_all.deb
