@@ -75985,3 +75985,10 @@ elive-upgrader_202608010404+git97e474a8-12bookworm14_all.deb
 
 -------- Sat Aug  1 11:06:29 AM +07 2026 --------
 elive-upgrader_202608010404+git97e474a8-13trixie15_all.deb
+
+
+
+-------- Sat Aug  1 01:38:12 PM +07 2026 --------
+eliveinstaller-6g_3.8.49+202608010632.git65033c1a-12bookworm34_amd64.deb
+eliveinstaller-6g_3.8.49+202608010632.git65033c1a-12bookworm34_i386.deb
+elive-upgrader_202608010632+git51c424aa-12bookworm14_all.deb
