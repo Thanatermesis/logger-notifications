@@ -76055,3 +76055,23 @@ elive-upgrader_202608051931+git01fc8d9e-12bookworm14_all.deb
 
 -------- Thu Aug  6 02:34:43 AM +07 2026 --------
 elive-upgrader_202608051931+git01fc8d9e-13trixie15_all.deb
+
+
+
+-------- Thu Aug  6 06:32:35 PM +07 2026 --------
+libeinfo1_0.63.3-1_amd64.deb
+libeinfo1_0.63.3-1_i386.deb
+libeinfo1-dbgsym_0.63.3-1_amd64.deb
+libeinfo1-dbgsym_0.63.3-1_i386.deb
+libeinfo-dev_0.63.3-1_amd64.deb
+libeinfo-dev_0.63.3-1_i386.deb
+librc1t64_0.63.3-1_amd64.deb
+librc1t64_0.63.3-1_i386.deb
+librc1t64-dbgsym_0.63.3-1_amd64.deb
+librc1t64-dbgsym_0.63.3-1_i386.deb
+librc-dev_0.63.3-1_amd64.deb
+librc-dev_0.63.3-1_i386.deb
+openrc_0.63.3-1_amd64.deb
+openrc_0.63.3-1_i386.deb
+openrc-dbgsym_0.63.3-1_amd64.deb
+openrc-dbgsym_0.63.3-1_i386.deb
