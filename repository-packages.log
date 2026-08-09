@@ -76994,3 +76994,10 @@ elive-daemons_3.8.52+202608090807.git452eaf40-12bookworm12_all.deb
 eliveinstaller-6g_3.8.52+202608090807.git08f0beaa-12bookworm34_amd64.deb
 eliveinstaller-6g_3.8.52+202608090807.git08f0beaa-12bookworm34_i386.deb
 elive-tools_3.8.52+202608090807.gitf6fe4280-12bookworm44_all.deb
+
+
+
+-------- Sun Aug  9 03:20:04 PM +07 2026 --------
+elive-daemons_3.8.52+202608090807.git452eaf40-13trixie13_all.deb
+eliveinstaller-6g_3.8.52+202608090807.git08f0beaa-13trixie36_amd64.deb
+elive-tools_3.8.52+202608090807.gitf6fe4280-13trixie45_all.deb
