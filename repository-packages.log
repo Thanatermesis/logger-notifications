@@ -76986,3 +76986,11 @@ elive-upgrader_202608090707+git01fc2469-12bookworm16_all.deb
 
 -------- Sun Aug  9 02:12:51 PM +07 2026 --------
 elive-upgrader_202608090707+git01fc2469-13trixie17_all.deb
+
+
+
+-------- Sun Aug  9 03:14:54 PM +07 2026 --------
+elive-daemons_3.8.52+202608090807.git452eaf40-12bookworm12_all.deb
+eliveinstaller-6g_3.8.52+202608090807.git08f0beaa-12bookworm34_amd64.deb
+eliveinstaller-6g_3.8.52+202608090807.git08f0beaa-12bookworm34_i386.deb
+elive-tools_3.8.52+202608090807.gitf6fe4280-12bookworm44_all.deb
