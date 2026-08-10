@@ -77115,3 +77115,11 @@ eliveinstaller-6g_3.8.52+202608101134.git818803e2-12bookworm34_amd64.deb
 eliveinstaller-6g_3.8.52+202608101134.git818803e2-12bookworm34_i386.deb
 elive-tools_3.8.52+202608101134.gitf8c91854-12bookworm44_all.deb
 elive-upgrader_202608101134+gitef9019f0-12bookworm16_all.deb
+
+
+
+-------- Mon Aug 10 06:46:11 PM +07 2026 --------
+elive-daemons_202608101134+git452eaf40-13trixie13_all.deb
+eliveinstaller-6g_202608101134+git818803e2-13trixie36_amd64.deb
+elive-tools_202608101134+gitf8c91854-13trixie45_all.deb
+elive-upgrader_202608101134+gitef9019f0-13trixie17_all.deb
