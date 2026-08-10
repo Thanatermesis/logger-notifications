@@ -77176,3 +77176,45 @@ eliveinstaller-6g_3.8.52+202608101406.git88c98a82-13trixie36_i386.deb
 
 -------- Tue Aug 11 12:06:46 AM +07 2026 --------
 opera-stable_134.0.5954.46_amd64.deb
+
+
+
+-------- Tue Aug 11 12:20:38 AM +07 2026 --------
+at-spi2-core-notinstalled_100.100.1-13trixie39_amd64.deb
+at-spi2-core-notinstalled_100.100.1-13trixie39_i386.deb
+dolphin-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+dolphin-compat-notinstalled_100.100.1-13trixie39_i386.deb
+dropbox-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+dropbox-compat-notinstalled_100.100.1-13trixie39_i386.deb
+gnome-settings-daemon-common-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+gnome-settings-daemon-common-compat-notinstalled_100.100.1-13trixie39_i386.deb
+gnome-settings-daemon-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+gnome-settings-daemon-compat-notinstalled_100.100.1-13trixie39_i386.deb
+gnome-terminal-notinstalled_100.100.1-13trixie39_amd64.deb
+gnome-terminal-notinstalled_100.100.1-13trixie39_i386.deb
+konqueror-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+konqueror-compat-notinstalled_100.100.1-13trixie39_i386.deb
+libreoffice-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+libreoffice-compat-notinstalled_100.100.1-13trixie39_i386.deb
+linux-headers-generic_100.100.1-13trixie39_amd64.deb
+linux-headers-generic_100.100.1-13trixie39_i386.deb
+man-db-notinstalled_100.100.1-13trixie39_amd64.deb
+man-db-notinstalled_100.100.1-13trixie39_i386.deb
+nautilus-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+nautilus-compat-notinstalled_100.100.1-13trixie39_i386.deb
+neofetch-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+neofetch-compat-notinstalled_100.100.1-13trixie39_i386.deb
+pcmanfm-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+pcmanfm-compat-notinstalled_100.100.1-13trixie39_i386.deb
+pulseaudio-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+pulseaudio-compat-notinstalled_100.100.1-13trixie39_i386.deb
+steam-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+steam-compat-notinstalled_100.100.1-13trixie39_i386.deb
+systemd-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+systemd-compat-notinstalled_100.100.1-13trixie39_i386.deb
+wine-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+wine-compat-notinstalled_100.100.1-13trixie39_i386.deb
+xterm-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+xterm-compat-notinstalled_100.100.1-13trixie39_i386.deb
+zoom-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+zoom-compat-notinstalled_100.100.1-13trixie39_i386.deb
