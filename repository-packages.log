@@ -77383,3 +77383,8 @@ elive-gadget-clock_3.8.52+202608151029.gitc857ff21-13trixie4_i386.deb
 elive-gadget-clock-data_3.8.52+202608151029.gitc857ff21-13trixie4_all.deb
 elive-gadget-clock-dbgsym_3.8.52+202608151029.gitc857ff21-13trixie4_amd64.deb
 elive-gadget-clock-dbgsym_3.8.52+202608151029.gitc857ff21-13trixie4_i386.deb
+
+
+
+-------- Sat Aug 15 05:37:54 PM +07 2026 --------
+elive-upgrader_202608151036+git6fe1c670-12bookworm16_all.deb
