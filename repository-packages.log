@@ -77664,3 +77664,8 @@ systemd-compat-notinstalled_100.100.1-13trixie39_amd64.deb
 wine-compat-notinstalled_100.100.1-13trixie39_amd64.deb
 xterm-compat-notinstalled_100.100.1-13trixie39_amd64.deb
 zoom-compat-notinstalled_100.100.1-13trixie39_amd64.deb
+
+
+
+-------- Mon Aug 17 02:38:24 PM +07 2026 --------
+elive-upgrader_202608170736+git1c6301a9-12bookworm17_all.deb
