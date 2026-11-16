@@ -79259,3 +79259,21 @@ elive-upgrader_202611151746+gitd7b09a70-13trixie18_all.deb
 evidence_0.9.6-pre4_amd64.deb
 evidence-data_0.9.6-pre4_all.deb
 evidence-dbgsym_0.9.6-pre4_amd64.deb
+
+
+
+-------- Mon Nov 16 02:30:00 PM +07 2026 --------
+eliveinstaller-6g_3.8.52+202611160617.git6d2f5ff2-13trixie37_amd64.deb
+eliveinstaller-6g_3.8.52+202611160617.git6d2f5ff2-13trixie37_i386.deb
+enlightenment-pro_0.28.0+202611160522.git50555808-13trixie70_amd64.deb
+enlightenment-pro_0.28.0+202611160522.git50555808-13trixie70_i386.deb
+enlightenment-pro-data_0.28.0+202611160522.git50555808-13trixie70_all.deb
+enlightenment-pro-dbgsym_0.28.0+202611160522.git50555808-13trixie70_amd64.deb
+enlightenment-pro-dbgsym_0.28.0+202611160522.git50555808-13trixie70_i386.deb
+enlightenment-pro-dev_0.28.0+202611160522.git50555808-13trixie70_amd64.deb
+enlightenment-pro-dev_0.28.0+202611160522.git50555808-13trixie70_i386.deb
+evidence_10.4.2+202611160723.git66262fae-13trixie2_amd64.deb
+evidence_10.4.2+202611160723.git66262fae-13trixie2_i386.deb
+evidence-data_10.4.2+202611160723.git66262fae-13trixie2_all.deb
+evidence-dbgsym_10.4.2+202611160723.git66262fae-13trixie2_amd64.deb
+evidence-dbgsym_10.4.2+202611160723.git66262fae-13trixie2_i386.deb
