@@ -79247,3 +79247,15 @@ elive-tools_3.8.52+202611150630.git66e8b3ee-13trixie45_all.deb
 -------- Mon Nov 16 12:23:18 AM +07 2026 --------
 elive-skel-default-all_3.8.52+202611151717.git84a77896-13trixie18_all.deb
 elive-skel-retrowave-all_3.8.52+202611151717.git6ea1d6e1-13trixie19_all.deb
+
+
+
+-------- Mon Nov 16 11:46:08 AM +07 2026 --------
+elive-desktop-applications_3.8.52+202611160326.git5ca9b4b3-13trixie9_all.deb
+elive-menus_3.8.52+202611160326.git3467f5de-13trixie12_all.deb
+elive-news_3.8.52+202611151733.git0b2e3867-13trixie10_all.deb
+elive-tools_3.8.52+202611160439.git8238d873-13trixie45_all.deb
+elive-upgrader_202611151746+gitd7b09a70-13trixie18_all.deb
+evidence_0.9.6-pre4_amd64.deb
+evidence-data_0.9.6-pre4_all.deb
+evidence-dbgsym_0.9.6-pre4_amd64.deb
