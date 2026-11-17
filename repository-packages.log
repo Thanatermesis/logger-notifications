@@ -79287,3 +79287,12 @@ evidence-data_10.4.2+202611160954.gitbaeaa3e2-13trixie2_all.deb
 evidence-dbgsym_10.4.2+202611160954.gitbaeaa3e2-13trixie2_amd64.deb
 evidence-dbgsym_10.4.2+202611160954.gitbaeaa3e2-13trixie2_i386.deb
 thunar-image-resizer_3.8.52+202611160958.git4b0432cc-13trixie9_all.deb
+
+
+
+-------- Tue Nov 17 01:33:19 PM +07 2026 --------
+elive-desktop-applications_3.8.52+202611161037.git80940e16-13trixie9_all.deb
+elsurf_2.2+git202611170630-13trixie3_amd64.deb
+elsurf_2.2+git202611170630-13trixie3_i386.deb
+elsurf-dbgsym_2.2+git202611170630-13trixie3_amd64.deb
+elsurf-dbgsym_2.2+git202611170630-13trixie3_i386.deb
