@@ -79296,3 +79296,23 @@ elsurf_2.2+git202611170630-13trixie3_amd64.deb
 elsurf_2.2+git202611170630-13trixie3_i386.deb
 elsurf-dbgsym_2.2+git202611170630-13trixie3_amd64.deb
 elsurf-dbgsym_2.2+git202611170630-13trixie3_i386.deb
+
+
+
+-------- Tue Nov 17 08:15:06 PM +07 2026 --------
+deliver_3.8.52+202611171304.git68eeb186-13trixie22_all.deb
+elive-daemons_3.8.52+202611171304.git04768bac-13trixie13_all.deb
+eliveinstaller-6g_3.8.52+202611171304.git6d2f5ff2-13trixie37_amd64.deb
+eliveinstaller-6g_3.8.52+202611171304.git6d2f5ff2-13trixie37_i386.deb
+elive-sounds_3.8.52+202611171304.git3c9e8620-13trixie10_all.deb
+elive-tools_3.8.52+202611171304.git3d39993e-13trixie45_all.deb
+elsurf_2.2+git202611171232-13trixie3_amd64.deb
+elsurf_2.2+git202611171232-13trixie3_i386.deb
+elsurf-dbgsym_2.2+git202611171232-13trixie3_amd64.deb
+elsurf-dbgsym_2.2+git202611171232-13trixie3_i386.deb
+evidence_10.4.2+202611171301.gita2a307c7-13trixie5_amd64.deb
+evidence_10.4.2+202611171301.gita2a307c7-13trixie5_i386.deb
+evidence-data_10.4.2+202611171301.gita2a307c7-13trixie5_all.deb
+evidence-dbgsym_10.4.2+202611171301.gita2a307c7-13trixie5_amd64.deb
+evidence-dbgsym_10.4.2+202611171301.gita2a307c7-13trixie5_i386.deb
+hebernate_3.8.52+202611171304.gitaa2fa2c1-13trixie12_all.deb
