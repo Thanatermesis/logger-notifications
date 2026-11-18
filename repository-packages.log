@@ -79340,3 +79340,16 @@ elive-skel-retrowave-e16_3.8.52+202611171642.gitc7332d75-13trixie9_all.deb
 elive-desktop-applications_3.8.52+202611180437.gitbc2c4f6f-13trixie9_all.deb
 eliveinstaller-6g_3.8.52+202611180413.git2e77042a-13trixie37_amd64.deb
 eliveinstaller-6g_3.8.52+202611180413.git2e77042a-13trixie37_i386.deb
+
+
+
+-------- Wed Nov 18 01:18:43 PM +07 2026 --------
+deliver_3.8.60+202611180616.gitf6edef49-13trixie22_all.deb
+elive-tools_3.8.60+202611180614.gitd8eba2d0-13trixie45_all.deb
+enlightenment-pro_0.28.0+202611180558.git405156a8-13trixie70_amd64.deb
+enlightenment-pro_0.28.0+202611180558.git405156a8-13trixie70_i386.deb
+enlightenment-pro-data_0.28.0+202611180558.git405156a8-13trixie70_all.deb
+enlightenment-pro-dbgsym_0.28.0+202611180558.git405156a8-13trixie70_amd64.deb
+enlightenment-pro-dbgsym_0.28.0+202611180558.git405156a8-13trixie70_i386.deb
+enlightenment-pro-dev_0.28.0+202611180558.git405156a8-13trixie70_amd64.deb
+enlightenment-pro-dev_0.28.0+202611180558.git405156a8-13trixie70_i386.deb
