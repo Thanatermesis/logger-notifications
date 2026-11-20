@@ -79409,3 +79409,15 @@ elive-upgrader_202611200634+gitd93c0b3f-13trixie18_all.deb
 elive-desktop-applications_3.8.52+202611200659.git250851cd-13trixie9_all.deb
 elive-skel-default-all_3.8.52+202611200700.gite2f800a9-13trixie18_all.deb
 elive-skel-retrowave-all_3.8.52+202611200700.git40b278ae-13trixie19_all.deb
+
+
+
+-------- Fri Nov 20 02:46:23 PM +07 2026 --------
+e16_1.0.32+202611200717.git5ef0bf5e-13trixie92_amd64.deb
+e16_1.0.32+202611200717.git5ef0bf5e-13trixie92_i386.deb
+e16-data_1.0.32+202611200717.git5ef0bf5e-13trixie92_amd64.deb
+e16-data_1.0.32+202611200717.git5ef0bf5e-13trixie92_i386.deb
+e16-dbg_1.0.32+202611200717.git5ef0bf5e-13trixie92_amd64.deb
+e16-dbg_1.0.32+202611200717.git5ef0bf5e-13trixie92_i386.deb
+elive-news_3.8.60+202611200744.gitd58a25e3-13trixie10_all.deb
+elive-upgrader_202611200744+gitd93c0b3f-13trixie18_all.deb
