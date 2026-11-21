@@ -79421,3 +79421,9 @@ e16-dbg_1.0.32+202611200717.git5ef0bf5e-13trixie92_amd64.deb
 e16-dbg_1.0.32+202611200717.git5ef0bf5e-13trixie92_i386.deb
 elive-news_3.8.60+202611200744.gitd58a25e3-13trixie10_all.deb
 elive-upgrader_202611200744+gitd93c0b3f-13trixie18_all.deb
+
+
+
+-------- Sat Nov 21 01:26:08 PM +07 2026 --------
+elive-news_3.8.52+202611210624.gitd58a25e3-12bookworm9_all.deb
+elive-upgrader_202611210624+giteff6f196-12bookworm17_all.deb
