@@ -79750,3 +79750,39 @@ elaro-dbgsym_3.8.52+202611280441.gitb7e2e9e4-13trixie1_i386.deb
 
 -------- Sat Nov 28 01:32:36 PM +07 2026 --------
 elive-tools_3.8.52+202611280630.git5ab668a3-13trixie45_all.deb
+
+
+
+-------- Sat Nov 28 03:33:21 PM +07 2026 --------
+bash_5.2.37-2+b11_amd64.deb
+bash_5.2.37-2+b11_i386.deb
+browser-homepages-default_3.8.52+202611280816.gitf22e48ef-13trixie3_all.deb
+browser-homepages-retrowave_3.8.52+202611280816.git62ef11d9-13trixie4_all.deb
+eliveinstaller-6g_3.8.52+202611280821.git35157b92-13trixie38_amd64.deb
+eliveinstaller-6g_3.8.52+202611280821.git35157b92-13trixie38_i386.deb
+elive-upgrader_202611280817+git02ba465c-13trixie18_all.deb
+entice_3.8.52+202611280829.gita438470b-13trixie11_amd64.deb
+entice_3.8.52+202611280829.gita438470b-13trixie11_i386.deb
+entice-data_3.8.52+202611280829.gita438470b-13trixie11_all.deb
+entice-dbgsym_3.8.52+202611280829.gita438470b-13trixie11_amd64.deb
+entice-dbgsym_3.8.52+202611280829.gita438470b-13trixie11_i386.deb
+libeinfo1_0.64.1-3_amd64.deb
+libeinfo1_0.64.1-3_i386.deb
+libeinfo1-dbgsym_0.64.1-3_amd64.deb
+libeinfo1-dbgsym_0.64.1-3_i386.deb
+libeinfo-dev_0.64.1-3_amd64.deb
+libeinfo-dev_0.64.1-3_i386.deb
+librc1t64_0.64.1-3_amd64.deb
+librc1t64_0.64.1-3_i386.deb
+librc1t64-dbgsym_0.64.1-3_amd64.deb
+librc1t64-dbgsym_0.64.1-3_i386.deb
+librc-dev_0.64.1-3_amd64.deb
+librc-dev_0.64.1-3_i386.deb
+luv-icon-theme_3.8.52+202611280830.git73f9877c-13trixie5_amd64.deb
+luv-icon-theme_3.8.52+202611280830.git73f9877c-13trixie5_i386.deb
+openrc_0.64.1-3_amd64.deb
+openrc_0.64.1-3_i386.deb
+openrc-dbgsym_0.64.1-3_amd64.deb
+openrc-dbgsym_0.64.1-3_i386.deb
+openrc-dbus-user-session_0.64.1-3_all.deb
+openrc-init_0.64.1-3_all.deb
